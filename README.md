@@ -4,13 +4,15 @@
 
 # Resources
 
-**Project Document Summary:**
+**Project Documents:**
 
 - [Group Project  > Overview](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/group-project.html)
 - [Group Project  > Requirements](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pg-requirements.html)
 - [Group Project  > Milestone 1](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pgm1.html)
 - [Group Project  > Milestone 2](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pgm2.html)
 - [Group Project  > Final Deliverable](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pgfin.html)
+
+**Client Resources:**
 
 - [Group Project  > Client Hosting](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/client-hosting-info.html)
 - [Group Project  > Client Project Info](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/client-project-info.html)
