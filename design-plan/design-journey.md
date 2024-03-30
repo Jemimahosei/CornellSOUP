@@ -19,7 +19,9 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
+Our client is a Cornell's Students for Outdoor Unsupervised Playtime, a student-run organization supporting the pursuit of outdoor adventure and fun in Ithaca. The organization organizes outdoor events open to all Cornell students, a couple including a Field Day and an annual 24-hour Capture the Flag games.
+
+Our client meets the client rules in that it is an on-Campus organization seeking, but currently lacking, an online presence via a website! Our client is also open and willing to participate in any meetings necessary for the successful completion of the site, and is willing to point us in the direction of the site's audience so that we can conduct user interviews.
 
 
 ### Client Questionnaire (Milestone 1)
@@ -101,7 +103,17 @@ TODO: explain how your proposed website is the right "size" for this project: no
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+- Meet after Spring Break (between April 8/9) to create user interview questions and identify one audience member interview each
+- Each group member should conduct their interview and add notes to the design journey by April 12
+- Meet on April 13/14 to complete "Goals" and "Audience" section of design journey; split up Website Design explorations to do individually before next meeting
+- Meet on April 15/16 to plan and organize content together and plan a visual theme (fill out "Content Planning", "Content Architecture", "Visual Theme", and "Interactivity Brainstorm" in design-journey)
+- On our own, each contribute to "Interactivity Brainstorm" and "Layout Exploration" in design-journey before next meeting
+- Meet April 18/19 to complete "Final Design"; split up "Design Rationale", "Interactivity Rationale" and "Interactivity Plan" sections amongst members to complete during/after the meeting; SEND DESIGN TO CLIENT ONCE FINISHED
+- Based on client response, make any neccesary changes to the design plan
+- By Tues April 23, have a DRAFT OF EACH PAGE COMPLETE (each member completes one page?)
+- Submit Milestone 2 on Wed April 24
+- Plan + complete User Testing of site by April 27
+- Make necessary edits and submit final website + design journey on May 1
 
 
 ## Understanding Users (Milestone 2)
