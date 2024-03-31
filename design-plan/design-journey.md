@@ -19,7 +19,11 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO: who is your client?
+Our client is Cornell SOUP (students for outdoor unsupervised playtime), which is an unofficial campus club.  They are unofficial because they put on events that Cornell might not fully approve of in terms of safety (e.g. 24 hour capture the flag in the woods).
+
+SOUP was founded in 2021 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through outdoor adventures.  They want to have a website that showcases their mission, past events, as well as any upcoming events.
+
+SOUP leaders don't want a big site.  They don't need any information displayed besides the three categories mentioned above.
 
 
 ### Client Questionnaire (Milestone 1)
@@ -28,41 +32,61 @@ TODO: who is your client?
 
 1. Describe your organization and its purpose.
 
-    TODO: take notes of your client's response
 
 2. What makes your organization and its services special or unique?
 
-    TODO: take notes of your client's response
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO: take notes of your client's response
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-    TODO: take notes of your client's response
 
-5. When visiting your site, what actions do you want your visitors to take?
+5. What are your goals for this site?
 
-    TODO: take notes of your client's response
 
-6. What are your goals for this site?
+6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO: take notes of your client's response
 
-7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+7. (Modified due to the answer to question 4): What past experiences have led you to believe that a website would be a good addition to your organization?
 
-    TODO: take notes of your client's response
-
-8. What are your three favorite competitors or similar organizations' websites? Why?
-
-    TODO: take notes of your client's response
+8. Do you have any images and/or written content already that you'd like us to incorporate?
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+1. Please describe your organization and its purpose/mission.
+
+- Started SOUP because outing club, cornell outdoor education, etc. were lacking in more extreme adventures because they're officially linked to Cornell and liability is a limiting factor
+- Wanted to make a new organization for Cornell students that wasn't beholden to the same rules as other, more official organizations
+- The goal of SOUP (Students for Outdoor Unsupervized Playtime) is to allow students who are a little bit crazy to do crazy things with other students who are a little bit crazy
+- Past events include 24-hour capture the flag and a campus-wide game of manhunt, among other things
+- Mission is to help connect students who want to participate in the crazier side of outdoor activities
+- Concerned about liability/not seeming to be too connected to Cornell
+- Started in 2020 because original founders wanted to play a 24-hour game of capture the flag, then SOUP was founded after that because it turned out to be so fun and people seemed to want more of that type of thing
+
+
+1. What makes your organization and its services special or unique?
+
+- 450+ members now
+- all recruitment has been word of mouth
+-
+
+
+3. Why are you looking for a new website or updating your existing site?
+
+
+4. Who do you want to visit your site? Who do you believe is your website's intended audience?
+
+
+5. What are your goals for this site?
+
+
+6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+
+
+7. (Modified due to the answer to question 4): What past experiences have led you to believe that a website would be a good addition to your organization?
 
 
 ### Client Website (Milestone 1)

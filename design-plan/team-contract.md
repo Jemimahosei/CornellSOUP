@@ -8,49 +8,16 @@ Working together as a team is critical for your success on this project. Conflic
 
 Your team contract should probably include these elements. Feel free to remove or add other terms, too.
 
-1. To what goals do we all commit?
+1. We will text each other before making any new Git commits in order to help with collaboration and prevent merge conflicts.
+2. We will collaborate to finish each milestone at least 2 hours before the deadline.
+3. Robyn will do the submission form every time.
+4. We will review each other’s work before submitting each milestone.
+5. We will meet to evenly distribute work for each milestone before starting to work on it.
+6. We will use our group chat as a primary means of communication and schedule zoom/in person meetings as necessary.
+7. We will notify each other as soon as possible if a conflict for our meeting time comes up or if one of us feels that they are unable to do their work on time.
+8. We will meet with our client before spring break ends.
+9. We will all put forth our best effort and ask for help when needed/wanted.
 
-    TODO: discuss and document here
-
-2. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
-
-    **Tip:** Interrupting another person can make them feel like their option isn't valued. Consider a rule about interrupting.
-
-    TODO: discuss and document here
-
-3. By what means and how frequently will we meet or communicate?
-
-    TODO: discuss and document here
-
-4. How will we communicate and work with our client?
-
-    TODO: discuss and document here
-
-5. What roles will we create? Include a description of exactly what each role is responsible for. (**No "coder" or "designer" roles are permitted;** everyone must design and code.)
-
-    **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
-
-    TODO: discuss and document here
-
-6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
-
-    TODO: discuss and document here
-
-7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
-
-    TODO: discuss and document here
-
-8. What are our procedures for re-visiting this contract?
-
-    TODO: discuss and document here
-
-9. What else do we want to include in this contract? Maybe you team needs a _fun_ clause...
-
-    **Tip:** Not everything in life is about work. Sometimes it is important to celebrate too. Consider grabbing a coffee or ice cream at the completion of your project to celebrate!
-
-    TODO: discuss and document here
-
-TODO: what else belongs in your team's contract?
 
 ## Using your Contract
 
