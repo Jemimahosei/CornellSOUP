@@ -19,11 +19,17 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
+<<<<<<< HEAD
 Our client is Cornell SOUP (students for outdoor unsupervised playtime), which is an unofficial campus club.  They are unofficial because they put on events that Cornell might not fully approve of in terms of safety (e.g. 24 hour capture the flag in the woods).
 
 SOUP was founded in 2021 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through outdoor adventures.  They want to have a website that showcases their mission, past events, as well as any upcoming events.
 
 SOUP leaders don't want a big site.  They don't need any information displayed besides the three categories mentioned above.
+=======
+Our client is a Cornell's Students for Outdoor Unsupervised Playtime, a student-run organization supporting the pursuit of outdoor adventure and fun in Ithaca. The organization organizes outdoor events open to all Cornell students, a couple including a Field Day and an annual 24-hour Capture the Flag games.
+
+Our client meets the client rules in that it is an on-Campus organization seeking, but currently lacking, an online presence via a website! Our client is also open and willing to participate in any meetings necessary for the successful completion of the site, and is willing to point us in the direction of the site's audience so that we can conduct user interviews.
+>>>>>>> a5a2b1ae99e2f9f75669673730b1dd7cca8a64c5
 
 
 ### Client Questionnaire (Milestone 1)
@@ -67,27 +73,51 @@ SOUP leaders don't want a big site.  They don't need any information displayed b
 - Started in 2020 because original founders wanted to play a 24-hour game of capture the flag, then SOUP was founded after that because it turned out to be so fun and people seemed to want more of that type of thing
 
 
-1. What makes your organization and its services special or unique?
+2. What makes your organization and its services special or unique?
 
 - 450+ members now
 - all recruitment has been word of mouth
--
-
+- not affiliated with Cornell officially, so not liable and constrained like other orgs are
+- the entire organization has gained its following through word of mouth and no official recruitment events or outreach
+- most events are held annually (for the last 4 years)
+- values of the organization: playfulness, freedom, connection
 
 3. Why are you looking for a new website or updating your existing site?
 
+- currently there is no website
+- lots of people have asked if there is a website
+- currently, there's only an Instagram account (@cornell__soup)
+- a website would be good for people who don't have instagram
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
+- Want people who are interested in participating in SOUP events to visit the site
+- Also people who have participated in the past and might want to see photos of the past events
+- Intended audience: people who are interested in participating in a SOUP event and/or have already participated int one
 
 5. What are your goals for this site?
 
+- Showcase previous events through photos and descriptions
+- Advertise upcoming events
+- Give some context and history around the existence of SOUP
+- Let newcommers learn about SOUP and what it has to offer
 
 6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
+- logo is shades of orange and red, with notes of white and black
+- definitely include the logo in the site
+- lots of room for photos (maybe an image carousel)
+- include the colors in the logo
+- shouldn't be too crowded, want it to feel a bit loose and airy and playful
+- should embody the values of the organization: playfulness, freedom, connection
 
 7. (Modified due to the answer to question 4): What past experiences have led you to believe that a website would be a good addition to your organization?
 
+- people have often asked before if SOUP has a website
+- it would help people who don't have Instagram or GroupMe find out information about upcoming events
+- central hub for all SOUP-related information
+- would allow for more content than Instagram does (more text and photos)
+- some people have heard about SOUP but then couldn't find anything online about it because there is no website and it's not an official Cornell club, so it's not listed on any Cornell site.  A website could help people who have just about it through word of mouth find it online when they search for it, if they weren't added to the GroupMe when they heard about it.
 
 ### Client Website (Milestone 1)
 > Tell us about the website that your client wants.
@@ -95,8 +125,7 @@ SOUP leaders don't want a big site.  They don't need any information displayed b
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site significantly that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
-
+The leaders of SOUP want a 
 
 ### Client Goals (Milestone 1)
 > Identify your client's goals for the website.
@@ -125,7 +154,17 @@ TODO: explain how your proposed website is the right "size" for this project: no
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+- Meet after Spring Break (between April 8/9) to create user interview questions and identify one audience member interview each
+- Each group member should conduct their interview and add notes to the design journey by April 12
+- Meet on April 13/14 to complete "Goals" and "Audience" section of design journey; split up Website Design explorations to do individually before next meeting
+- Meet on April 15/16 to plan and organize content together and plan a visual theme (fill out "Content Planning", "Content Architecture", "Visual Theme", and "Interactivity Brainstorm" in design-journey)
+- On our own, each contribute to "Interactivity Brainstorm" and "Layout Exploration" in design-journey before next meeting
+- Meet April 18/19 to complete "Final Design"; split up "Design Rationale", "Interactivity Rationale" and "Interactivity Plan" sections amongst members to complete during/after the meeting; SEND DESIGN TO CLIENT ONCE FINISHED
+- Based on client response, make any neccesary changes to the design plan
+- By Tues April 23, have a DRAFT OF EACH PAGE COMPLETE (each member completes one page?)
+- Submit Milestone 2 on Wed April 24
+- Plan + complete User Testing of site by April 27
+- Make necessary edits and submit final website + design journey on May 1
 
 
 ## Understanding Users (Milestone 2)
