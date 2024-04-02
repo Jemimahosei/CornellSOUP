@@ -125,17 +125,18 @@ Our client meets the client rules in that it is an on-Campus organization seekin
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site significantly that meets the project's requirements.
 
-The leaders of SOUP want a 
+The leaders of SOUP want a website that introduces their organization in a casual, playful way. The principal purpose of the site is to expand the reach of the SOUP by showcasing events hosted by organization as well as other general information. Given that SOUP is not officially affiliated with Cornell and, thus, not listed on any Cornell websites, the client seeks to use this site to advertise their organization. The site will embody the values of SOUP, hosting content in a fun, informal way.
+
 
 ### Client Goals (Milestone 1)
 > Identify your client's goals for the website.
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
+- Goal 1: to be a hub of information for SOUP members and potential newcomers (including information about upcoming events, contact information of the organizations leaders, etc.)
+- Goal 2: to showcase past events hosted by SOUP as a way to attract new interested members through the site
+- Goal 3:
+
 
 
 ### Client Website Scope (Milestone 1)
