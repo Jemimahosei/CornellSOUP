@@ -19,18 +19,11 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-<<<<<<< HEAD
 Our client is Cornell SOUP (students for outdoor unsupervised playtime), which is an unofficial campus club.  They are unofficial because they put on events that Cornell might not fully approve of in terms of safety (e.g. 24 hour capture the flag in the woods), though they do take safety very seriously and do their best to ensure the health of all SOUP activity participants.  For example, they have dedicated medics for each event and they ensure a means of communication with the outside world, even if the event takes place in a remote area.
 
 SOUP was founded in 2021 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through "crazy" outdoor adventures.  They want to have a website that showcases their mission, the past events that they're put on, and their upcoming events.
 
 SOUP leaders don't want a big site.  They just want something slightly more official and accessible than Intsagram and GroupMe to use to connect with their members and prospective participants.  They don't require a site reliant on advanced web design practices, so we are confident that we will be able to build a website that will be satisfactory.
-=======
-Our client is a Cornell's Students for Outdoor Unsupervised Playtime, a student-run organization supporting the pursuit of outdoor adventure and fun in Ithaca. The organization organizes outdoor events open to all Cornell students, a couple including a Field Day and an annual 24-hour Capture the Flag games.
-
-Our client meets the client rules in that it is an on-Campus organization seeking, but currently lacking, an online presence via a website! Our client is also open and willing to participate in any meetings necessary for the successful completion of the site, and is willing to point us in the direction of the site's audience so that we can conduct user interviews.
->>>>>>> a5a2b1ae99e2f9f75669673730b1dd7cca8a64c5
-
 
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
@@ -103,7 +96,7 @@ Our client meets the client rules in that it is an on-Campus organization seekin
 - let newcommers learn about SOUP and what it has to offer
 - help people pitch their own events for SOUP to put on
 
-1. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
 - logo is shades of orange and red, with notes of white and black
 - definitely include the logo in the site
@@ -119,6 +112,10 @@ Our client meets the client rules in that it is an on-Campus organization seekin
 - central hub for all SOUP-related information
 - would allow for more content than Instagram does (more text and photos)
 - some people have heard about SOUP but then couldn't find anything online about it because there is no website and it's not an official Cornell club, so it's not listed on any Cornell site.  A website could help people who have just about it through word of mouth find it online when they search for it, if they weren't added to the GroupMe when they heard about it.
+
+8. Do you have any images and/or written content already that you'd like us to incorporate?
+
+Yes, they will share it with us later.
 
 ### Client Website (Milestone 1)
 > Tell us about the website that your client wants.
