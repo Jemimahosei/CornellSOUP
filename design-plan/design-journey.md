@@ -20,11 +20,11 @@ Place all design journey images inside the "design-plan" folder and then link th
 > Explain why your client meets the client rules in the project requirements.
 
 <<<<<<< HEAD
-Our client is Cornell SOUP (students for outdoor unsupervised playtime), which is an unofficial campus club.  They are unofficial because they put on events that Cornell might not fully approve of in terms of safety (e.g. 24 hour capture the flag in the woods).
+Our client is Cornell SOUP (students for outdoor unsupervised playtime), which is an unofficial campus club.  They are unofficial because they put on events that Cornell might not fully approve of in terms of safety (e.g. 24 hour capture the flag in the woods), though they do take safety very seriously and do their best to ensure the health of all SOUP activity participants.  For example, they have dedicated medics for each event and they ensure a means of communication with the outside world, even if the event takes place in a remote area.
 
-SOUP was founded in 2021 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through outdoor adventures.  They want to have a website that showcases their mission, past events, as well as any upcoming events.
+SOUP was founded in 2021 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through "crazy" outdoor adventures.  They want to have a website that showcases their mission, the past events that they're put on, and their upcoming events.
 
-SOUP leaders don't want a big site.  They don't need any information displayed besides the three categories mentioned above.
+SOUP leaders don't want a big site.  They just want something slightly more official and accessible than Intsagram and GroupMe to use to connect with their members and prospective participants.  They don't require a site reliant on advanced web design practices, so we are confident that we will be able to build a website that will be satisfactory.
 =======
 Our client is a Cornell's Students for Outdoor Unsupervised Playtime, a student-run organization supporting the pursuit of outdoor adventure and fun in Ithaca. The organization organizes outdoor events open to all Cornell students, a couple including a Field Day and an annual 24-hour Capture the Flag games.
 
@@ -64,13 +64,13 @@ Our client meets the client rules in that it is an on-Campus organization seekin
 
 1. Please describe your organization and its purpose/mission.
 
-- Started SOUP because outing club, cornell outdoor education, etc. were lacking in more extreme adventures because they're officially linked to Cornell and liability is a limiting factor
-- Wanted to make a new organization for Cornell students that wasn't beholden to the same rules as other, more official organizations
-- The goal of SOUP (Students for Outdoor Unsupervized Playtime) is to allow students who are a little bit crazy to do crazy things with other students who are a little bit crazy
-- Past events include 24-hour capture the flag and a campus-wide game of manhunt, among other things
-- Mission is to help connect students who want to participate in the crazier side of outdoor activities
-- Concerned about liability/not seeming to be too connected to Cornell
-- Started in 2020 because original founders wanted to play a 24-hour game of capture the flag, then SOUP was founded after that because it turned out to be so fun and people seemed to want more of that type of thing
+- started SOUP because outing club, cornell outdoor education, etc. were lacking in more extreme adventures because they're officially linked to Cornell and liability is a limiting factor
+- wanted to make a new organization for Cornell students that wasn't beholden to the same rules as other, more official organizations
+- the goal of SOUP (Students for Outdoor Unsupervized Playtime) is to allow students who are a little bit crazy to do crazy things with other students who are a little bit crazy
+- past events include 24-hour capture the flag and a campus-wide game of manhunt, among other things
+- mission is to help connect students who want to participate in the crazier side of outdoor activities
+- concerned about liability/not seeming to be too connected to Cornell
+- started in 2020 because original founders wanted to play a 24-hour game of capture the flag, then SOUP was founded after that because it turned out to be so fun and people seemed to want more of that type of thing
 
 
 2. What makes your organization and its services special or unique?
@@ -91,18 +91,19 @@ Our client meets the client rules in that it is an on-Campus organization seekin
 
 4. Who do you want to visit your site? Who do you believe is your website's intended audience?
 
-- Want people who are interested in participating in SOUP events to visit the site
-- Also people who have participated in the past and might want to see photos of the past events
-- Intended audience: people who are interested in participating in a SOUP event and/or have already participated int one
+- want people who are interested in participating in SOUP events to visit the site
+- also people who have participated in the past and might want to see photos of the past events
+- intended audience: people who are interested in participating in a SOUP event and/or have already participated int one
 
 5. What are your goals for this site?
 
-- Showcase previous events through photos and descriptions
-- Advertise upcoming events
-- Give some context and history around the existence of SOUP
-- Let newcommers learn about SOUP and what it has to offer
+- showcase previous events through photos and descriptions
+- advertise upcoming events
+- give some context and history around the existence of SOUP
+- let newcommers learn about SOUP and what it has to offer
+- help people pitch their own events for SOUP to put on
 
-6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+1. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
 - logo is shades of orange and red, with notes of white and black
 - definitely include the logo in the site
@@ -125,18 +126,17 @@ Our client meets the client rules in that it is an on-Campus organization seekin
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site significantly that meets the project's requirements.
 
-The leaders of SOUP want a 
+The leaders of SOUP want a website that showcases their past successful events.  They also want to provide information about upcoming events.  Also, they want to have a lot of photos on the website.  They want it to look somewhat professional without being too polished and clean.  They want it to have an outdoorsy, whimsical vibe.  It will replace the GroupMe QR code on all future signs/flyers, so people will be directed to the site.  People who scan these flyers are interested in the specific event that it's advertising, but they might not already know about SOUP, so imagine the website as a landing page for people who might not know what SOUP is but are interested in potentially participating.  Lastly, they want to have information on how to join SOUP leadership and/or pitch ideas for events.  There is no official leadership, it's really just whoever want to put on an event is able to, so they want to have a place on the website where you can pitch events.
 
 ### Client Goals (Milestone 1)
 > Identify your client's goals for the website.
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
-- ...
-
+- Goal #1: Showcase their previous events through images and text.
+- Goal #2: Advertise upcoming events and provide details about them.
+- Goal #3: Provide information about what SOUP is, its mission, and its backstory.
+- Goal #4: Guide people on how to pitch their own SOUP events.
 
 ### Client Website Scope (Milestone 1)
 > We want your project to be successful! It needs to be ambitious, but not too large.
@@ -144,8 +144,7 @@ The leaders of SOUP want a
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
-
+There are four main goals for the site, which is perfect because there are four of us in the group.  Besides having lots of photos, SOUP leadership doesn't want the site to be too big or cumbersome, and they said that ideally it would be 5 pags maximum.  They also don't want anything too fancy, which is good for us because we will certainly learn enough in this class to address their needs.  The people in charge of SOUP are other students, so it's easy to stay in touch with them and having meetings on campus.
 
 ## Plan/Schedule (Milestone 1)
 > Make a plan of when you will complete all parts of this assignment.
