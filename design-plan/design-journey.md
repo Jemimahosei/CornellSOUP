@@ -75,7 +75,7 @@ SOUP leaders don't want a big site.  They just want something slightly more offi
 - most events are held annually (for the last 4 years)
 - values of the organization: playfulness, freedom, connection
 
-3. Why are you looking for a new website or updating your existing site?
+1. Why are you looking for a new website or updating your existing site?
 
 - currently there is no website
 - lots of people have asked if there is a website
@@ -174,11 +174,11 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for SOUP (Students for Outdoor Unsupervised Playtime). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. Are you already familiar with SOUP?  If so, how did you hear about them?
 
 3. TODO: add your own question
 
@@ -265,38 +265,63 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://scl.cornell.edu/coe>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![narrow version of the COE website](design-plan/coe_narrow.jpg)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![wide version of the COE website](design-plan/coe_wide.jpg)
 
-2. <TODO: website url>
+2. <https://cornelloutingclub.org/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![narrow version of the outing club website](design-plan/outing_club_narrow.jpg)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![wide version of the outing club website](design-plan/outing_club_wide.jpg)
 
-3. <TODO: website url>
+3. <https://www.nols.edu/en/#>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![narrow version of the NOLS website](design-plan/nols_narrow.jpg)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![wide version of the NOLS website](design-plan/nols_wide.jpg)
 
 
 ### Example Website 1 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+Here is what the website does effectively regarding layout, interactivity, and responsiveness:
+
+- When the site is narrow the nav menu becomes a hamburger menu and when the site is wide the nav menu is easy to find at the top of the page below the header.  Both of these are traditional, familiar design patterns.
+- The image carousel at the top of the page adds a nice level of interactivity that allows users to scroll through the images in a familiar way.  The carousel is present in the narrow version of the site as well, but without the menu and extra text overlapping with it.
+- The 3-column grid layout of links and photos in the wide layout becomes a 2-column grid in the medium layout, and then becomes a single column of content in the mobile site.  This is helpful because it allows the content to still take prominence in the narrow layout, even though the window width is smaller.
+- The site has links to other pages in multiple places instead of just in the nav bar.  This is helpful because it allows users to see an image or read a short description of something and then choose to read more, only if they choose to click on it.  This would likely not be useful on the site we're building for SOUP because it seems more suitable for a large site with lots and lots of pages.
+
+Here is what the site does poorly:
+
+- In the narrow version, it is confusing to have two hamburger menus at the top of the screen.  One is present in both versions of the site and the other only appears in the narrow version.
+- The faded overlay is not ideal for the hero images at the top of the page because it infringes too much on the images and undercuts their prominence and importance by blocking them out a bit.
+- In the narrow version of the site, some of the images and videos are too wide and go off of the screen instead of adjusting their width/layout to fit on the screen.  This is mainly an issue with videos.
+- Some of the images don't have alt text, and some have poorly written alt text.
 
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+Here is what the website does effectively regarding layout, interactivity, and responsiveness:
 
+- They have an interactive calendar feature where you can toggle between the weekly and monthly calendars.  This exists in both the narrow and wide versions of the site and it is very helpful to be able to se both versions of the calendar without going to different pages or having to scroll.
+- The photos on their home page are in a single row for the wide layout and transition to two rows for the narrow layout.  This follows common design patterns and allows users to view the photos in the narrow layout without them becoming too small.
+- Some of the photos bring users to the club's Instagram page when clicked on.  This could be useful for SOUP because they have a lot of photos that they would like on their site, many of which are already posted on Instagram.  Additionally, Instagram (in addition to GroupMe) has been the only form of social media/online presence that SOUP has had so far, so it might be helpful to users to provide the link to SOUP's Instagram on the website.
+- The navigation menu collapses into a hamburger menu when the site is narrow.  This is a common design pattern and it is implemented well on this website.
+- The video as well as photos resize appropriately according to the screen width.
+
+Here is what the site does poorly:
+
+- The header text is helpful and the header image is a powerful image, but the way that they are layered isn't visually appealing.  It would be better if the text was above or below the image so it didn't block out the image.  The way it is on the site detracts from both the header text and the header image.
+- You can't directly click on the nav menu links to navigate to a new page.  Instead, a drop down menu appears for each link.  This goes against best web design practices.  It would be better to have a new "home page" for each category listed in the nav bar, each with its own nav bar for various pages under that category.  Users expect a nav bar to link to different pages, so it's annoying to click on a link in the nav bar and not be taken to a new page.
+- The video quality isn't very good at all, though this might not be something that they have any control over if it's hosted on YouTube or some other service.
+- At intermediate screen widths (between narrow and wide), the nav menu wraps around so one menu item is below the rest.  This looks sloppy and out of place, and it would be better if it seamlessly transitioned from the full-width nav menu to the hamburger menu instead of having a strange, visually unappealing mid-size layout.
+- The footer is relatively large in the narrow version of the website.  The footer height makes sense in the wide version of the site, but it takes up a lot of space and the text elements contained within it have a disproportionate amount of padding/margin in the narrow version, making the footer bigger than it needs to be ideally folloing bst web design practices.
 
 ### Example Website 3 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
