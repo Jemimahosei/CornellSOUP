@@ -327,7 +327,13 @@ Here is what the site does poorly:
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+Here is what the website does effectively regarding layout, interactivity, and responsiveness:
+
+- It's helpful that the image carousel automatically changes pictures without the user having to manually select a new picture, even though they can still do that if they wish.  This allows users to passively see multiple images or navigate to one in particular, so it's a mix of passive and active interactivity.
+- The site has is a very consistent theme throughout including topographical maps as a background for each image, the signature NOLS font being used for all header text, and the NOLS shade of orange making multiple appearances in various places.
+- The Featured Expeditions section of the home page changes from a grid in the wide version of the site into a carousel in the narrow version of the site.  This is a common design pattern, so users are familiar with it and that helps with ease of use.  It's also an effective way to change the layout of the content so as to not crowd the page with content or make it too excessively prominent.
+- In the narrow version of the site, there is just the NOLS logo along with a hamburger menu at the top of the page whereas in the wide version of the site layout, there is a full horizontal nav bar.  This is a common design pattern and it's very effective at reducing clutter in the narrow version of a website.
+- In the narrow version, images are (for the most part) in a single column and they take up the full width of the page, allowing users to see them fully even though the screen is smaller.  In the wide version, images are mostly in two columns side by side.  This is a common web design pattern so users are familiar with it.
 
 
 ## Content Planning (Milestone 2)
