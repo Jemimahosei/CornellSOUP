@@ -152,7 +152,7 @@ There are four main goals for the site, which is perfect because there are four 
 
 - Meet after Spring Break (between April 8/9) to create user interview questions and identify one audience member interview each
 - Each group member should conduct their interview and add notes to the design journey by April 12
-- Meet on April 13/14 to complete "Goals" and "Audience" section of design journey; split up Website Design explorations to do individually before next meeting
+- Meet on April 12 (during lab time) to complete "Goals" and "Audience" section of design journey
 - Meet on April 15/16 to plan and organize content together and plan a visual theme (fill out "Content Planning", "Content Architecture", "Visual Theme", and "Interactivity Brainstorm" in design-journey)
 - On our own, each contribute to "Interactivity Brainstorm" and "Layout Exploration" in design-journey before next meeting
 - Meet April 18/19 to complete "Final Design"; split up "Design Rationale", "Interactivity Rationale" and "Interactivity Plan" sections amongst members to complete during/after the meeting; SEND DESIGN TO CLIENT ONCE FINISHED
@@ -178,15 +178,29 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. Are you already familiar with SOUP?  If so, how did you hear about them?
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity?
+    - If yes:
+    3. What brought you to the event or attracted you to the organization?
 
-3. TODO: add your own question
+    4. Did you seek out information about the event/organization?
+    4a. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-4. TODO: add your own question
+    5. How was your experience at the event or as a part of the organization? Tell me a bit about it.
 
-...
+6. Are you currently or have you previously been involved in SOUP?
+    - If yes (involved):
+   7. Why did you join SOUP?
 
-n. What haven't I asked you today that you think would be valuable for me to know?
+   8. Before joining, did you seek out information about the organization?
+   8a. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+    9. After joining, did you seek out information about the organization?
+    9a. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+    10. How is/was your experience as a part of the organization? Tell me a bit about it.
+
+11.  What haven't I asked you today that you think would be valuable for me to know?
+
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
 
