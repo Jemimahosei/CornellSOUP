@@ -178,28 +178,28 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. Have you ever been involved in any outdoor event or organization focused on outdoor activity?
-    - If yes:
-    3. What brought you to the event or attracted you to the organization?
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
 
-    4. Did you seek out information about the event/organization?
-    4a. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+    2a. What brought you to the event or attracted you to the organization?
 
-    5. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+    2b. Did you seek out information about the event/organization?
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-6. Are you currently or have you previously been involved in SOUP?
-    - If yes (involved):
-   7. Why did you join SOUP?
+    2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
 
-   8. Before joining, did you seek out information about the organization?
-   8a. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
 
-    9. After joining, did you seek out information about the organization?
-    9a. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+   3a. Why did you join SOUP?
 
-    10. How is/was your experience as a part of the organization? Tell me a bit about it.
+   3b. Before joining, did you seek out information about the organization?
+   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-11.  What haven't I asked you today that you think would be valuable for me to know?
+   3c. After joining, did you seek out information about the organization?
+   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
+
+5. What haven't I asked you today that you think would be valuable for me to know?
 
 
 **After the interview:** "This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!"
@@ -213,10 +213,44 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+Sofia is a junior at Cornell who has been involved with SOUP since last March when she participated in the 161 Things competition.  She first heard about SOUP when she saw a flyer that they posted to advertise the 161 Things event.  She generally enjoys outdoor activities and tries to get outside as much as possible.  She has also done some activities through Cornell Outdoor Education in the past.  She is from San Francisco and is 21 years old.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+- from San Francisco, moved to San Diego when she was 16.
+- studying mechanical engineering and she's going to apply for the Masters program at Cornell next year
+- 21 years old, started at Cornell when she was 18
+- in her Junior year currently
+- participated in 161 Things event with SOUP last year and has been involved with SOUP since then on GroupMe and Instagram
+
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
+
+- yes, she's been involved in SOUP since last year and she has participated in events hosted by Cornell Outdoor Education previously.  In high school she was also part of a hiking club.
+
+2a. What brought you to the event or attracted you to the organization?
+
+- saw a flyer advertising 161 Things Competition and thought it looked like fun, so she decided to do it
+- the people she teamed up with for the competition were heavily involved in SOUP so she decided to get involved too
+- likes the adventurous/no rules apsect of SOUP
+
+2b. Did you seek out information about the event/organization?
+2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+
+3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+
+3a. Why did you join SOUP?
+
+3b. Before joining, did you seek out information about the organization?
+3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+3c. After joining, did you seek out information about the organization?
+3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+4. How is/was your experience as a part of the organization? Tell me a bit about it.
+
+5. What haven't I asked you today that you think would be valuable for me to know?
 
 
 **Interviewee 2:**
