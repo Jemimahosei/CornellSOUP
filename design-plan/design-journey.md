@@ -185,7 +185,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
     2b. Did you seek out information about the event/organization?
     2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-    2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+    2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
 
 3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
 
@@ -225,7 +225,8 @@ Sofia is a junior at Cornell who has been involved with SOUP since last March wh
 
 2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
 
-- yes, she's been involved in SOUP since last year and she has participated in events hosted by Cornell Outdoor Education previously.  In high school she was also part of a hiking club.
+- yes, she's been involved in SOUP since last year and she has participated in events hosted by Cornell Outdoor Education previously.
+- in high school she was also part of a hiking club.
 
 2a. What brought you to the event or attracted you to the organization?
 
@@ -234,23 +235,53 @@ Sofia is a junior at Cornell who has been involved with SOUP since last March wh
 - likes the adventurous/no rules apsect of SOUP
 
 2b. Did you seek out information about the event/organization?
+
+- yes
+
 2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+- she used GroupMe (linked via QR code on the flyer that she found)
+- she asked what the rules were for the competition
+- she found a partner for the competition by filling out a form linked on GroupMe
+- she found other information (when the competition was happening, when and where other people were meeting up during the competition, etc.) on GroupMe when the people running the competition posted these documents and announcements
+- she didn't have to actively seek out much information because the organizers regularly communicated all important information in the GroupMe
+
+2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+
+- she's had a really great time being involved in the organization
+- one criticism: you have to stay on top of the GroupMe or else you might not know what events are coming up
+- it's such a good group of people who really value just having fun (without drugs or alcohol, unlike some of the other outdoor-focused clubs)
+- good mix of structured and unstructured fun
+- doesn't feel like there's anyone being the "parent" or saying no to doing things, wihtin reason
+- it's a pick you own adventure type of thing
 
 3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
 
+- yes
+
 3a. Why did you join SOUP?
+
+- saw the flyer for the 161 Things Competition last year, so joined that competition and has kept coming to events since then
 
 3b. Before joining, did you seek out information about the organization?
 3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
+- asked SOUP leadership in person about what other events they plan to put on, how long SOUP has been around, how it started, how many members, and how to hear about other events
+- also asked if she could potentially put on her own event through SOUP at some point (asked over GroupMe)
+
 3c. After joining, did you seek out information about the organization?
 3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
+- looked for information about future events on GroupMe
+- like she said before, she also asked if she could potentially put on her own event with the help of SOUP
+
 4. How is/was your experience as a part of the organization? Tell me a bit about it.
 
+- skipped this question because she talked about her experience with SOUP earlier in the previous part of the interview
+
 5. What haven't I asked you today that you think would be valuable for me to know?
+
+- "I think a website would be really good for SOUP.  It would be really helpful to have a central place to go to see what vents are happening instead of just having to check the GroupMe all the time to find out that stuff."
 
 
 **Interviewee 2:**
