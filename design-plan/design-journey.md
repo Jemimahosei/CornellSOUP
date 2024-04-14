@@ -285,12 +285,45 @@ Sofia is a junior at Cornell who has been involved with SOUP since last March wh
 
 
 **Interviewee 2:**
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+   - Cornell Freshman
+   - attended boarding school in CT before Cornell
+   - Majoring in Physchology in Arts and Sciences
+   - From New York City
+   - Loves to dance, exercise outside (including hikes!)
 
-TODO: tell us a bit about your participant
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+    2a. What brought you to the event or attracted you to the organization?
+    - Values spending time with her friends and making new friends
+    - Also likes spending time outdoors being active -- would rather spend time with friends outdoors than indoors
 
+    2b. Did you seek out information about the event/organization?
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+    -  Time and location of her practices (the organization was a tennis club for which she played on a team)
+    -  Found this information on the club's website on the "schedule" page
+
+    2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+    - Had fun! "Exciting and entertaining"
+    - Provided good excercise
+    - Also gave her the chance to hang out with her friends and meet new people
+
+3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+
+   3a. Why did you join SOUP?
+
+   3b. Before joining, did you seek out information about the organization?
+   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+   3c. After joining, did you seek out information about the organization?
+   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+   4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
+
+
+5. What haven't I asked you today that you think would be valuable for me to know?
+    - She loves a website that has color and lots of images - thinks this would be fitting for the site for the organization
+    - Thinks the age-group of people the organizaition is intended for should influence the design of the site - says we should design the site for college students, tailor it to them and their needs
 
 **Interviewee 3:**
 
