@@ -285,28 +285,33 @@ Sofia is a junior at Cornell who has been involved with SOUP since last March wh
 
 
 **Interviewee 2:**
+
+Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phsyical activity and the outdoors, and has pursued this interest through involvement in sports and dance teams, attending camp, and going on regular outdoor runs/hikes. Tessa, before the interview, was not at all familiar with SOUP.
+
 1. Please tell me a bit about yourself. You may omit any personal or private information.
-   - Cornell Freshman
-   - attended boarding school in CT before Cornell
-   - Majoring in Physchology in Arts and Sciences
-   - From New York City
-   - Loves to dance, exercise outside (including hikes!)
+   - Cornell Freshman in A&S studying Psychology
+   - also very interested in Cognitive Science - might change majors
+   - orginially from New York City, but attended boarding school in CT before coming to Cornell
+   - Really enjoyed the boarding school experience, especially going to school in a rural area - describes how it was such a nice change from her previous experience going to school in the city
+   - An active person - loves to dance, play tennis, excercise outside (including going on walks, runs, and hikes)
 
 2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
 
     2a. What brought you to the event or attracted you to the organization?
-    - Values spending time with her friends and making new friends
+    - Organization is a tennis club for which she played on a team
+    - Attracted to this organization because she values spending time with her friends and making new friends - knew that the group environment would allow for this
     - Also likes spending time outdoors being active -- would rather spend time with friends outdoors than indoors
 
     2b. Did you seek out information about the event/organization?
     2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-    -  Time and location of her practices (the organization was a tennis club for which she played on a team)
-    -  Found this information on the club's website on the "schedule" page
+    -  Looked for time and location of her team's practices
+    -  Found this information on the club's website on the "Schedule" page
 
     2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
     - Had fun! "Exciting and entertaining"
     - Provided good excercise
     - Also gave her the chance to hang out with her friends and meet new people
+    - Misses having this team experience in College - makes her think maybe she will join an intramurial tennis team at Cornell!
 
 3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
 
@@ -318,7 +323,7 @@ Sofia is a junior at Cornell who has been involved with SOUP since last March wh
    3c. After joining, did you seek out information about the organization?
    3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-   4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
+   1. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
 
 
 5. What haven't I asked you today that you think would be valuable for me to know?
