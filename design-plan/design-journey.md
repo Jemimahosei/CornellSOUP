@@ -296,13 +296,56 @@ Sofia is a junior at Cornell who has been involved with SOUP since last March wh
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
+Sofia is a Senior at Cornell who has been involved in SOUP who became introduced to SOUP through their 24-hour capture the flag event. Sofia enjoys spending time outside and amongst the company of friends, which is why she was drawn to SOUP and continues to participate in their events!
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+   - Senior at Cornell in Arts and Sciences studying Info Sci and Bio
+   - Concentrating in Data Science in Info Sci
+   - Got introduced to SOUP sophomore year through the 24-hour capture the flag event that year
+   - From New Jersey
+   - Likes to spend time outside
+   - Likes to read
 
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
+   - No, never involved in structured outdoor event/organization besides SOUP.
 
-TODO: add additional interviewees as needed
+    2a. What brought you to the event or attracted you to the organization?
+
+    2b. Did you seek out information about the event/organization?
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+    2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+
+3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+
+   3a. Why did you join SOUP?
+       - SOUP is a big group of like-minded people interested in doing fun and super creative events
+       - It's not always easy to find a group like this, which makes SOUP so special and made her want to join
+       - They always have fun, fresh ideas
+
+   3b. Before joining, did you seek out information about the organization?
+   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+       - Was there when the organization was beginning/in its very early days, so there was not a lot any Instagram yet
+       - Originally heard about it the organization through friends, then joined the Slack group; in the slack, sought out information about what SOUP was planning and became interested in it
+
+   3c. After joining, did you seek out information about the organization?
+   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+      - Now as a part of the organization, still finds information through the Slack groupchat
+      - Seeks out logistical informaiton about upcoming events
+      - Also looks for images from last event– after an event, she will check the slack often to see if pictures have been posted yet
+      - Also gets information from her friends involved in the organization
+
+4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
+      - "Great", super unique, makes for fun stories
+      - Met a bunch of cool people through it that she has become close friends with
+      - "A very nice community to be apart of"
+
+5. What haven't I asked you today that you think would be valuable for me to know?
+      - Cool if website featured...
+        -  What people were apart of the organization
+        -  Information about past events
+        -  Information about upcoming events
+        -  Pictures!
 
 
 ### Goals (Milestone 2)
