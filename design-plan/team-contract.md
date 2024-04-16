@@ -18,8 +18,6 @@ Your team contract should probably include these elements. Feel free to remove o
 8. We will meet with our client before spring break ends.
 9. We will all put forth our best effort and ask for help when needed/wanted.
 
-<<<<<<< HEAD
-=======
     We commit to splitting up work evenely, communicating with the group on our individual progress, submitting milestones on time. In terms of the team atmosphere, we commit to the goal of avoiding group tension by treating eachother with respect and kindness.
 
 
@@ -71,7 +69,6 @@ Your team contract should probably include these elements. Feel free to remove o
 
 9. We will finish and complete the submission form for each milestone 2 hours before the deadline.
 
->>>>>>> a5a2b1ae99e2f9f75669673730b1dd7cca8a64c5
 
 ## Using your Contract
 
