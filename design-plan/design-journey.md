@@ -438,33 +438,33 @@ Sofia is a Senior at Cornell who has been involved in SOUP who became introduced
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
 
+Goal 1: learn about upcoming events/logistical information (tailored to SOUP members)
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 2: TODO: brief title
+
+Goal 2: learn about past soup experiences of people/to strike interest in people
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - TODO: About/Home page introducing the club, a page featuring past events, testimonials for people who participated from the past
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - TODO: rationale
 
-Goal 3: TODO: brief title
+Goal 3: learn about soups as an organization and history (mission statement)
 
-TODO: design ideas and rationale
-
-
-TODO: add as many goals as needed
+Goal 4: learn about how to get involved in SOUP
 
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+Cornell students interested in group outdoor activity
+SOUP members and potential SOUP members who might want to live out this passion through soup.
+
 
 
 ## Website Design Exploration (Milestone 2)
@@ -602,8 +602,15 @@ TODO: explain why the pages name make sense to the audience.
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
+>
+Theme idea 1: classic woodsy nature theme
+ - Color: greens, greys, and whites with accents of organge
 
-TODO: theme ideas, rationale, and final theme
+Theme idea 2: energetic, playful outdoorsy theme
+
+Theme idea 3: community
+ - Colors: different colors in the same pallate
+ - Imagery: clipart of hands holding, images with lots of people together
 
 
 ## Design (Milestone 2)
