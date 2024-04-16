@@ -434,6 +434,62 @@ Sofia is a Senior at Cornell who has been involved in SOUP who became introduced
     - Feels like it would be perfect if there was no significant time commitment in SOUP as her and a few friends she has on campus are interested in joining and prefer flexible times.
 
 
+ **Interviewee 5:**
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+    Meghan is a Junior here at Cornell University. She wasn't super outdoorsy as a freshman but got into the outdoors later on.
+
+
+
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
+   - She teaches classes through the outdoor education department here at Cornell.
+   -  She is also i She is also Involved with Soup and On the eboard for the outing club
+
+
+
+    2a. What brought you to the event or attracted you to the organization?
+    -She wanted to try new things
+     -Find ways to get active and be outside
+
+
+
+    2b. Did you seek out information about the event/organization?
+    She was one of the founding fathers of Cornell Soup
+
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+       -
+
+    2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+    - A bunch of friends doing stuff all together and have experiences that were outside the box
+
+
+
+3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+   - Not as active this semester
+
+
+   3a. Why did you join SOUP?
+    -Because it was a  bunch of friends doing stuff all together and having experiences that were outside the box
+
+
+
+
+   3b. Before joining, did you seek out information about the organization?
+   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+   3c. After joining, did you seek out information about the organization?
+   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+    - Through Quarter cards to dorms, group me regularly  , outing  club
+
+
+4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
+
+5. What haven't I asked you today that you think would be valuable for me to know?
+    -Soup is a great group of people who wanted to explore what it meant to be an adult and still have fun that shaped her experience at cornell
+
+
+
+
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
