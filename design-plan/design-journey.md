@@ -664,7 +664,7 @@ Theme idea 1: classic woodsy nature theme
 
 Theme idea 2: energetic, playful outdoorsy theme
 
-Theme idea 3: Community 
+Theme idea 3: Community
  - Colors: different colors in the same pallate
  - Imagery: clipart of hands holding, images with lots of people together
 >The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
