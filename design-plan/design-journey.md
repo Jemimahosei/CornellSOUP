@@ -674,9 +674,18 @@ Theme idea 1: classic woodsy nature theme
 
 Theme idea 2: energetic, playful outdoorsy theme
 
-Theme idea 3: community
+Theme idea 3: Community
  - Colors: different colors in the same pallate
  - Imagery: clipart of hands holding, images with lots of people together
+>The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
+
+>Colors: The color palette will consist of warm and inviting hues, such as shades of blue, green, and yellow. These colors symbolize trust, growth, and optimism, fostering a welcoming atmosphere for visitors. Additionally, the use of different colors within the same palette reflects the diverse backgrounds and perspectives within the community.
+
+>Imagery: The imagery will predominantly feature visuals of hands holding, embracing, or working together, emphasizing the collaborative spirit and mutual support within the community. Images with groups of people engaged in activities like volunteering, learning, or celebrating will further reinforce the theme of unity and shared purpose.
+
+>Shape: The shapes used in the design elements will be organic and fluid, representing the interconnectedness and fluidity of relationships within the community. Circles, curves, and overlapping shapes will be prominent, suggesting inclusivity, continuity, and the idea of coming together as one.
+
+>Typography: The typography will be clean, modern, and easily readable, with sans-serif fonts preferred for their simplicity and accessibility. Headings and titles may be bold and capitalized to command attention, while body text will be legible and spacious, ensuring ease of comprehension for all users.
 
 
 ## Design (Milestone 2)
