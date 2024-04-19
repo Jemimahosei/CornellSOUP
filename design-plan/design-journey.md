@@ -611,10 +611,20 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > Briefly summarize the content; do not include the content here.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- "Welcome Blurb" text (provided in text-content.md)
+- "History of Organization" text (provided in text-content.md)
+- "Past Events" text - "Leaf Pile", "Burn Night", "Camping", "Snowball Fight", "Capture the Flag" (provided in text-content.md)
+- "Upcoming Events" text - "Manhunt", "161 Things", "Capture the Flag 2024" (provided in text-content.md)
+- "Connect" text (provided in text-content.md)
+- "Suggest an idea" text (provided in text-content.md)
+- "Spread the word" text (provided in text-content.md)
+- lead-pile6.jpg
+- snow1.jpg
+- ctf2.jpg
+- camping1.jpg
+
+
+
 
 
 ### Content Justification (Milestone 2)
@@ -675,9 +685,18 @@ Shapes:
 rounded edges, circles, and flowing lines to soften the overall look and create a friendly
 
 
-Theme idea 3: community
+Theme idea 3: Community
  - Colors: different colors in the same pallate
  - Imagery: clipart of hands holding, images with lots of people together
+>The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
+
+>Colors: The color palette will consist of warm and inviting hues, such as shades of blue, green, and yellow. These colors symbolize trust, growth, and optimism, fostering a welcoming atmosphere for visitors. Additionally, the use of different colors within the same palette reflects the diverse backgrounds and perspectives within the community.
+
+>Imagery: The imagery will predominantly feature visuals of hands holding, embracing, or working together, emphasizing the collaborative spirit and mutual support within the community. Images with groups of people engaged in activities like volunteering, learning, or celebrating will further reinforce the theme of unity and shared purpose.
+
+>Shape: The shapes used in the design elements will be organic and fluid, representing the interconnectedness and fluidity of relationships within the community. Circles, curves, and overlapping shapes will be prominent, suggesting inclusivity, continuity, and the idea of coming together as one.
+
+>Typography: The typography will be clean, modern, and easily readable, with sans-serif fonts preferred for their simplicity and accessibility. Headings and titles may be bold and capitalized to command attention, while body text will be legible and spacious, ensuring ease of comprehension for all users.
 
 
 ## Design (Milestone 2)
