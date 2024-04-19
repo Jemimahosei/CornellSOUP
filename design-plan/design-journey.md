@@ -611,10 +611,20 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > Briefly summarize the content; do not include the content here.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- "Welcome Blurb" text (provided in text-content.md)
+- "History of Organization" text (provided in text-content.md)
+- "Past Events" text - "Leaf Pile", "Burn Night", "Camping", "Snowball Fight", "Capture the Flag" (provided in text-content.md)
+- "Upcoming Events" text - "Manhunt", "161 Things", "Capture the Flag 2024" (provided in text-content.md)
+- "Connect" text (provided in text-content.md)
+- "Suggest an idea" text (provided in text-content.md)
+- "Spread the word" text (provided in text-content.md)
+- lead-pile6.jpg
+- snow1.jpg
+- ctf2.jpg
+- camping1.jpg
+  
+
+
 
 
 ### Content Justification (Milestone 2)
