@@ -628,11 +628,10 @@ Plan your site's content.
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
-- lead-pile6.jpg
+- leaf-pile6.jpg
 - snow1.jpg
 - ctf2.jpg
 - camping1.jpg
-
 
 - images/leaf-pile3.jpg
 - images/snowball-fight1.jpg
@@ -679,10 +678,10 @@ TODO: why does this organization make sense for your audience (not you)?
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- "Home"
+- "Past Events"
+- "Upcoming Events"
+- "Join Us"
 
 > Explain why the names of these pages make sense for your site's audience.
 
