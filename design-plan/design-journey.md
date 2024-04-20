@@ -630,10 +630,10 @@ Plan your site's content.
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
-- leaf-pile6.jpg
-- snow1.jpg
-- ctf2.jpg
-- camping1.jpg
+- images/leaf-pile6.jpg
+- images/snow1.jpg
+- images/ctf2.jpg
+- images/camping1.jpg
 
 - images/leaf-pile3.jpg
 - images/snowball-fight1.jpg
@@ -661,10 +661,10 @@ TODO: justify your content decisions
 > Please physically sort cards; please don't try and do this digitally.
 
 Iteration 1:
-![First iteration of card sorting for content organization](content-iteration1.png)
+![First iteration of card sorting for content organization](images/content-iteration1.png)
 
 Iteration 2:
-![Second iteration of card sorting for content organization](content-iteration2.png)
+![Second iteration of card sorting for content organization](images/content-iteration2.png)
 
 
 ### Final Content Organization (Milestone 2)
