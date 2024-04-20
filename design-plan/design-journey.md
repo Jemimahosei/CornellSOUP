@@ -518,7 +518,7 @@ Goal 4: learn about how to get involved in SOUP
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-Cornell students interested in group outdoor activity
+The audience for SOUP's Website is, generally speaking, Cornell students who are instested in group outdoor activity. More specifically,   Cornell students interested in group outdoor activity
 SOUP members and potential SOUP members who might want to live out this passion through soup.
 
 
@@ -613,19 +613,39 @@ Plan your site's content.
 
 - "Welcome Blurb" text (provided in text-content.md)
 - "History of Organization" text (provided in text-content.md)
-- "Past Events" text - "Leaf Pile", "Burn Night", "Camping", "Snowball Fight", "Capture the Flag" (provided in text-content.md)
-- "Upcoming Events" text - "Manhunt", "161 Things", "Capture the Flag 2024" (provided in text-content.md)
+- "Past Events" text (provided in text-content.md), including:
+  - "Leaf Pile"
+  - "Burn Night"
+  - "Camping"
+  - "Snowball Fight"
+  - "Capture the Flag"
+  - "Poem #1"
+  - "Poem #2"
+- "Upcoming Events" text (provided in text-content.md), including:
+  - "Manhunt"
+  - "161 Things"
+  - "Capture the Flag 2024"
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
-- lead-pile6.jpg
-- snow1.jpg
-- ctf2.jpg
-- camping1.jpg
-  
 
+- images/leaf-pile6.jpg
+- images/snow1.jpg
+- images/camping1.jpg
+- images/ctf4.jpg
+- images/ctf5.jpg
 
+- images/leaf-pile3.jpg
+- images/snowball-fight1.jpg
+- images/camping2.jpg
+- images/fire2.jpg
+- images/ctf6.jpg
 
+- images/manhunt1.jpg
+- images/161things1.jpg
+- images/ctf1.jpg
+
+- images/161-things-flyer.jpg
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
@@ -640,13 +660,17 @@ TODO: justify your content decisions
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+Iteration 1:
+![First iteration of card sorting for content organization](content-iteration1.png)
+
+Iteration 2:
+![Second iteration of card sorting for content organization](content-iteration2.png)
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+Iteration 1 
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
