@@ -628,12 +628,11 @@ Plan your site's content.
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
+- lead-pile6.jpg
+- snow1.jpg
+- ctf2.jpg
+- camping1.jpg
 
-- images/leaf-pile6.jpg
-- images/snow1.jpg
-- images/camping1.jpg
-- images/ctf4.jpg
-- images/ctf5.jpg
 
 - images/leaf-pile3.jpg
 - images/snowball-fight1.jpg
@@ -670,7 +669,7 @@ Iteration 2:
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-Iteration 1 
+Iteration 1
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
@@ -697,6 +696,17 @@ Theme idea 1: classic woodsy nature theme
  - Color: greens, greys, and whites with accents of organge
 
 Theme idea 2: energetic, playful outdoorsy theme
+
+Font and Typography:
+playful and easy-to-read font that reflects the adventurous spirit of the outdoors. rounded or whimsical fonts that convey a sense of friendliness and energy. varied typography styles for headings, subheadings, and body text to create hierarchy and visual interest.
+Colors:
+shades of green, blue, yellow, and orange to represent the sky, trees, sunshine, and flowers. Complement these colors with softer pastels for a refreshing look. using contrasting colors to make important elements stand out, while keeping the overall color scheme harmonious and inviting.
+Imagery:
+Use high-quality photos of people hiking, camping, biking, or enjoying nature.animated or interactive elements like sliders or galleries to showcase different outdoor experiences.
+
+Shapes:
+rounded edges, circles, and flowing lines to soften the overall look and create a friendly
+
 
 Theme idea 3: Community
  - Colors: different colors in the same pallate
