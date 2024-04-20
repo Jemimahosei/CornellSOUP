@@ -494,33 +494,35 @@ Sofia is a Senior at Cornell who has been involved in SOUP who became introduced
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-
-Goal 1: learn about upcoming events/logistical information (tailored to SOUP members)
+Goal 1: to gain knowledge about upcoming SOUP events and other related logistical information
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - We can meet this goal by including information on the page about upcoming SOUP events, including their time and location, as well as including links to join SOUP groupchats for further information and discussion of events. We can design the site so that this information is clear and available to users, perhaps by designating this information to clearly titled pages.
+  -
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Including this event and logistical information and organizing it in a way that is readable and clear is key for meeting this goal. Audience interviewees expressed a struggle to find clear, consistent information about SOUP's events; these design choices can help solve this problem for the organization.
+  - This goal particularly targets existing SOUP members seeking to continue their participation in the organization,
+
+Goal 2: to enjoy time being active outside amongst like-minded people
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - We can meet this general goal of users to enjoy time being active outside and in the company of others by highlighting SOUP's emphasis on taking advantage of the beautiful outdoors in and around Cornell's campus to bond with others. We can, more specifically, include images from events in different outdoor locations. We can also include lots of images of people having fun in groups while at SOUP events. We can also include descriptive text, or even testimonials from SOUP members, about how SOUP facilitates outdoor activity and social interaction. We can also create a outdoors-inspired, foresty theme for the site, perhaps implementing a color scheme with lots of greens.
+  -
+  - About/Home page introducing the club, a page featuring past events, testimonials for people who participated from the past
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Including content illustrating SOUP's efforts to spend time outdoors and enjoy time with others will illustrate SOUP's emphasis on community-building and outdoor activity, so as to help audiences recognize how SOUP will help them reach their goal. Creating a theme that gives the site and outdoorsy vibe will also help target this audience goal.
+
+Goal 3: to gain knowledge about SOUP organization's mission and past events to investigate SOUP as a potential outlet for outdoor fun
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - We can meet this goal by including general content on the site that introduces the organization and it's mission, particularly text content. This content could include a history of SOUP, information about past events hosted by SOUP, and quotes from people involved. We could maybe highlight this information by placing it on the home page so it is very accessible for the audience.
 
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
-
-
-Goal 2: learn about past soup experiences of people/to strike interest in people
-
-- **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: About/Home page introducing the club, a page featuring past events, testimonials for people who participated from the past
-- **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
-
-Goal 3: learn about soups as an organization and history (mission statement)
-
-Goal 4: learn about how to get involved in SOUP
+  - Designing the site so that SOUP's goals as an organization are evident, specifically through the inclusion of thorough text content about SOUP's origins and recent activity, can certainly help meet this goal of users to investigate SOUP as a new method for enjoying the outdoors. Making this content very obvious and emphasized on the site on a main page will be key for this.
 
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-The audience for SOUP's Website is, generally speaking, Cornell students who are instested in group outdoor activity. More specifically,   Cornell students interested in group outdoor activity
-SOUP members and potential SOUP members who might want to live out this passion through soup.
-
+The audience for SOUP's website is, generally speaking, Cornell students who are interested in group outdoor activity. More specifically, the audience is both existing SOUP members and potential members who may want to explore this interest through SOUP. Although it encompasses two groups, this audience is cohesive in that all audience members are united by a common goal of spending time outdoors being active and enjoying the company of like-minded individuals.
 
 
 ## Website Design Exploration (Milestone 2)
