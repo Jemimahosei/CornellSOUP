@@ -627,6 +627,7 @@ Plan your site's content.
   - "Manhunt"
   - "161 Things"
   - "Capture the Flag 2024"
+- 
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
