@@ -689,12 +689,33 @@ TODO: why does this organization make sense for your audience (not you)?
 
 TODO: explain why the pages name make sense to the audience.
 
+>Home Page: The home page serves as the central hub for the website, providing a welcoming introduction to SOUP for both existing members and potential new members. It includes essential information such as the organization's mission, a welcome blurb, and possibly a brief overview of SOUP's activities. This aligns with the audience's need to quickly understand what SOUP is about and how it can benefit them.
+
+>Past Events Page: This page is crucial for both existing members and potential members to gain insights into the types of activities SOUP has organized in the past. It allows users to see the variety of outdoor events and adventures the organization has offered, helping them gauge whether SOUP aligns with their interests and outdoor preferences.
+
+>Upcoming Events Page: For the audience, especially existing members and those interested in joining SOUP, knowing about upcoming events is vital. This page provides essential logistical information about upcoming outdoor activities, allowing users to plan their participation in advance. It meets the audience's goal of gaining knowledge about upcoming SOUP events and related logistical information.
+
+>Join Us Page: This page directly addresses the goal of potential new members to investigate SOUP as a potential outlet for outdoor fun. It provides information on how to join the organization, including membership requirements, registration procedures, and possibly links to join group chats or mailing lists for further engagement. It serves as a call-to-action for interested individuals to become part of the SOUP community.
+
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 >
 Theme idea 1: classic woodsy nature theme
- - Color: greens, greys, and whites with accents of organge
+ - Color: greens, greys, and whites with accents of orange
+>Color: Green, grey, and white colors can evoke the feeling of being in a lush forest or an orchard. Green represents nature and growth, while grey and white can provide a clean backdrop reminiscent of clouds and sky. Accents of orange can be used to incorporate  warmth and  vibrant energy into the design.
+
+>Imagery: Images of  trees, foliage, and rustic wooden elements can create a visual connection with nature. Pictures of people enjoying outdoor activities like live music performances amidst trees, or friends having picnics can further enhance the woodsy atmosphere and appeal to the target audience.
+
+>Shape: Incorporating organic shapes inspired by nature, such as curved lines, leaf motifs and  Rounded edges  can soften the design and make it feel more natural and inviting.
+
+> Typography: Choosing typography with a handcrafted or rustic feel can complement the woodsy theme. Serif fonts with slightly rough edges or handwritten scripts can convey a sense of authenticity and craftsmanship, aligning with the artisanal aspect of the festival. Additionally, ensuring readability is crucial, so selecting fonts that are legible across different devices and screen sizes is essential.
+
+
+
+
+
+
 
 Theme idea 2: energetic, playful outdoorsy theme
 
