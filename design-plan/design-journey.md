@@ -687,8 +687,6 @@ TODO: why does this organization make sense for your audience (not you)?
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
-
 >Home Page: The home page serves as the central hub for the website, providing a welcoming introduction to SOUP for both existing members and potential new members. It includes essential information such as the organization's mission, a welcome blurb, and possibly a brief overview of SOUP's activities. This aligns with the audience's need to quickly understand what SOUP is about and how it can benefit them.
 
 >Past Events Page: This page is crucial for both existing members and potential members to gain insights into the types of activities SOUP has organized in the past. It allows users to see the variety of outdoor events and adventures the organization has offered, helping them gauge whether SOUP aligns with their interests and outdoor preferences.
@@ -712,11 +710,6 @@ Theme idea 1: classic woodsy nature theme
 > Typography: Choosing typography with a handcrafted or rustic feel can complement the woodsy theme. Serif fonts with slightly rough edges or handwritten scripts can convey a sense of authenticity and craftsmanship, aligning with the artisanal aspect of the festival. Additionally, ensuring readability is crucial, so selecting fonts that are legible across different devices and screen sizes is essential.
 
 
-
-
-
-
-
 Theme idea 2: energetic, playful outdoorsy theme
 
 Font and Typography:
@@ -731,7 +724,7 @@ rounded edges, circles, and flowing lines to soften the overall look and create 
 
 
 Theme idea 3: Community
- - Colors: different colors in the same pallate
+ - Colors: different colors in the same palate as the logo
  - Imagery: clipart of hands holding, images with lots of people together
 >The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
 
@@ -753,8 +746,10 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
+- Idea 1: Hamburger menu for header
+  - A hamburger menu could appear in the top right corner of the header for narrower screens to enhance the functionality of the header. Considering the header will include the organization's name, logo, and links to all pages of the site, a hamburger menu could free up space in the logo for narrower screens, only displaying the navigation menu when clicked.
+- Idea 2: Image carousel
+  - We intend to include lots of images on the site to help audiences get a sense of what goes on at SOUP events! Therefore, we think an image carousel could be a good way to include several photos without visually overwhelming audiences. The carousel would transitiion to the left or right to reveal different photos upon the click of the left or right arrow. 
 - TODO: ...
 
 
