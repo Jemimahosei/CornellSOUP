@@ -627,6 +627,7 @@ Plan your site's content.
   - "Manhunt"
   - "161 Things"
   - "Capture the Flag 2024"
+-
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
@@ -735,6 +736,12 @@ Theme idea 3: Community
 >Shape: The shapes used in the design elements will be organic and fluid, representing the interconnectedness and fluidity of relationships within the community. Circles, curves, and overlapping shapes will be prominent, suggesting inclusivity, continuity, and the idea of coming together as one.
 
 >Typography: The typography will be clean, modern, and easily readable, with sans-serif fonts preferred for their simplicity and accessibility. Headings and titles may be bold and capitalized to command attention, while body text will be legible and spacious, ensuring ease of comprehension for all users.
+
+
+
+
+>We selected theme 2 as our final theme because.......
+
 
 
 ## Design (Milestone 2)
