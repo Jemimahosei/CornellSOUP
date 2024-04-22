@@ -712,21 +712,17 @@ Theme idea 1: classic woodsy nature theme
 
 
 Theme idea 2: energetic, playful outdoorsy theme
-
 Font and Typography:
 playful and easy-to-read font that reflects the adventurous spirit of the outdoors. rounded or whimsical fonts that convey a sense of friendliness and energy. varied typography styles for headings, subheadings, and body text to create hierarchy and visual interest.
 Colors:
 shades of green, blue, yellow, and orange to represent the sky, trees, sunshine, and flowers. Complement these colors with softer pastels for a refreshing look. using contrasting colors to make important elements stand out, while keeping the overall color scheme harmonious and inviting.
 Imagery:
 Use high-quality photos of people hiking, camping, biking, or enjoying nature.animated or interactive elements like sliders or galleries to showcase different outdoor experiences.
-
 Shapes:
 rounded edges, circles, and flowing lines to soften the overall look and create a friendly
 
 
 Theme idea 3: Community
- - Colors: different colors in the same palate as the logo
- - Imagery: clipart of hands holding, images with lots of people together
 >The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
 
 >Colors: The color palette will consist of warm and inviting hues, such as shades of blue, green, and yellow. These colors symbolize trust, growth, and optimism, fostering a welcoming atmosphere for visitors. Additionally, the use of different colors within the same palette reflects the diverse backgrounds and perspectives within the community.
@@ -736,6 +732,10 @@ Theme idea 3: Community
 >Shape: The shapes used in the design elements will be organic and fluid, representing the interconnectedness and fluidity of relationships within the community. Circles, curves, and overlapping shapes will be prominent, suggesting inclusivity, continuity, and the idea of coming together as one.
 
 >Typography: The typography will be clean, modern, and easily readable, with sans-serif fonts preferred for their simplicity and accessibility. Headings and titles may be bold and capitalized to command attention, while body text will be legible and spacious, ensuring ease of comprehension for all users.
+
+
+
+
 
 >We selected theme 2 as our final theme. We feel this playful, outdoorsy theme effectively captures the SOUP organization's mission of finding fun outdoors! Colors will include bright orange and yellow (from the logo), offset by accents of sky blue to covey a sense of energy through the site. We will likewise incorporate a mix of fonts to make the site dynamic and inviting; specifically, we plan to use a rounded sans-serif or monospace font for the majority of text content and a more unique monospace font for titles and important text. Beyond the images from SOUP events already incorporated into the design, we will include the site's logo, featuring a sundial and a camp fire, to further the outdoorsy feel of the site. We will utilize mostly subtle soft edges throughout the site to convey a casual feel to the site; for example, images will have soft edges. Overall, this theme is appropriate for our site in that it gives the site a sense of energy and playfullness, conveying to users the fun they could have as a member of SOUP, as well as conveying SOUP's emphasis on exploring the outdoors.
 
