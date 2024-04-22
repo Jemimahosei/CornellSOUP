@@ -651,7 +651,7 @@ Plan your site's content.
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+
 
 
 ## Information Architecture (Milestone 2)
@@ -754,7 +754,7 @@ Document your site's layout.
 - Idea 2: Image carousel
   - We intend to include lots of images on the site to help audiences get a sense of what goes on at SOUP events! Therefore, we think an image carousel could be a good way to include several photos without visually overwhelming audiences. The carousel would transitiion to the left or right to reveal different photos upon the click of the left or right arrow.
 - Idea 3: Drop-down
-  - We could include a drop-down section to complement each description on our "Upcoming Events" page. The drop down could be triggered by the click of a button, perhaps styled as a "+"; once pressed, it could reveal a section containing logisitcal information about the event (time, location, etc.). This interactivity could help users meet goals by allowing informational as well as logisitcal information to be included about upcoming events while ensuring the digestability of pages. This interactivity could have the information availaible to members and indivudals who want to join SOUP, but hidden for people casually exploring the site to learn about SOUP. 
+  - We could include a drop-down section to complement each description on our "Upcoming Events" page. The drop down could be triggered by the click of a button, perhaps styled as a "+"; once pressed, it could reveal a section containing logisitcal information about the event (time, location, etc.). This interactivity could help users meet goals by allowing informational as well as logisitcal information to be included about upcoming events while ensuring the digestability of pages. This interactivity could have the information availaible to members and indivudals who want to join SOUP, but hidden for people casually exploring the site to learn about SOUP.
 
 
 ### Layout Exploration (Milestone 2)
