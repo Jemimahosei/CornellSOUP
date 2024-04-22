@@ -712,21 +712,17 @@ Theme idea 1: classic woodsy nature theme
 
 
 Theme idea 2: energetic, playful outdoorsy theme
-
 Font and Typography:
 playful and easy-to-read font that reflects the adventurous spirit of the outdoors. rounded or whimsical fonts that convey a sense of friendliness and energy. varied typography styles for headings, subheadings, and body text to create hierarchy and visual interest.
 Colors:
 shades of green, blue, yellow, and orange to represent the sky, trees, sunshine, and flowers. Complement these colors with softer pastels for a refreshing look. using contrasting colors to make important elements stand out, while keeping the overall color scheme harmonious and inviting.
 Imagery:
 Use high-quality photos of people hiking, camping, biking, or enjoying nature.animated or interactive elements like sliders or galleries to showcase different outdoor experiences.
-
 Shapes:
 rounded edges, circles, and flowing lines to soften the overall look and create a friendly
 
 
 Theme idea 3: Community
- - Colors: different colors in the same pallate
- - Imagery: clipart of hands holding, images with lots of people together
 >The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
 
 >Colors: The color palette will consist of warm and inviting hues, such as shades of blue, green, and yellow. These colors symbolize trust, growth, and optimism, fostering a welcoming atmosphere for visitors. Additionally, the use of different colors within the same palette reflects the diverse backgrounds and perspectives within the community.
