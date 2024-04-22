@@ -688,8 +688,6 @@ TODO: why does this organization make sense for your audience (not you)?
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
-
 >Home Page: The home page serves as the central hub for the website, providing a welcoming introduction to SOUP for both existing members and potential new members. It includes essential information such as the organization's mission, a welcome blurb, and possibly a brief overview of SOUP's activities. This aligns with the audience's need to quickly understand what SOUP is about and how it can benefit them.
 
 >Past Events Page: This page is crucial for both existing members and potential members to gain insights into the types of activities SOUP has organized in the past. It allows users to see the variety of outdoor events and adventures the organization has offered, helping them gauge whether SOUP aligns with their interests and outdoor preferences.
@@ -713,11 +711,6 @@ Theme idea 1: classic woodsy nature theme
 > Typography: Choosing typography with a handcrafted or rustic feel can complement the woodsy theme. Serif fonts with slightly rough edges or handwritten scripts can convey a sense of authenticity and craftsmanship, aligning with the artisanal aspect of the festival. Additionally, ensuring readability is crucial, so selecting fonts that are legible across different devices and screen sizes is essential.
 
 
-
-
-
-
-
 Theme idea 2: energetic, playful outdoorsy theme
 
 Font and Typography:
@@ -732,8 +725,8 @@ rounded edges, circles, and flowing lines to soften the overall look and create 
 
 
 Theme idea 3: Community
-
-
+ - Colors: different colors in the same pallate
+ - Imagery: clipart of hands holding, images with lots of people together
 >The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
 
 >Colors: The color palette will consist of warm and inviting hues, such as shades of blue, green, and yellow. These colors symbolize trust, growth, and optimism, fostering a welcoming atmosphere for visitors. Additionally, the use of different colors within the same palette reflects the diverse backgrounds and perspectives within the community.
@@ -748,11 +741,7 @@ Theme idea 3: Community
 
 
 
-
-
-
->We selected theme 2 as our final theme because.......
-
+>We selected theme 2 as our final theme. We feel this playful, outdoorsy theme effectively captures the SOUP organization's mission of finding fun outdoors! Colors will include bright orange and yellow (from the logo), offset by accents of sky blue to covey a sense of energy through the site. We will likewise incorporate a mix of fonts to make the site dynamic and inviting; specifically, we plan to use a rounded sans-serif or monospace font for the majority of text content and a more unique monospace font for titles and important text. Beyond the images from SOUP events already incorporated into the design, we will include the site's logo, featuring a sundial and a camp fire, to further the outdoorsy feel of the site. We will utilize mostly subtle soft edges throughout the site to convey a casual feel to the site; for example, images will have soft edges. Overall, this theme is appropriate for our site in that it gives the site a sense of energy and playfullness, conveying to users the fun they could have as a member of SOUP, as well as conveying SOUP's emphasis on exploring the outdoors.
 
 
 ## Design (Milestone 2)
@@ -764,9 +753,12 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+- Idea 1: Hamburger menu for header
+  - A hamburger menu could appear in the top right corner of the header for narrower screens to enhance the functionality of the header. Considering the header will include the organization's name, logo, and links to all pages of the site, a hamburger menu could free up space in the logo for narrower screens, only displaying the navigation menu when clicked.
+- Idea 2: Image carousel
+  - We intend to include lots of images on the site to help audiences get a sense of what goes on at SOUP events! Therefore, we think an image carousel could be a good way to include several photos without visually overwhelming audiences. The carousel would transitiion to the left or right to reveal different photos upon the click of the left or right arrow.
+- Idea 3: Drop-down
+  - We could include a drop-down section to complement each description on our "Upcoming Events" page. The drop down could be triggered by the click of a button, perhaps styled as a "+"; once pressed, it could reveal a section containing logisitcal information about the event (time, location, etc.). This interactivity could help users meet goals by allowing informational as well as logisitcal information to be included about upcoming events while ensuring the digestability of pages. This interactivity could have the information availaible to members and indivudals who want to join SOUP, but hidden for people casually exploring the site to learn about SOUP.
 
 
 ### Layout Exploration (Milestone 2)
