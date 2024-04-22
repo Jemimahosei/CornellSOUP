@@ -734,9 +734,6 @@ Theme idea 3: Community
 >Typography: The typography will be clean, modern, and easily readable, with sans-serif fonts preferred for their simplicity and accessibility. Headings and titles may be bold and capitalized to command attention, while body text will be legible and spacious, ensuring ease of comprehension for all users.
 
 
-
-
-
 >We selected theme 2 as our final theme. We feel this playful, outdoorsy theme effectively captures the SOUP organization's mission of finding fun outdoors! Colors will include bright orange and yellow (from the logo), offset by accents of sky blue to covey a sense of energy through the site. We will likewise incorporate a mix of fonts to make the site dynamic and inviting; specifically, we plan to use a rounded sans-serif or monospace font for the majority of text content and a more unique monospace font for titles and important text. Beyond the images from SOUP events already incorporated into the design, we will include the site's logo, featuring a sundial and a camp fire, to further the outdoorsy feel of the site. We will utilize mostly subtle soft edges throughout the site to convey a casual feel to the site; for example, images will have soft edges. Overall, this theme is appropriate for our site in that it gives the site a sense of energy and playfullness, conveying to users the fun they could have as a member of SOUP, as well as conveying SOUP's emphasis on exploring the outdoors.
 
 
@@ -795,7 +792,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site and 
 
 
 ## Interactivity Plan (Milestone 2)
