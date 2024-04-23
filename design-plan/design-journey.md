@@ -488,8 +488,6 @@ Sofia is a Senior at Cornell who has been involved in SOUP who became introduced
     -Soup is a great group of people who wanted to explore what it meant to be an adult and still have fun that shaped her experience at cornell
 
 
-
-
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
@@ -761,7 +759,12 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+![Explorative sketch of desktop version of home page](home-sketch-desktop.png)
+  This sketch explores a design for the wide version of the site's "Home" page. My intention for this sketch was to create a simple, yet dynamic layout with a mixture of block sections and floating text (block sections for text content and floating text for section titles). I structured all images for this page to be featured in a single carousel that stretches across the page beneath the site's introduction, as images on this home page do not specifically accompany any text content on the page. I employed common design patterns including a header with a logo in the top left corner, the title to the right of that, and a horizontal menu bar aligned to the right. I also styled main links as buttons. I, lastly, created a simple yet informational footer to sandwich the main section of the page.
+
+
+![Explorative sketch of desktop version of home page](home-sketch-desktop.png)
+  This sketch explores a design for the mobile version of the site's "Home" page. For this narrow version, I alterned the structure of the page so information is more vertically stacked. While maintaining the same general vibe and layout, this alteration (adding responsiveness) will make the site more easily readable on a mobile screen. The header is styled similarly except this version features a hamburger button to replace the horizontal menu bar, which does not fit on a narrow screen. The hamburger will toggle to reveal a dropdown navigation menu. The footer and button-styled main links from the previous design remain the same.
 
 
 ### Final Design (Milestone 2)
@@ -792,7 +795,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site and 
+Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site and
 
 
 ## Interactivity Plan (Milestone 2)
