@@ -1,0 +1,88 @@
+/* Yellow color: #FFE4A3; (background of main section of each page)
+Orange color: #DC600B;
+Blue color: #2596be; */
+
+body {
+    margin: 0;
+    background-color: #FFE4A3;
+    color: rgb(35, 35, 35);
+}
+
+header {
+    background-color: rgb(194, 230, 250);
+    margin: 0;
+    color: rgb(35, 35, 35);
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo img {
+    margin: 0px 30px 0px 30px;
+    height: auto;
+}
+
+.logo-title {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-title h1 {
+    text-align: left;
+    font-size: 55px;
+    margin: 30px 0px 0px 0px;
+    padding: 0px;
+}
+
+.logo-title h2 {
+    text-align: left;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0px 30px 10px;
+}
+
+.title h4 {
+    font-style: italic;
+}
+
+.nav-buttons {
+    display: flex;
+    flex-direction: row;
+    padding: 100px 25px 100px 60px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-buttons a {
+    display: block;
+    font-size: 18px;
+    margin: 10px 10px 10px 10px;
+    color:rgb(35, 35, 35);
+    background-color: #FFE4A3;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+header .hamburger-all {
+    margin: 55px;
+}
+
+.hamburger-button {
+    background-color: #FFE4A3;;
+    padding: 0px;
+    width: 40px;
+    height: 40px
+}
+
