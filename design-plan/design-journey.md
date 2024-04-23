@@ -631,8 +631,9 @@ Plan your site's content.
 - "Spread the word" text (provided in text-content.md)
 - images/leaf-pile6.jpg
 - images/snow1.jpg
-- images/ctf2.jpg
+- images/ctf4.jpg
 - images/camping1.jpg
+- images/ctf5.jpg
 
 - images/leaf-pile3.jpg
 - images/snowball-fight1.jpg
@@ -759,11 +760,11 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-![Explorative sketch of desktop version of home page](home-sketch-desktop.png)
+![Explorative sketch of desktop version of home page](home-sketch-wide.png)
   This sketch explores a design for the wide version of the site's "Home" page. My intention for this sketch was to create a simple, yet dynamic layout with a mixture of block sections and floating text (block sections for text content and floating text for section titles). I structured all images for this page to be featured in a single carousel that stretches across the page beneath the site's introduction, as images on this home page do not specifically accompany any text content on the page. I employed common design patterns including a header with a logo in the top left corner, the title to the right of that, and a horizontal menu bar aligned to the right. I also styled main links as buttons. I, lastly, created a simple yet informational footer to sandwich the main section of the page.
 
 
-![Explorative sketch of desktop version of home page](home-sketch-desktop.png)
+![Explorative sketch of mobile version of home page](home-sketch-narrow.png)
   This sketch explores a design for the mobile version of the site's "Home" page. For this narrow version, I alterned the structure of the page so information is more vertically stacked. While maintaining the same general vibe and layout, this alteration (adding responsiveness) will make the site more easily readable on a mobile screen. The header is styled similarly except this version features a hamburger button to replace the horizontal menu bar, which does not fit on a narrow screen. The hamburger will toggle to reveal a dropdown navigation menu. The footer and button-styled main links from the previous design remain the same.
 
 
@@ -775,12 +776,14 @@ Document your site's layout.
 
 **Narrow Design:**
 
-TODO: narrow sketches and explanation
+![Final sketch of narrow version of "Home" page](final-home-narrow.png)
+  My intention for this final mobile layout sketch of the "Home" page is to create a clean, dynamic layout with a mix of block and floating content that are stacked vertically to fit a narrow screen. I utilized various common design patterns including a header with a logo in the top left, the title of the organization to the right of the logo, and a hamburger button aligned to the far right. Upon clicking the hamburger button, a drown-down navigation menu will appear with a vertical list of buttons linking to all pages of the site. I implemented the hamburger button for this narrow layout so that the header wouldn't become too busy. My sketch of the page creates an introduction to SOUP with SOUPs titled written out at the top and a introduction blurb below it. I implemented an image carousel below this so that I could include various images on the page that help introduce the organization to audiences; a carousel was helpful in achieving this while keeping the look of page clean. I designed the carousel as a block that reaches the edge of the browser, with the image centered within this block. Lastly, I implemented a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use both horizontal and vertical flexboxes in designing this layout, as annotated in the sketch.
 
 
 **Wide Design:**
 
-TODO: wide sketches and explanation
+![Final sketch of wide version of "Home" page](final-home-wide.png)
+  My intention for this final desktop layout sketch of the "Home" page is to, again, create a clean, dynamic layout with a mix of block and floating content that are stacked both vertically and horizontally to take advantage of the visual width of the browser. I implement the same header as described above to create consistency across pages. In this wide version, however, I take advatange of the width of the screen and omit the hamburger button, instead implementing a horizontal navigation bar with button links to pages. Below the header, my sketch of the page creates an introduction to SOUP with SOUPs titled written out and a introduction blurb below it. Below this, I implement the same image carousel, as explained in the narrow sketch description. Next, I create a horizontal flexblox that includes text about the history of SOUP to the left and quotes from members to the right. Lastly, I implement a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use horizontal flexboxes in bringing this layout to life, as annotated in the sketch.
 
 
 ### Design Rationale (Milestone 2)
