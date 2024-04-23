@@ -661,10 +661,10 @@ Plan your site's content.
 > Please physically sort cards; please don't try and do this digitally.
 
 Iteration 1:
-![First iteration of card sorting for content organization](images/content-iteration1.png)
+![First iteration of card sorting for content organization](content-iteration1.png)
 
 Iteration 2:
-![Second iteration of card sorting for content organization](images/content-iteration2.png)
+![Second iteration of card sorting for content organization](content-iteration2.png)
 
 
 ### Final Content Organization (Milestone 2)
