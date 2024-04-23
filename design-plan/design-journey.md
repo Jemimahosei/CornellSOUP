@@ -629,6 +629,8 @@ Plan your site's content.
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
+- images/logo-transparent.png
+
 - images/leaf-pile6.jpg
 - images/snow1.jpg
 - images/ctf4.jpg
@@ -920,4 +922,4 @@ TODO: list your collaborators
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. tutorials, W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+- photo editor to make background of logo transparent: https://www.fotor.com/features/background-remover/upload
