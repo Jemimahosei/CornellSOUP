@@ -11,15 +11,23 @@
 /* TODO: Replace TODO_SLIDES_CSS_SELECTOR with a CSS selector that selects _all_ slides. (See "hint" above in access element snippet.) */
 
 
-const SLIDES = $('.slides > .slide');
-console.log(SLIDES)
-
 $(document).ready(function() {
   $("#s2").addClass("hidden");
   $("#s3").addClass("hidden");
   $("#s4").addClass("hidden");
   $("#s5").addClass("hidden");
+
+  $("#d1").addClass("fill-dot");
+  $("#d2").removeClass("fill-dot");
+  $("#d3").removeClass("fill-dot");
+  $("#d4").removeClass("fill-dot");
+  $("#d5").removeClass("fill-dot");
 });
+
+const SLIDES = $('.slides > .slide');
+
+const DOTS = $('.dots > .dot-button');
+
 
 /* See "show next slide snippet" to use */
 function nextSlide() {
@@ -29,8 +37,6 @@ function nextSlide() {
     nextNum = 1;
   }
   showSlide(nextNum);
-  console.log('hi');
-  console.log(nextNum);
 }
 
 /* See "show previous slide snippet" to use */
@@ -51,6 +57,10 @@ function showSlide(num) {
   SLIDES.addClass('hidden');
   currentSlide.removeClass('hidden');
 
+  let currentDot = DOTS.eq(index);
+  DOTS.removeClass('fill-dot')
+  currentDot.addClass('fill-dot');
+
   /* TODO: snippets to hide SLIDES and then show currentSlide
      Use `SLIDES` or `currentSlide` as the "Access Element Snippet"
      (e.g. `SLIDES.addClass()` or `currentSlide.removeClass()`) */
@@ -63,4 +73,24 @@ $("#button-r").on('click', function() {
 
 $("#button-l").click(function() {
     prevSlide();
+});
+
+$("#d1").click(function() {
+    showSlide(1);
+});
+
+$("#d2").click(function() {
+  showSlide(2);
+});
+
+$("#d3").click(function() {
+  showSlide(3);
+});
+
+$("#d4").click(function() {
+  showSlide(4);
+});
+
+$("#d5").click(function() {
+  showSlide(5);
 });

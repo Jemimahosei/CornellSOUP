@@ -290,7 +290,7 @@ footer {
 
 .button-r {
     cursor: pointer;
-    font-size: 30px;
+    font-size: 40px;
     background-color: #2596be;
     border: none;
     color:rgb(194, 230, 250)
@@ -298,7 +298,7 @@ footer {
 
 .button-l {
     cursor: pointer;
-    font-size: 30px;
+    font-size: 40px;
     background-color: #2596be;
     border: none;
     color:rgb(194, 230, 250)
@@ -312,6 +312,34 @@ footer {
 .slide img {
     width: 100%;
 }
+
+.dots {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding: 8px;
+}
+
+.dot-button {
+    cursor: pointer;
+    font-size: 30px;
+    background-color: transparent;
+    border: none;
+    color: rgb(35, 35, 35);
+    height: 16px;
+    width: 6px;
+    background-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+    border: 3px solid #2596be;;
+}
+
+.fill-dot {
+    background-color: #2596be;
+}
+
 /* for mobile version */
 @media (max-width: 800px) {
     /* .header {
