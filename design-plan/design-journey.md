@@ -333,6 +333,7 @@ Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phs
 **Interviewee 3:**
 
 TODO: tell us a bit about your participant
+Meghan is a junior at Cornell
 
 TODO: copy interview questions
 TODO: take notes inline with questions
