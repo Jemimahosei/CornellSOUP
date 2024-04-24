@@ -247,6 +247,30 @@ footer {
     align-content:space-between;
 }
 
+.flyer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.flyer p {
+    width: 30%;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+.flyer img {
+    max-width: 400px;
+    width: 90%;
+    height: auto;
+}
+
+#email {
+    color:#647ada;
+}
+
 /* for mobile version */
 @media (max-width: 800px) {
     /* .header {
@@ -288,21 +312,45 @@ footer {
         margin-left: auto;
         margin-right: auto;
     }
+
     .past-events {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-content: center;
-      }
+    }
+
     .past-events img {
         max-width: 100%;
         height: auto;
     }
+
     .poems {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-content: center;
-
     }
-}
+
+    .flyer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .flyer p {
+        width: 90%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .flyer img{
+        max-width: 100%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
