@@ -870,78 +870,106 @@ The drop-down features we're using allow users to read the title of an upcoming 
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+Hamburger menu pseudocode:
+  If the document width is greater than 1150 pixels:
+  Hide the hamburger menu by adding the "hidden" class to #hamburger.
+  Show the navigation menu by removing the "hidden" class from #menu.
+  Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
-- Hamburger menu pseudocode
-If the document width is greater than 1150 pixels:
-Hide the hamburger menu by adding the "hidden" class to #hamburger.
-Show the navigation menu by removing the "hidden" class from #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
-
-else:
-Show the hamburger menu by removing the "hidden" class from #hamburger.
-Hide the navigation menu by adding the "hidden" class to #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
-
-On window resize:
-If the document width is greater than 1150 pixels:
-Hide the hamburger menu by adding the "hidden" class to #hamburger.
-Show the navigation menu by removing the "hidden" class from #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
-
-else:
-Show the hamburger menu by removing the "hidden" class from #hamburger.
-Hide the navigation menu by adding the "hidden" class to #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
-
-When the hamburger menu is clicked:
-If the dropdown menu (#drop-down) has the "hidden" class:
-Remove the "hidden" class from #drop-down.
-else:
-Add the "hidden" class to #drop-down.
+  else:
+  Show the hamburger menu by removing the "hidden" class from #hamburger.
+  Hide the navigation menu by adding the "hidden" class to #menu.
+  Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 
+  On window resize:
+  If the document width is greater than 1150 pixels:
+  Hide the hamburger menu by adding the "hidden" class to #hamburger.
+  Show the navigation menu by removing the "hidden" class from #menu.
+  Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+  else:
+  Show the hamburger menu by removing the "hidden" class from #hamburger.
+  Hide the navigation menu by adding the "hidden" class to #menu.
+  Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 
-- Dropdown Pseudocode
-OnDocumentReady:
-    add class "hidden" to #dropdown-content1
-    add class "hidden" to #dropdown-minus1
+  When the hamburger menu is clicked:
+  If the dropdown menu (#drop-down) has the "hidden" class:
+  Remove the "hidden" class from #drop-down.
+  else:
+  Add the "hidden" class to #drop-down.
 
-    add class "hidden" to #dropdown-content2
-    add class "hidden" to #dropdown-minus2
 
-    add class "hidden" to #dropdown-content3
-    add class "hidden" to #dropdown-minus3
+Dropdown Pseudocode:
+  OnDocumentReady:
+      add class "hidden" to #dropdown-content1
+      add class "hidden" to #dropdown-minus1
 
-when DropdownButton1 is clicked:
-    remove class "hidden" from #dropdown-content1
-    add class "hidden" to #dropdown-button1
-    remove class "hidden" from #dropdown-minus1
+      add class "hidden" to #dropdown-content2
+      add class "hidden" to #dropdown-minus2
 
-when DropdownMinus1 is clicked:
-    add class "hidden" to #dropdown-content1
-    remove class "hidden" from #dropdown-button1
-    add class "hidden" to #dropdown-minus1
+      add class "hidden" to #dropdown-content3
+      add class "hidden" to #dropdown-minus3
 
-when DropdownButton2 is clicked:
-    remove class "hidden" from #dropdown-content2
-    add class "hidden" to #dropdown-button2
-    remove class "hidden" from #dropdown-minus2
-when DropdownMinus2 is clicked:
-    add class "hidden" to #dropdown-content2
-    remove class "hidden" from #dropdown-button2
-    add class "hidden" to #dropdown-minus2
+  when DropdownButton1 is clicked:
+      remove class "hidden" from #dropdown-content1
+      add class "hidden" to #dropdown-button1
+      remove class "hidden" from #dropdown-minus1
 
-when DropdownButton3 is clicked:
-    remove class "hidden" from #dropdown-content3
-    add class "hidden" to #dropdown-button3
-    remove class "hidden" from #dropdown-minus3
+  when DropdownMinus1 is clicked:
+      add class "hidden" to #dropdown-content1
+      remove class "hidden" from #dropdown-button1
+      add class "hidden" to #dropdown-minus1
 
-when DropdownMinus3 is clicked:
-    add class "hidden" to #dropdown-content3
-    remove class "hidden" from #dropdown-button3
-    add class "hidden" to #dropdown-minus3
+  when DropdownButton2 is clicked:
+      remove class "hidden" from #dropdown-content2
+      add class "hidden" to #dropdown-button2
+      remove class "hidden" from #dropdown-minus2
+  when DropdownMinus2 is clicked:
+      add class "hidden" to #dropdown-content2
+      remove class "hidden" from #dropdown-button2
+      add class "hidden" to #dropdown-minus2
+
+  when DropdownButton3 is clicked:
+      remove class "hidden" from #dropdown-content3
+      add class "hidden" to #dropdown-button3
+      remove class "hidden" from #dropdown-minus3
+
+  when DropdownMinus3 is clicked:
+      add class "hidden" to #dropdown-content3
+      remove class "hidden" from #dropdown-button3
+      add class "hidden" to #dropdown-minus3
+
+
+Carousel psuedocode:
+  When #button-r is clicked (event):
+      show next slide
+      fill in according bubble
+
+  When #button-l is clicked (event):
+      show previous slide
+      fill in according bubble
+
+  When #dot1 is clicked (event):
+      show slide 1
+      fill in #dot1
+
+  When #dot2 is clicked (event):
+      show slide 2
+      fill in #dot2
+
+  When #dot3 is clicked (event):
+      show to slide 3
+      fill in #dot3
+
+  When #dot4 is clicked (event):
+      show slide 4
+      fill in #dot4
+
+  When #dot5 slide 5
+      fill in #dot5
+
 
 
 ## Client Feedback & Minutes (Milestone 2)

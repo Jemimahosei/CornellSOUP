@@ -6,11 +6,6 @@
 //   show previous slide (next slide snippet)
 //   fill in previous bubble
 
-/* TODO: Replace TODO_SLIDES_CSS_SELECTOR with a CSS selector that selects _all_ slides. (See "hint" above in access element snippet.) */
-
-/* TODO: Replace TODO_SLIDES_CSS_SELECTOR with a CSS selector that selects _all_ slides. (See "hint" above in access element snippet.) */
-
-
 $(document).ready(function() {
   $("#s2").addClass("hidden");
   $("#s3").addClass("hidden");
