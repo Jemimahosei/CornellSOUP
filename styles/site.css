@@ -145,6 +145,10 @@ header {
     padding: 20px;
 }
 
+.paragraph-section h3 {
+    font-size: 28px;
+}
+
 .dropdown-bar {
     width: 100%;
     padding: 10px;
@@ -422,27 +426,6 @@ footer {
 
 /* for mobile version */
 @media (max-width: 800px) {
-    /* .header {
-        padding: 0px;
-    }
-
-    .logo-title h1 {
-        font-size: 40px;
-    }
-
-    .logo-title h2 {
-        font-size: 16px;
-    }
-
-    .nav-buttons {
-        padding-top: 40px;
-        padding-bottom: 40px;
-    }
-
-    .nav-buttons a {
-        font-size: 14px;
-    } */
-
     .hist-quotes {
         flex-direction: column;
 
@@ -480,6 +463,20 @@ footer {
         justify-content: center;
         align-content: center;
     }
+
+    .flexing-things {
+        flex-direction: column;
+    }
+
+    .picture {
+        margin-left:auto;
+        margin-right: auto;
+    }
+
+    .paragraph-section {
+        text-align: center;
+    }
+
 
     .flyer {
         display: flex;
