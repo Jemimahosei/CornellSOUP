@@ -396,7 +396,7 @@ TODO: add additional interviewees as needed
  **Interviewee 5:**
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-    Meghan is a Junior here at Cornell University. She wasn't super outdoorsy as a freshman but got into the outdoors later on.
+   - Meghan is a Junior here at Cornell University. She wasn't super outdoorsy as a freshman but got into the outdoors later on.
 
 
 
@@ -407,16 +407,16 @@ TODO: add additional interviewees as needed
 
 
     2a. What brought you to the event or attracted you to the organization?
-    -She wanted to try new things
-     -Find ways to get active and be outside
+    - She wanted to try new things
+    - Find ways to get active and be outside
 
 
 
     2b. Did you seek out information about the event/organization?
-    She was one of the founding fathers of Cornell Soup
+    - She was one of the founding fathers of Cornell Soup
 
     2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-       -
+
 
     2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
     - A bunch of friends doing stuff all together and have experiences that were outside the box
@@ -428,7 +428,7 @@ TODO: add additional interviewees as needed
 
 
    3a. Why did you join SOUP?
-    -Because it was a  bunch of friends doing stuff all together and having experiences that were outside the box
+    - Because it was a  bunch of friends doing stuff all together and having experiences that were outside the box
 
 
 
@@ -438,13 +438,13 @@ TODO: add additional interviewees as needed
 
    3c. After joining, did you seek out information about the organization?
    3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-    - Through Quarter cards to dorms, group me regularly  , outing  club
+    - Through Quarter cards to dorms, group me regularly,the outing  club
 
 
 4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
 
 5. What haven't I asked you today that you think would be valuable for me to know?
-    -Soup is a great group of people who wanted to explore what it meant to be an adult and still have fun that shaped her experience at cornell
+    - Soup is a great group of people who wanted to explore what it meant to be an adult and still have fun that shaped her experience at cornell
 
 
 ### Goals (Milestone 2)
@@ -454,7 +454,7 @@ TODO: add additional interviewees as needed
 Goal 1: to gain knowledge about upcoming SOUP events and other related logistical information
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - We can meet this goal by including information on the page about upcoming SOUP events, including their time and location, as well as including links to join SOUP groupchats for further information and discussion of events. We can design the site so that this information is clear and available to users, perhaps by designating this information to clearly titled pages.
-  -
+
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - Including this event and logistical information and organizing it in a way that is readable and clear is key for meeting this goal. Audience interviewees expressed a struggle to find clear, consistent information about SOUP's events; these design choices can help solve this problem for the organization.
   - This goal particularly targets existing SOUP members seeking to continue their participation in the organization,
@@ -462,7 +462,7 @@ Goal 1: to gain knowledge about upcoming SOUP events and other related logistica
 Goal 2: to enjoy time being active outside amongst like-minded people
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - We can meet this general goal of users to enjoy time being active outside and in the company of others by highlighting SOUP's emphasis on taking advantage of the beautiful outdoors in and around Cornell's campus to bond with others. We can, more specifically, include images from events in different outdoor locations. We can also include lots of images of people having fun in groups while at SOUP events. We can also include descriptive text, or even testimonials from SOUP members, about how SOUP facilitates outdoor activity and social interaction. We can also create a outdoors-inspired, foresty theme for the site, perhaps implementing a color scheme with lots of greens.
-  -
+
   - About/Home page introducing the club, a page featuring past events, testimonials for people who participated from the past
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - Including content illustrating SOUP's efforts to spend time outdoors and enjoy time with others will illustrate SOUP's emphasis on community-building and outdoor activity, so as to help audiences recognize how SOUP will help them reach their goal. Creating a theme that gives the site and outdoorsy vibe will also help target this audience goal.
@@ -614,9 +614,9 @@ Plan your site's content.
 - images/fire2.jpg
 - images/ctf6.jpg
 
-- images/manhunt1.jpg
-- images/161things1.jpg
-- images/ctf1.jpg
+- images/manhunt2.jpg
+- images/161things2.jpg
+- images/ctf3.jpg
 
 - images/161-things-flyer.jpg
 
@@ -768,7 +768,19 @@ Document your site's layout.
   This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
 
 ![Explorative sketch of mobile version of upcoming events page](wide-exploration-upcoming.PNG)
+This sketch explores the desktop version version of the upcoming events page.I went the simple but effective route with the header and footer containing minimal but important content.The main page has pictures of upcoming events with text description to the side and a dropdown menu containing event details below.
+
+
+
 ![Explorative sketch of mobile version of upcoming events page](3rd-exploration-upcoming.PNG)
+This sketch explores the mobile version version of the upcoming events page.I went the simple but effective route with the header and footer containing minimal but important content.The main page has pictures of upcoming events with text description and a dropdown menu containing event details below each respective image.
+
+
+
+
+
+
+
 
   ![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
   ![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
@@ -800,7 +812,10 @@ Document your site's layout.
   Overall, this mobile layout will mirror the aesthetic and vibe of the wide-screen version while employing vertical stacking and simplified design patterns to accommodate the narrower display. The use of centered text and strategic placement of content blocks will contribute to a visually appealing and user-friendly presentation on mobile devices, enhancing the accessibility and engagement of the "Past Events" page for all users.
 
 
-![Final sketch of narrow version of "Upcoming Events" page](final-zero.jpg)u
+![Final sketch of narrow version of "Upcoming Events" page](final-upcoming-narrow.jpeg)
+This sketch focuses on the mobile version of the upcoming events page. I aimed for simplicity, keeping the header and footer straightforward with essential content. On the main page, there are images of upcoming events with text descriptions below. Each event image also has a dropdown menu for accessing additional event details.
+
+
 
 
 
@@ -817,6 +832,13 @@ My intention for this final desktop layout sketch of the "Home" page is to, agai
 Beneath the events section, there will be a dedicated area for poetry, presented in a side-by-side format to maximize the use of wide screens. Members' poems will be showcased with thoughtful design elements to complement the overall aesthetic of the page.
 
 This layout aims to balance imagery and text effectively, providing an immersive experience for visitors. The goal is to create a cohesive and visually appealing presentation that reflects the spirit and history of the events hosted by SOUP. Each element will be carefully arranged to optimize space and readability, enhancing the overall user experience of the "Past Events" page.
+
+
+
+![Final sketch of wide version of "Upcoming Events" page](final-upcoming-wide.jpeg)
+This sketch looks at the desktop/wide version of the upcoming events page. I aimed for simplicity, with the header and footer containing only essential information. The main page displays images of upcoming events with descriptions next to them, and below, there's a dropdown menu for event details.
+
+
 
 ![Final sketch of wide version of join us page](join-us-wide-final.jpg)
 The only difference between the final narrow version and the final wide version of the Join Us page (besides the hamburger menu) is that the flyer information is next to the flyer in the wide version.  This takes advantage of wide screens to provide the relavent content about the flyer right next to the flyer, so users can more easily see that the two pieces of content ar related.
@@ -849,6 +871,34 @@ The drop-down features we're using allow users to read the title of an upcoming 
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 TODO: interactivity plan
+
+- Hamburger menu pseudocode
+If the document width is greater than 1150 pixels:
+Hide the hamburger menu by adding the "hidden" class to #hamburger.
+Show the navigation menu by removing the "hidden" class from #menu.
+Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+else:
+Show the hamburger menu by removing the "hidden" class from #hamburger.
+Hide the navigation menu by adding the "hidden" class to #menu.
+Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+On window resize:
+If the document width is greater than 1150 pixels:
+Hide the hamburger menu by adding the "hidden" class to #hamburger.
+Show the navigation menu by removing the "hidden" class from #menu.
+Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+else:
+Show the hamburger menu by removing the "hidden" class from #hamburger.
+Hide the navigation menu by adding the "hidden" class to #menu.
+Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+When the hamburger menu is clicked:
+If the dropdown menu (#drop-down) has the "hidden" class:
+Remove the "hidden" class from #drop-down.
+else:
+Add the "hidden" class to #drop-down.
 
 
 ## Client Feedback & Minutes (Milestone 2)
