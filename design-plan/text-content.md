@@ -2,8 +2,12 @@
 # Text Content
 
 ## Welcome Blurb
+Welcome to SOUP - Students for Outdoor Unsupervised Playtime! We are a vibrant group of Cornell University students dedicated to making the most of the scenic beauty and open spaces around Ithaca. Our mission is to foster community and active lifestyles through fun, unsupervised outdoor events. Join us for a range of activities from capture the flag and games of sardines to snowball fights and camping trips. Whether you’re looking to relive childhood games or just enjoy the great outdoors with fellow students, SOUP is your go-to club for adventure and connection in nature. Let's play outside!
 
 ## History of SOUP
+Founded in 2019 by a dynamic group of Cornell University students, SOUP - Students for Outdoor Unsupervised Playtime has quickly grown into a flourishing community with over 400 members passionate about outdoor activities. With a rich history of organizing both annual and novel events each year, SOUP encourages student engagement by hosting a variety of activities on Cornell's campus and the picturesque surroundings of Ithaca. Members have the unique opportunity to suggest and participate in new events, ensuring a continually evolving and engaging lineup. SOUP's commitment to promoting social bonds and outdoor exploration is evident in its mission to provide exciting, student-led outdoor adventures, promising a lasting legacy of community and fun.
+
+## Member testimonies
 
 
 ## Past Events
