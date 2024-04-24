@@ -9,41 +9,86 @@
 </head>
 
 <body>
-    <div class="head-nav">
-        <header class="head-nav">
-            <picture class="logo">
-                <img src="design-plan/SOUP-provided-content/logo-2.png" alt="SOUP logo">
-                <!-- Source: https://design-plan/SOUP-provided-content/logo-2.png-->
-            </picture>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="upcoming-events.html">upcoming-events</a></li>
-                    <li><a href="past-events.html">Past Events</a></li>
-                    <li><a href="join-us.html">Join us</a></li>
-                </ul>
+    <header>
+        <div class = "header">
+            <div class = "logo-title">
+                <picture class = "logo">
+                    <!-- Source: client provided -->
+                    <img src="images/logo-transparent.png" alt= "">
+                </picture>
 
-            </nav>
-            <div class="content">
-                <h2>SOUP Upcoming Events</h2>
-
-                <div class="flexing-one">
-                    <picture>
-                        <img class="161things" src="design-plan/SOUP-provided-content/161-things2.jpg" alt="161things to do at cornell photo">
-                        <!-- Source: https://design-plan/SOUP-provided-content/161-things2.jpg.jpg-->
-                      </picture>
+                <div class= "title">
+                    <h1> SOUP<span class = "bold">:</span> </h1>
+                    <h2> Students for Outdoor Unsupervised Playtime </h2>
+                    <h4> Cornell University </h4>
                 </div>
-
-
-
-
-
-
             </div>
 
+            <div class = "hamburger-all">
+                <!-- Source: https://www.toptal.com/designers/htmlarrows/symbols/ -->
+                <button id = "hamburger" class = "hamburger-button"> &#9776;
+                </button>
+            </div>
+
+            <nav id = "menu">
+                <div class = "nav-buttons">
+                    <a href = "index.html"> Home </a>
+                    <a href = "past-events.html"> Past Events </a>
+                    <a href = "upcoming-events.html"> Upcoming Events </a>
+                    <a href = "join-us.html"> Join Us! </a>
+                </div>
+            </nav>
+        </div>
+
+        <div class = "drop-down" id = "drop-down">
+            <ul>
+                <li> <a href = "index.html"> Home </a> </li>
+                <li> <a href = "past-events.html"> Past Events </a> </li>
+                <li> <a href = "upcoming-events.html"> Upcoming Events </a> </li>
+                <li> <a href = "join-us.html"> Join Us! </a> </li>
+            </ul>
+        </div>
+
+    </header>
+
+    <div class="content">
+        <h2>SOUP Upcoming Events</h2>
+
+        <div class="flexing-one">
+            <picture>
+                <img class="161things" src="design-plan/SOUP-provided-content/161-things2.jpg" alt="161things to do at cornell photo">
+                <!-- Source: https://design-plan/SOUP-provided-content/161-things2.jpg.jpg-->
+                </picture>
+        </div>
 
 
 
+
+
+
+    </div>
+
+    <footer>
+        <div class = "footer-flex">
+            <div class = "footer-title">
+                <h1> SOUP </h1>
+            </div>
+
+            <div class = "footer-contact">
+                <h2> Follow us! </h2>
+                <h4> Instagram: <span class = "insta"> cornell__soup <span> </h4>
+            </div>
+        </div>
+
+        <div class = "footer-text">
+            <h2> Since 1982</h2>
+
+            <p> SOUP is not an officially registered organization at Cornell.</p>
+        </div>
+    </footer>
+
+    <script src="scripts/jquery-3.7.1.js"></script>
+    <script src="scripts/hamburger.js"></script>
 
 </body>
 </html>
