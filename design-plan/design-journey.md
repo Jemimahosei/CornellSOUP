@@ -341,6 +341,57 @@ TODO: take notes inline with questions
 
 TODO: add additional interviewees as needed
 
+**Interviewee 4:**
+
+  Sherkina is a freshman at Cornell University, passionate about computer science and the outdoors. She enjoys exploring nature, hiking, and participating in outdoor activities. As a computer science major, she says that she values the importance of technology and its potential to enhance day to day experiences.
+
+ 1. Please tell me a bit about yourself. You may omit any personal or private information.
+      - Cornell Freshman in A&S studying Computer Science.
+      - She's really into software and wants to become a Software Developer once she graduates.
+      - She's from Rwanda so she's still exploring everything at Cornell and wants to join a club but will probably do so in the fall.
+      - She's not that fond of the Cornell Dining options and oftens misses home food.
+ 2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
+
+    2a. What brought you to the event or attracted you to the organization?
+
+      - Yes, she has been actively involved in outdoor events from back home where she would go on camping events with her family but none since she came to Cornell.
+
+      - She's usually drawn to opportunities that allow her to engage in adventurous activities and connect with like-minded individuals who share a passion for outdoor recreation.
+
+    2b. Did you seek out information about the event/organization?
+
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+      - Yes, proactively sought out information to understand the nature of the activities offered and the overall experience to expect.
+
+      - Specifically looked for details about the location and logistics of camping events, requirements, and testimonials from past participants. Accessed this information through the event websites, social media pages, and sometimes by reaching out directly to event organizers.
+
+    2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+
+       - Her general experience in outdoor events has been incredibly rewarding. Had the opportunity to explore beautiful natural landscapes and challenge herself physically, and forge meaningful connections with other participants.
+
+  3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+
+     - NO, she has never been involved in SOUP. She is intrigued by it though and would want to give it a try since she misses having outdoor fun with friends.
+
+     3a. Why did you join SOUP?
+
+     3b. Before joining, did you seek out information about the organization?
+
+     3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+     3c. After joining, did you seek out information about the organization?
+
+     3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+  4. How is/was your experience as a part of the organization? Tell me a bit about it.
+      - As she has never been in the organization before she has no prior experience in the organization.
+
+  5. What haven't I asked you today that you think would be valuable for me to know?
+
+       - She thinks that organizations like SOUP should accomodate students with demanding academic schedules.
+       - Feels like it would be perfect if there was no significant time commitment in SOUP as her and a few friends she has on campus are interested in joining and prefer flexible times.
+
 
  **Interviewee 5:**
 1. Please tell me a bit about yourself. You may omit any personal or private information.
@@ -701,7 +752,8 @@ Document your site's layout.
 ![Explorative sketch of mobile version of past events page](past-events-exploration-narrow.jpeg)
   This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
 
-
+![Explorative sketch of mobile version of upcoming  events page](wide-exploration-upcoming.PNG)
+![Explorative sketch of mobile version of upcoming  events page](3rd-exploration-upcoming.PNG)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -727,6 +779,13 @@ Document your site's layout.
 
 
 
+![Final sketch of narrow version of "Upcoming Events" page](final-zero.jpg)
+
+
+
+
+
+
 
 **Wide Design:**
 
@@ -734,7 +793,6 @@ Document your site's layout.
   My intention for this final desktop layout sketch of the "Home" page is to, again, create a clean, dynamic layout with a mix of block and floating content that are stacked both vertically and horizontally to take advantage of the visual width of the browser. I implement the same header as described above to create consistency across pages. In this wide version, however, I take advatange of the width of the screen and omit the hamburger button, instead implementing a horizontal navigation bar with button links to pages. Below the header, my sketch of the page creates an introduction to SOUP with SOUPs titled written out and a introduction blurb below it. Below this, I implement the same image carousel, as explained in the narrow sketch description. Next, I create a horizontal flexblox that includes text about the history of SOUP to the left and quotes from members to the right. Lastly, I implement a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use horizontal flexboxes in bringing this layout to life, as annotated in the sketch.
 
 ![Final sketch of wide version of "Past Events" page](final-past-events-wide.jpeg)
-  For the final desktop layout of the "Past Events" page, I aim to design a visually engaging and informative format. The page begins with a prominent header followed by a clear "Past Events" heading (h2) to establish the page's content. The layout features a side-by-side design showcasing past events and their descriptions. On one side, each event is represented by an image with a brief caption below, providing a snapshot of the event. On the opposite side, corresponding event descriptions are displayed, each explained in a single paragraph detailing what occurred and how the event unfolded.
 
   Beneath the events section, there will be a dedicated area for poetry, presented in a side-by-side format to maximize the use of wide screens. Members' poems will be showcased with thoughtful design elements to complement the overall aesthetic of the page.
 
