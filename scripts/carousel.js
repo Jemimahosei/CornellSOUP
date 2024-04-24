@@ -10,7 +10,16 @@
 
 /* TODO: Replace TODO_SLIDES_CSS_SELECTOR with a CSS selector that selects _all_ slides. (See "hint" above in access element snippet.) */
 
+
 const SLIDES = $('.slides > .slide');
+console.log(SLIDES)
+
+$(document).ready(function() {
+  $("#s2").addClass("hidden");
+  $("#s3").addClass("hidden");
+  $("#s4").addClass("hidden");
+  $("#s5").addClass("hidden");
+});
 
 /* See "show next slide snippet" to use */
 function nextSlide() {
