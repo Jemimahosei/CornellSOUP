@@ -341,6 +341,57 @@ TODO: take notes inline with questions
 
 TODO: add additional interviewees as needed
 
+**Interviewee 4:**
+
+  Sherkina is a freshman at Cornell University, passionate about computer science and the outdoors. She enjoys exploring nature, hiking, and participating in outdoor activities. As a computer science major, she says that she values the importance of technology and its potential to enhance day to day experiences.
+
+ 1. Please tell me a bit about yourself. You may omit any personal or private information.
+      - Cornell Freshman in A&S studying Computer Science.
+      - She's really into software and wants to become a Software Developer once she graduates.
+      - She's from Rwanda so she's still exploring everything at Cornell and wants to join a club but will probably do so in the fall.
+      - She's not that fond of the Cornell Dining options and oftens misses home food.
+ 2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
+
+    2a. What brought you to the event or attracted you to the organization?
+
+      - Yes, she has been actively involved in outdoor events from back home where she would go on camping events with her family but none since she came to Cornell.
+
+      - She's usually drawn to opportunities that allow her to engage in adventurous activities and connect with like-minded individuals who share a passion for outdoor recreation.
+
+    2b. Did you seek out information about the event/organization?
+
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+      - Yes, proactively sought out information to understand the nature of the activities offered and the overall experience to expect.
+
+      - Specifically looked for details about the location and logistics of camping events, requirements, and testimonials from past participants. Accessed this information through the event websites, social media pages, and sometimes by reaching out directly to event organizers.
+
+    2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+
+       - Her general experience in outdoor events has been incredibly rewarding. Had the opportunity to explore beautiful natural landscapes and challenge herself physically, and forge meaningful connections with other participants.
+
+  3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+
+     - NO, she has never been involved in SOUP. She is intrigued by it though and would want to give it a try since she misses having outdoor fun with friends.
+
+     3a. Why did you join SOUP?
+
+     3b. Before joining, did you seek out information about the organization?
+
+     3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+     3c. After joining, did you seek out information about the organization?
+
+     3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+  4. How is/was your experience as a part of the organization? Tell me a bit about it.
+      - As she has never been in the organization before she has no prior experience in the organization.
+
+  5. What haven't I asked you today that you think would be valuable for me to know?
+
+       - She thinks that organizations like SOUP should accomodate students with demanding academic schedules.
+       - Feels like it would be perfect if there was no significant time commitment in SOUP as her and a few friends she has on campus are interested in joining and prefer flexible times.
+
 
  **Interviewee 5:**
 1. Please tell me a bit about yourself. You may omit any personal or private information.
