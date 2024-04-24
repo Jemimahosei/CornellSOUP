@@ -581,6 +581,7 @@ Plan your site's content.
 
 - "Welcome Blurb" text (provided in text-content.md)
 - "History of Organization" text (provided in text-content.md)
+- "Member Quotes" text (provided in text-content.md)
 - "Past Events" text (provided in text-content.md), including:
   - "Leaf Pile"
   - "Burn Night"
@@ -787,6 +788,7 @@ Document your site's layout.
 
 ![Final sketch of narrow version of "Home" page](final-home-narrow.png)
   My intention for this final mobile layout sketch of the "Home" page is to create a clean, dynamic layout with a mix of block and floating content that are stacked vertically to fit a narrow screen. I utilized various common design patterns including a header with a logo in the top left, the title of the organization to the right of the logo, and a hamburger button aligned to the far right. Upon clicking the hamburger button, a drown-down navigation menu will appear with a vertical list of buttons linking to all pages of the site. I implemented the hamburger button for this narrow layout so that the header wouldn't become too busy. My sketch of the page creates an introduction to SOUP with SOUPs titled written out at the top and a introduction blurb below it. I implemented an image carousel below this so that I could include various images on the page that help introduce the organization to audiences; a carousel was helpful in achieving this while keeping the look of page clean. I designed the carousel as a block that reaches the edge of the browser, with the image centered within this block. Lastly, I implemented a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use both horizontal and vertical flexboxes in designing this layout, as annotated in the sketch.
+
 
 ![Final sketch of narrow version of "Past Events" page](final-past-events-narrow.jpeg)
   For the mobile version of the "Past Events" page, I aim to replicate the same engaging and dynamic layout while adapting it to fit a narrow screen. This design will prioritize vertical stacking of content to optimize readability and user experience on mobile devices. The header will include the organization's title and logo, with a hamburger button positioned at the far right to reveal a dropdown navigation menu when tapped.
