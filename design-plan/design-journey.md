@@ -771,7 +771,13 @@ Document your site's layout.
 
 
 ![Explorative sketch of desktop version of past events page](past-events-exploration-wide.jpeg)
+  This sketch explores the desktop version of the "past events" page. After the header there is a past events heading (h2) to tell what the page entails. The page features a side by side design of the past events and their description. One side of the page will have an images of the event and a figcaption below each to give a brief idea of what the image is about and the other side of the page will have descriptions of each corresponding event, explaining in one paragraph about what happened in the event and how it went. Below the events, there will be a poems section which will have two poems written by the members in a side by side design also to make use of the wide screen size.
+
+
+
+
 ![Explorative sketch of mobile version of past events page](past-events-exploration-narrow.jpeg)
+  This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
 
 
 
@@ -789,12 +795,20 @@ Document your site's layout.
 
 ![Final sketch of narrow version of "Past Events" page](final-past-events-narrow.jpeg)
 
+
+
+
+
 **Wide Design:**
 
 ![Final sketch of wide version of "Home" page](final-home-wide.png)
   My intention for this final desktop layout sketch of the "Home" page is to, again, create a clean, dynamic layout with a mix of block and floating content that are stacked both vertically and horizontally to take advantage of the visual width of the browser. I implement the same header as described above to create consistency across pages. In this wide version, however, I take advatange of the width of the screen and omit the hamburger button, instead implementing a horizontal navigation bar with button links to pages. Below the header, my sketch of the page creates an introduction to SOUP with SOUPs titled written out and a introduction blurb below it. Below this, I implement the same image carousel, as explained in the narrow sketch description. Next, I create a horizontal flexblox that includes text about the history of SOUP to the left and quotes from members to the right. Lastly, I implement a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use horizontal flexboxes in bringing this layout to life, as annotated in the sketch.
 
 ![Final sketch of wide version of "Past Events" page](final-past-events-wide.jpeg)
+
+
+
+
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience.
