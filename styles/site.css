@@ -35,7 +35,7 @@ header {
 
 .logo-title h1 {
     text-align: left;
-    font-size: 50px;
+    font-size: 48px;
     margin: 0px;
     padding: 0px;
 }
@@ -55,15 +55,18 @@ header {
 .title h4 {
     font-style: italic;
     margin-bottom: 0px;
+    font-size: 14px;
 }
 
 .nav-buttons {
     display: flex;
     flex-direction: row;
-    padding: 80px 25px 80px 40px;
+    padding: 80px 20px 80px 40px;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    margin-right: 0px;
+    text-transform: uppercase;
 }
 
 .nav-buttons a {
@@ -72,13 +75,13 @@ header {
     margin: 10px 10px 10px 10px;
     color:rgb(35, 35, 35);
     background-color: #FFE4A3;
-    padding: 10px 10px 10px 10px;
+    padding: 8px 8px 8px 8px;
     text-decoration: none;
     text-align: center;
 }
 
-header .hamburger-all {
-    margin: 55px;
+.hamburger-all {
+    margin: 5px;
 }
 
 .hamburger-button {
@@ -94,15 +97,15 @@ header .hamburger-all {
     background-color: #FFE4A3;
     flex-grow: 1;
     padding: 10px;
-  }
+}
+
 .past-events {
     display: flex;
     flex-direction: row;
     background-color: #FFE4A3;
     justify-content: center;
     align-content: center;
-
-      }
+}
 
 footer {
     background-color: #2596be;
@@ -141,7 +144,6 @@ footer {
 .insta {
     color: #FFE4A3;
 }
-
 
 .bold {
     color: #2596be;
@@ -198,10 +200,49 @@ footer {
     text-decoration: none;
 }
 
+.hamburger-button {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: #FFE4A3;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    justify-content: center;
+    margin: 90px;
+}
+
+.hidden {
+    display: none;
+}
+
+.drop-down {
+    border-block: solid;
+    border-color: #2596be;
+}
+
+.drop-down a {
+    display: block;
+    background-color: #FFE4A3;
+    width: 130px;
+    font-size: 14px;
+    margin: 10px 10px 10px 80px;
+    color:rgb(35, 35, 35);
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+
+.drop-down ul {
+    list-style-type: none;
+}
+
 /* for mobile version */
 @media (max-width: 800px) {
-
-    .header {
+    /* .header {
         padding: 0px;
     }
 
@@ -220,7 +261,8 @@ footer {
 
     .nav-buttons a {
         font-size: 14px;
-    }
+    } */
+
     .hist-quotes {
         flex-direction: column;
 

@@ -18,13 +18,19 @@
                 </picture>
 
                 <div class= "title">
-                    <h1> SOUP: </h1>
+                    <h1> SOUP<span class = "bold">:</span> </h1>
                     <h2> Students for Outdoor Unsupervised Playtime </h2>
                     <h4> Cornell University </h4>
                 </div>
             </div>
 
-            <nav>
+            <div class = "hamburger-all">
+                <!-- Source: https://www.toptal.com/designers/htmlarrows/symbols/ -->
+                <button id = "hamburger" class = "hamburger-button"> &#9776;
+                </button>
+            </div>
+
+            <nav id = "menu">
                 <div class = "nav-buttons">
                     <a href = "index.html"> Home </a>
                     <a href = "past-events.html"> Past Events </a>
@@ -33,6 +39,16 @@
                 </div>
             </nav>
         </div>
+
+        <div class = "drop-down" id = "drop-down">
+            <ul>
+                <li> <a href = "index.html"> Home </a> </li>
+                <li> <a href = "past-events.html"> Past Events </a> </li>
+                <li> <a href = "upcoming-events.html"> Upcoming Events </a> </li>
+                <li> <a href = "join-us.html"> Join Us! </a> </li>
+            </ul>
+        </div>
+
     </header>
 
     <div class="content">
@@ -52,9 +68,27 @@
 
     </div>
 
+    <footer>
+        <div class = "footer-flex">
+            <div class = "footer-title">
+                <h1> SOUP </h1>
+            </div>
 
+            <div class = "footer-contact">
+                <h2> Follow us! </h2>
+                <h4> Instagram: <span class = "insta"> cornell__soup <span> </h4>
+            </div>
+        </div>
 
+        <div class = "footer-text">
+            <h2> Since 1982</h2>
 
+            <p> SOUP is not an officially registered organization at Cornell.</p>
+        </div>
+    </footer>
+
+    <script src="scripts/jquery-3.7.1.js"></script>
+    <script src="scripts/hamburger.js"></script>
 
 </body>
 </html>
