@@ -332,106 +332,14 @@ Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phs
 
 **Interviewee 3:**
 
-Sofia is a Senior at Cornell who has been involved in SOUP who became introduced to SOUP through their 24-hour capture the flag event. Sofia enjoys spending time outside and amongst the company of friends, which is why she was drawn to SOUP and continues to participate in their events!
+TODO: tell us a bit about your participant
+Meghan is a junior at Cornell
 
-1. Please tell me a bit about yourself. You may omit any personal or private information.
-   - Senior at Cornell in Arts and Sciences studying Info Sci and Bio
-   - Concentrating in Data Science in Info Sci
-   - Got introduced to SOUP sophomore year through the 24-hour capture the flag event that year
-   - From New Jersey
-   - Likes to spend time outside
-   - Likes to read
-
-2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
-   - No, never involved in structured outdoor event/organization besides SOUP.
-
-    2a. What brought you to the event or attracted you to the organization?
-
-    2b. Did you seek out information about the event/organization?
-    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-
-    2d. How was your experience at the event or as a part of the organization? Tell me a bit about it.
-
-3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
-
-   3a. Why did you join SOUP?
-       - SOUP is a big group of like-minded people interested in doing fun and super creative events
-       - It's not always easy to find a group like this, which makes SOUP so special and made her want to join
-       - They always have fun, fresh ideas
-
-   3b. Before joining, did you seek out information about the organization?
-   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-       - Was there when the organization was beginning/in its very early days, so there was not a lot any Instagram yet
-       - Originally heard about it the organization through friends, then joined the Slack group; in the slack, sought out information about what SOUP was planning and became interested in it
-
-   3c. After joining, did you seek out information about the organization?
-   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-      - Now as a part of the organization, still finds information through the Slack groupchat
-      - Seeks out logistical informaiton about upcoming events
-      - Also looks for images from last event– after an event, she will check the slack often to see if pictures have been posted yet
-      - Also gets information from her friends involved in the organization
-
-4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
-      - "Great", super unique, makes for fun stories
-      - Met a bunch of cool people through it that she has become close friends with
-      - "A very nice community to be apart of"
-
-5. What haven't I asked you today that you think would be valuable for me to know?
-      - Cool if website featured...
-        -  What people were apart of the organization
-        -  Information about past events
-        -  Information about upcoming events
-        -  Pictures!
-
-  **Interviewee 4:**
-
-  Sherkina is a freshman at Cornell University, passionate about computer science and the outdoors. She enjoys exploring nature, hiking, and participating in outdoor activities. As a computer science major, she says that she values the importance of technology and its potential to enhance day to day experiences.
-
-  1. Please tell me a bit about yourself. You may omit any personal or private information.
-
-   - Cornell Freshman in A&S studying Computer Science.
-   - She's really into software and wants to become a Software Developer once she graduates.
-   - She's from Rwanda so she's still exploring everything at Cornell and wants to join a club but will probably do so in the fall.
-   - She's not that fond of the Cornell Dining options and oftens misses home food.
-
-  2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
-
-        2a. What brought you to the event or attracted you to the organization?
-
-        - Yes, she has been actively involved in outdoor events from back home where she would go on camping events with her family but none since she came to Cornell.
-        - She's usually drawn to opportunities that allow her to engage in adventurous activities and connect with like-minded individuals who share a passion for outdoor recreation.
-
-        2b. Did you seek out information about the event/organization?
-        2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-
-        - Yes, proactively sought out information to understand the nature of the activities offered and the overall experience to expect.
-
-        - Specifically looked for details about the location and logistics of camping events, requirements, and testimonials from past participants. Accessed this information through the event websites, social media pages, and sometimes by reaching out directly to event organizers.
-
-        2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
-
-        - Her general experience in outdoor events has been incredibly rewarding. Had the opportunity to explore beautiful natural landscapes and challenge herself physically, and forge meaningful connections with other participants.
-
-3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
-    - NO, she has never been involved in SOUP. She is intrigued by it though and would want to give it a try since she's missed having outdoor fun with friends.
-
-   3a. Why did you join SOUP?
-
-   3b. Before joining, did you seek out information about the organization?
-   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-
-   3c. After joining, did you seek out information about the organization?
-   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-
-4. How is/was your experience as a part of the organization? Tell me a bit about it.
-
-    - As she has never been in the organization before she has no prior experience in the organization.
+TODO: copy interview questions
+TODO: take notes inline with questions
 
 
-5. What haven't I asked you today that you think would be valuable for me to know?
-
-    - She thinks that organizations like SOUP should accomodate students demanding academic schedules.
-    - Feels like it would be perfect if there was no significant time commitment in SOUP as her and a few friends she has on campus are interested in joining and prefer flexible times.
+TODO: add additional interviewees as needed
 
 
  **Interviewee 5:**
