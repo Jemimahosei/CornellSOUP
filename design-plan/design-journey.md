@@ -752,8 +752,7 @@ Document your site's layout.
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site and
-
+  Our proposed interactivity, featuring elements like a hamburger button in the header, an image carousel, and drop-down blocks, serves to enhance the usability and overall user experience of our site. The hamburger button provides a streamlined navigation experience on mobile devices, allowing users to access different pages of the site conveniently without cluttering the header. The image carousel showcases multiple visuals in a dynamic and engaging manner, allowing us to highlight various aspects of SOUP's outdoor activities and events. This not only captures the audience's attention but also provides a visually appealing introduction to our organization. Additionally, the drop-down blocks offer interactive sections where users can access additional information or features without overwhelming the main content, ensuring a smooth and organized browsing experience. Overall, these interactive elements are strategically implemented to facilitate navigation, highlight key content, and make the site engaging and user-friendly for our audience of outdoor enthusiasts and potential members.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
