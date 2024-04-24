@@ -108,7 +108,7 @@ header {
     align-content: center;
 }
 
-.flexing-things{
+.flexing-things {
     display: flex;
     flex-direction: row;
     background-color: #FFE4A3;
@@ -127,8 +127,14 @@ header {
     padding-bottom: 0px;
 }
 
+.picture {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 .content h2 {
     text-align: center; /* Center the text within the h2 tag */
+    padding: 20px;
 }
 
 .paragraph-section {
@@ -146,6 +152,7 @@ header {
 }
 
 .paragraph-section h3 {
+    margin-top: 0px;
     font-size: 28px;
 }
 
@@ -187,9 +194,9 @@ header {
 .dropdown-content {
     display: block;
     background-color: #2596be;
-    padding: 10px;
+    padding: 10px 10px 10px 10px;
     width: 100%;
-    height: 100%;
+    height: 98%;
     margin: 0px;
 }
 
