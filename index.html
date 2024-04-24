@@ -57,49 +57,61 @@
 
         <p class = "intro-blurb"> Welcome to SOUP - Students for Outdoor Unsupervised Playtime! We are a vibrant group of Cornell University students dedicated to making the most of the scenic beauty and open spaces around Ithaca. Our mission is to foster community and active lifestyles through fun, unsupervised outdoor events. Join us for a range of activities from capture the flag and games of sardines to snowball fights and camping trips. Whether you’re looking to relive childhood games or just enjoy the great outdoors with fellow students, SOUP is your go-to club for adventure and connection in nature. Let's play outside! <p>
 
-        <div class = "next">
-            <button id = "button-r" class = "button-r "> NEXT </button>
+        <div class = "carousel">
+
+            <div class = "prev">
+                <button id = "button-l" class = "button-l "> < </button>
+            </div>
+
+            <div class = "slides" id = "slides">
+                <div class = "slide" id = "s1">
+                    <figure>
+                        <!-- Source: client provided -->
+                        <img src="images/ctf4.jpg" alt= " ADD ">
+                    </figure>
+                </div>
+
+                <div class = "slide" id = "s2">
+                    <figure>
+                        <!-- Source: client provided -->
+                        <img src="images/ctf5.jpg" alt= " ADD ">
+                    </figure>
+                </div>
+
+                <div class = "slide" id = "s3">
+                    <figure>
+                        <!-- Source: client provided -->
+                        <img src="images/camping1.jpg" alt= " ADD ">
+                    </figure>
+                </div>
+
+                <div class = "slide" id = "s4">
+                    <figure>
+                        <!-- Source: client provided -->
+                        <img src="images/snow1.jpg" alt= " ADD ">
+                    </figure>
+                </div>
+
+                <div class = "slide" id = "s5">
+                    <figure>
+                        <!-- Source: client provided -->
+                        <img src="images/leaf-pile6.jpg" alt= " ADD ">
+                    </figure>
+                </div>
+            </div>
+
+            <div class = "next">
+                <button id = "button-r" class = "button-r"> > </button>
+            </div>
+
         </div>
 
-        <div class = "next">
-            <button id = "button-l" class = "button-l "> PREV </button>
-        </div>
-
-        <div class = "slides" id = "slides">
-            <div class = "slide" id = "s1">
-                <figure>
-                    <!-- Source: client provided -->
-                    <img src="images/ctf4.jpg" alt= " ADD ">
-                </figure>
-            </div>
-
-            <div class = "slide" id = "s2">
-                <figure>
-                    <!-- Source: client provided -->
-                    <img src="images/ctf5.jpg" alt= " ADD ">
-                </figure>
-            </div>
-
-            <div class = "slide" id = "s3">
-                <figure>
-                    <!-- Source: client provided -->
-                    <img src="images/camping1.jpg" alt= " ADD ">
-                </figure>
-            </div>
-
-            <div class = "slide" id = "s4">
-                <figure>
-                    <!-- Source: client provided -->
-                    <img src="images/snow1.jpg" alt= " ADD ">
-                </figure>
-            </div>
-
-            <div class = "slide" id = "s5">
-                <figure>
-                    <!-- Source: client provided -->
-                    <img src="images/leaf-pile6.jpg" alt= " ADD ">
-                </figure>
-            </div>
+        <div class = "dots">
+            <button class = "dot-button" id = "d1">  </button>
+            <button class = "dot-button" id = "d2">  </button>
+            <button class = "dot-button" id = "d3">  </button>
+            <button class = "dot-button" id = "d4"> </button>
+            <button class = "dot-button" id = "d5">  </button>
         </div>
 
         <div class = "hist-quotes">
@@ -140,7 +152,7 @@
     </footer>
 
     <script src="scripts/jquery-3.7.1.js"></script>
-    <script src="scripts/hamburger.js"></script>
     <script src="scripts/carousel.js"></script>
+    <script src="scripts/hamburger.js"></script>
 
 </body>
