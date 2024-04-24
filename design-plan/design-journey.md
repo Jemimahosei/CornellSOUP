@@ -615,7 +615,7 @@ Join Us Page: This page directly addresses the goal of potential new members to 
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 >
 Theme idea 1: classic woodsy nature theme
-)
+
 Color: (greens, greys, and whites with accents of orange)
 Green, grey, and white colors can evoke the feeling of being in a lush forest or an orchard. Green represents nature and growth, while grey and white can provide a clean backdrop reminiscent of clouds and sky. Accents of orange can be used to incorporate  warmth and  vibrant energy into the design.
 
