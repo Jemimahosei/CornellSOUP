@@ -21,7 +21,7 @@ Place all design journey images inside the "design-plan" folder and then link th
 
 Our client is Cornell SOUP (students for outdoor unsupervised playtime), which is an unofficial campus club.  They are unofficial because they put on events that Cornell might not fully approve of in terms of safety (e.g. 24 hour capture the flag in the woods), though they do take safety very seriously and do their best to ensure the health of all SOUP activity participants.  For example, they have dedicated medics for each event and they ensure a means of communication with the outside world, even if the event takes place in a remote area.
 
-SOUP was founded in 2021 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through "crazy" outdoor adventures.  They want to have a website that showcases their mission, the past events that they're put on, and their upcoming events.
+SOUP was founded in 2020 during the pandemic.  It is currently being run by its second generation of leaders.  It is an organization dedicated to helping students connect with each other through "crazy" outdoor adventures.  They want to have a website that showcases their mission, the past events that they're put on, and their upcoming events.
 
 SOUP leaders don't want a big site.  They just want something slightly more official and accessible than Intsagram and GroupMe to use to connect with their members and prospective participants.  They don't require a site reliant on advanced web design practices, so we are confident that we will be able to build a website that will be satisfactory.
 
@@ -75,7 +75,7 @@ SOUP leaders don't want a big site.  They just want something slightly more offi
 - most events are held annually (for the last 4 years)
 - values of the organization: playfulness, freedom, connection
 
-1. Why are you looking for a new website or updating your existing site?
+3. Why are you looking for a new website or updating your existing site?
 
 - currently there is no website
 - lots of people have asked if there is a website
@@ -492,21 +492,21 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 1. <https://scl.cornell.edu/coe>
 
-    ![narrow version of the COE website](design-plan/coe_narrow.jpg)
+    ![narrow version of the COE website](coe_narrow.jpg)
 
-    ![wide version of the COE website](design-plan/coe_wide.jpg)
+    ![wide version of the COE website](coe_wide.jpg)
 
 2. <https://cornelloutingclub.org/>
 
-    ![narrow version of the outing club website](design-plan/outing_club_narrow.jpg)
+    ![narrow version of the outing club website](outing_club_narrow.jpg)
 
-    ![wide version of the outing club website](design-plan/outing_club_wide.jpg)
+    ![wide version of the outing club website](outing_club_wide.jpg)
 
 3. <https://www.nols.edu/en/#>
 
-    ![narrow version of the NOLS website](design-plan/nols_narrow.jpg)
+    ![narrow version of the NOLS website](nols_narrow.jpg)
 
-    ![wide version of the NOLS website](design-plan/nols_wide.jpg)
+    ![wide version of the NOLS website](nols_wide.jpg)
 
 
 ### Example Website 1 Review (Milestone 2)
@@ -589,6 +589,8 @@ Plan your site's content.
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
 - images/logo-transparent.png
+- *Updated content after meeting with client: blurb about GroupMe
+- *Updated content after meeting with client: paragraph about flyers (sopcifically 161 things flyer) (note: they gave us last year's flyer because this one isn't ready yet)
 
 - images/leaf-pile6.jpg
 - images/snow1.jpg
@@ -608,6 +610,7 @@ Plan your site's content.
 
 - images/161-things-flyer.jpg
 
+
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
@@ -626,6 +629,8 @@ Iteration 1:
 ![First iteration of card sorting for content organization](content-iteration1.png)
 
 For iteration 1, we grouped content into four general categories: upcoming events, past events, how to get involved and get in touch, and general information about what SOUP is.  These categories match up with the user goals we stated above in the goals section.  We decided to separate past events and upcoming events because some users may want to learn about what SOUP has done in the past, while others might just be interested in what's coming up in the future.  We made one category with general information about SOUP, so users can learn more about SOUP's mission and history.  We separated the contact info/how to get involved info into its own category because some people who come to the site might just want to learn more about SOUP and its events and might decide not to join, and some might already be a part of SOUP so they don't need that information.
+
+Note: we later added additional contact details in the category with the Instagram and GroupMe links after doing the initial card-sorting.
 
 Iteration 2:
 ![Second iteration of card sorting for content organization](content-iteration2.png)
@@ -752,8 +757,14 @@ Document your site's layout.
 ![Explorative sketch of mobile version of past events page](past-events-exploration-narrow.jpeg)
   This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
 
-![Explorative sketch of mobile version of upcoming  events page](wide-exploration-upcoming.PNG)
-![Explorative sketch of mobile version of upcoming  events page](3rd-exploration-upcoming.PNG)
+![Explorative sketch of mobile version of upcoming events page](wide-exploration-upcoming.PNG)
+![Explorative sketch of mobile version of upcoming events page](3rd-exploration-upcoming.PNG)
+
+![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
+![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
+
+![Explorative sketch #1 of narrow version of join us page](join-us-narrow1.jpg)
+![Explorative sketch #2 of narrow version of join us page](join-us-narrow2.jpg)
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -779,11 +790,11 @@ Document your site's layout.
 
 
 
-![Final sketch of narrow version of "Upcoming Events" page](final-zero.jpg)
+![Final sketch of narrow version of "Upcoming Events" page](final-zero.jpg)u
 
 
 
-
+![Final sketch of narrow version of join us page](join-us-narrow-final.jpg)
 
 
 
@@ -798,6 +809,9 @@ Document your site's layout.
 
   This layout aims to balance imagery and text effectively, providing an immersive experience for visitors. The goal is to create a cohesive and visually appealing presentation that reflects the spirit and history of the events hosted by SOUP. Each element will be carefully arranged to optimize space and readability, enhancing the overall user experience of the "Past Events" page.
 
+
+
+![Final sketch of wide version of join us page](join-us-wide-final.jpg)
 
 
 ### Design Rationale (Milestone 2)
