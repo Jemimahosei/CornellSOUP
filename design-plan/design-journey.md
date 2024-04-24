@@ -759,7 +759,13 @@ Document your site's layout.
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site and
+Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site by relying on common and familiar web design patterns.
+
+Our image carousel ensures that users can browse through lots of photos without the images taking up a large amount of room on the site.  With the image carousel, what would be a long page cluttered with photos becomes a streamlined page that allows users to navigate the site quickly and easily to find what they're looking for.  If they want to spend time browsing images, then they can use the carousel and if not, then the images are out of the user's way.
+
+The hamburger menu on the narrow version of the site is a common design pattern in responsive web design.  It allows the nav menu to not take up an inordinate amount of space in the narrow version of a site.  This is helpful because it reduces "clutter" on the site and makes it easier to use.
+
+The drop-down features we're using allow users to read the title of an upcoming event and then click on a button to reveal more information about the event, such as when it's taking place.  This allows users to browse through events by their titles and then choose whether or not they want to learn more about it.  Many users will likely be comeing to the site to learn more about a specific upcoming event, so this interactivity feature allows them to quickly find the event of interest without having to do a lot of scrolling and parsing of information.
 
 
 ## Interactivity Plan (Milestone 2)
