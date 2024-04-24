@@ -134,7 +134,8 @@ header {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: #17a586; /* Same color as the header */
+    padding: 20px;
+    background-color:#2596be;
     text-align: center;
     display: flex;
     justify-content: space-between;
@@ -143,7 +144,7 @@ header {
 }
 
 .dropdown-button {
-    background-color: #4CAF50; /* Green */
+    background-color:#FFE4A3;
     border: none;
     color: white;
     padding: 15px;
