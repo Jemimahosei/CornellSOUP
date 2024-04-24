@@ -342,37 +342,93 @@ TODO: take notes inline with questions
 TODO: add additional interviewees as needed
 
 
+ **Interviewee 5:**
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+    Meghan is a Junior here at Cornell University. She wasn't super outdoorsy as a freshman but got into the outdoors later on.
+
+
+
+2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
+   - She teaches classes through the outdoor education department here at Cornell.
+   -  She is also i She is also Involved with Soup and On the eboard for the outing club
+
+
+
+    2a. What brought you to the event or attracted you to the organization?
+    -She wanted to try new things
+     -Find ways to get active and be outside
+
+
+
+    2b. Did you seek out information about the event/organization?
+    She was one of the founding fathers of Cornell Soup
+
+    2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+       -
+
+    2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
+    - A bunch of friends doing stuff all together and have experiences that were outside the box
+
+
+
+3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
+   - Not as active this semester
+
+
+   3a. Why did you join SOUP?
+    -Because it was a  bunch of friends doing stuff all together and having experiences that were outside the box
+
+
+
+
+   3b. Before joining, did you seek out information about the organization?
+   3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+
+   3c. After joining, did you seek out information about the organization?
+   3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
+    - Through Quarter cards to dorms, group me regularly  , outing  club
+
+
+4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
+
+5. What haven't I asked you today that you think would be valuable for me to know?
+    -Soup is a great group of people who wanted to explore what it meant to be an adult and still have fun that shaped her experience at cornell
+
+
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
-
+Goal 1: to gain knowledge about upcoming SOUP events and other related logistical information
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - We can meet this goal by including information on the page about upcoming SOUP events, including their time and location, as well as including links to join SOUP groupchats for further information and discussion of events. We can design the site so that this information is clear and available to users, perhaps by designating this information to clearly titled pages.
+  -
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - Including this event and logistical information and organizing it in a way that is readable and clear is key for meeting this goal. Audience interviewees expressed a struggle to find clear, consistent information about SOUP's events; these design choices can help solve this problem for the organization.
+  - This goal particularly targets existing SOUP members seeking to continue their participation in the organization,
 
-Goal 2: TODO: brief title
-
+Goal 2: to enjoy time being active outside amongst like-minded people
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - We can meet this general goal of users to enjoy time being active outside and in the company of others by highlighting SOUP's emphasis on taking advantage of the beautiful outdoors in and around Cornell's campus to bond with others. We can, more specifically, include images from events in different outdoor locations. We can also include lots of images of people having fun in groups while at SOUP events. We can also include descriptive text, or even testimonials from SOUP members, about how SOUP facilitates outdoor activity and social interaction. We can also create a outdoors-inspired, foresty theme for the site, perhaps implementing a color scheme with lots of greens.
+  -
+  - About/Home page introducing the club, a page featuring past events, testimonials for people who participated from the past
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - Including content illustrating SOUP's efforts to spend time outdoors and enjoy time with others will illustrate SOUP's emphasis on community-building and outdoor activity, so as to help audiences recognize how SOUP will help them reach their goal. Creating a theme that gives the site and outdoorsy vibe will also help target this audience goal.
 
-Goal 3: TODO: brief title
+Goal 3: to gain knowledge about SOUP organization's mission and past events to investigate SOUP as a potential outlet for outdoor fun
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - We can meet this goal by including general content on the site that introduces the organization and it's mission, particularly text content. This content could include a history of SOUP, information about past events hosted by SOUP, and quotes from people involved. We could maybe highlight this information by placing it on the home page so it is very accessible for the audience.
 
-TODO: design ideas and rationale
-
-
-TODO: add as many goals as needed
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Designing the site so that SOUP's goals as an organization are evident, specifically through the inclusion of thorough text content about SOUP's origins and recent activity, can certainly help meet this goal of users to investigate SOUP as a new method for enjoying the outdoors. Making this content very obvious and emphasized on the site on a main page will be key for this.
 
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+The audience for SOUP's website is, generally speaking, Cornell students who are interested in group outdoor activity. More specifically, the audience is both existing SOUP members and potential members who may want to explore this interest through SOUP. Although it encompasses two groups, this audience is cohesive in that all audience members are united by a common goal of spending time outdoors being active and enjoying the company of like-minded individuals.
 
 
 ## Website Design Exploration (Milestone 2)
@@ -463,16 +519,48 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > Briefly summarize the content; do not include the content here.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- "Welcome Blurb" text (provided in text-content.md)
+- "History of Organization" text (provided in text-content.md)
+- "Past Events" text (provided in text-content.md), including:
+  - "Leaf Pile"
+  - "Burn Night"
+  - "Camping"
+  - "Snowball Fight"
+  - "Capture the Flag"
+  - "Poem #1"
+  - "Poem #2"
+- "Upcoming Events" text (provided in text-content.md), including:
+  - "Manhunt"
+  - "161 Things"
+  - "Capture the Flag 2024"
+-
+- "Connect" text (provided in text-content.md)
+- "Suggest an idea" text (provided in text-content.md)
+- "Spread the word" text (provided in text-content.md)
+- images/logo-transparent.png
 
+- images/leaf-pile6.jpg
+- images/snow1.jpg
+- images/ctf4.jpg
+- images/camping1.jpg
+- images/ctf5.jpg
+
+- images/leaf-pile3.jpg
+- images/snowball-fight1.jpg
+- images/camping2.jpg
+- images/fire2.jpg
+- images/ctf6.jpg
+
+- images/manhunt1.jpg
+- images/161things1.jpg
+- images/ctf1.jpg
+
+- images/161-things-flyer.jpg
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+
 
 
 ## Information Architecture (Milestone 2)
@@ -482,13 +570,17 @@ TODO: justify your content decisions
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+Iteration 1:
+![First iteration of card sorting for content organization](content-iteration1.png)
+
+Iteration 2:
+![Second iteration of card sorting for content organization](content-iteration2.png)
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+Iteration 1
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
@@ -498,20 +590,60 @@ TODO: why does this organization make sense for your audience (not you)?
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- "Home"
+- "Past Events"
+- "Upcoming Events"
+- "Join Us"
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+>Home Page: The home page serves as the central hub for the website, providing a welcoming introduction to SOUP for both existing members and potential new members. It includes essential information such as the organization's mission, a welcome blurb, and possibly a brief overview of SOUP's activities. This aligns with the audience's need to quickly understand what SOUP is about and how it can benefit them.
+
+>Past Events Page: This page is crucial for both existing members and potential members to gain insights into the types of activities SOUP has organized in the past. It allows users to see the variety of outdoor events and adventures the organization has offered, helping them gauge whether SOUP aligns with their interests and outdoor preferences.
+
+>Upcoming Events Page: For the audience, especially existing members and those interested in joining SOUP, knowing about upcoming events is vital. This page provides essential logistical information about upcoming outdoor activities, allowing users to plan their participation in advance. It meets the audience's goal of gaining knowledge about upcoming SOUP events and related logistical information.
+
+>Join Us Page: This page directly addresses the goal of potential new members to investigate SOUP as a potential outlet for outdoor fun. It provides information on how to join the organization, including membership requirements, registration procedures, and possibly links to join group chats or mailing lists for further engagement. It serves as a call-to-action for interested individuals to become part of the SOUP community.
 
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
+>
+Theme idea 1: classic woodsy nature theme
+ - Color: greens, greys, and whites with accents of orange
+>Color: Green, grey, and white colors can evoke the feeling of being in a lush forest or an orchard. Green represents nature and growth, while grey and white can provide a clean backdrop reminiscent of clouds and sky. Accents of orange can be used to incorporate  warmth and  vibrant energy into the design.
 
-TODO: theme ideas, rationale, and final theme
+>Imagery: Images of  trees, foliage, and rustic wooden elements can create a visual connection with nature. Pictures of people enjoying outdoor activities like live music performances amidst trees, or friends having picnics can further enhance the woodsy atmosphere and appeal to the target audience.
+
+>Shape: Incorporating organic shapes inspired by nature, such as curved lines, leaf motifs and  Rounded edges  can soften the design and make it feel more natural and inviting.
+
+> Typography: Choosing typography with a handcrafted or rustic feel can complement the woodsy theme. Serif fonts with slightly rough edges or handwritten scripts can convey a sense of authenticity and craftsmanship, aligning with the artisanal aspect of the festival. Additionally, ensuring readability is crucial, so selecting fonts that are legible across different devices and screen sizes is essential.
+
+
+Theme idea 2: energetic, playful outdoorsy theme
+Font and Typography:
+playful and easy-to-read font that reflects the adventurous spirit of the outdoors. rounded or whimsical fonts that convey a sense of friendliness and energy. varied typography styles for headings, subheadings, and body text to create hierarchy and visual interest.
+Colors:
+shades of green, blue, yellow, and orange to represent the sky, trees, sunshine, and flowers. Complement these colors with softer pastels for a refreshing look. using contrasting colors to make important elements stand out, while keeping the overall color scheme harmonious and inviting.
+Imagery:
+Use high-quality photos of people hiking, camping, biking, or enjoying nature.animated or interactive elements like sliders or galleries to showcase different outdoor experiences.
+Shapes:
+rounded edges, circles, and flowing lines to soften the overall look and create a friendly
+
+
+Theme idea 3: Community
+>The visual theme for the website will revolve around the concept of community, incorporating various elements such as colors, imagery, shapes, and typography to evoke a sense of unity, togetherness, and inclusivity. The chosen theme will feature different colors within the same palette to represent diversity within the community while maintaining harmony and cohesion.
+
+>Colors: The color palette will consist of warm and inviting hues, such as shades of blue, green, and yellow. These colors symbolize trust, growth, and optimism, fostering a welcoming atmosphere for visitors. Additionally, the use of different colors within the same palette reflects the diverse backgrounds and perspectives within the community.
+
+>Imagery: The imagery will predominantly feature visuals of hands holding, embracing, or working together, emphasizing the collaborative spirit and mutual support within the community. Images with groups of people engaged in activities like volunteering, learning, or celebrating will further reinforce the theme of unity and shared purpose.
+
+>Shape: The shapes used in the design elements will be organic and fluid, representing the interconnectedness and fluidity of relationships within the community. Circles, curves, and overlapping shapes will be prominent, suggesting inclusivity, continuity, and the idea of coming together as one.
+
+>Typography: The typography will be clean, modern, and easily readable, with sans-serif fonts preferred for their simplicity and accessibility. Headings and titles may be bold and capitalized to command attention, while body text will be legible and spacious, ensuring ease of comprehension for all users.
+
+
+>We selected theme 2 as our final theme. We feel this playful, outdoorsy theme effectively captures the SOUP organization's mission of finding fun outdoors! Colors will include bright orange and yellow (from the logo), offset by accents of sky blue to covey a sense of energy through the site. We will likewise incorporate a mix of fonts to make the site dynamic and inviting; specifically, we plan to use a rounded sans-serif or monospace font for the majority of text content and a more unique monospace font for titles and important text. Beyond the images from SOUP events already incorporated into the design, we will include the site's logo, featuring a sundial and a camp fire, to further the outdoorsy feel of the site. We will utilize mostly subtle soft edges throughout the site to convey a casual feel to the site; for example, images will have soft edges. Overall, this theme is appropriate for our site in that it gives the site a sense of energy and playfullness, conveying to users the fun they could have as a member of SOUP, as well as conveying SOUP's emphasis on exploring the outdoors.
 
 
 ## Design (Milestone 2)
@@ -523,9 +655,12 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- TODO: ...
+- Idea 1: Hamburger menu for header
+  - A hamburger menu could appear in the top right corner of the header for narrower screens to enhance the functionality of the header. Considering the header will include the organization's name, logo, and links to all pages of the site, a hamburger menu could free up space in the logo for narrower screens, only displaying the navigation menu when clicked.
+- Idea 2: Image carousel
+  - We intend to include lots of images on the site to help audiences get a sense of what goes on at SOUP events! Therefore, we think an image carousel could be a good way to include several photos without visually overwhelming audiences. The carousel would transitiion to the left or right to reveal different photos upon the click of the left or right arrow.
+- Idea 3: Drop-down
+  - We could include a drop-down section to complement each description on our "Upcoming Events" page. The drop down could be triggered by the click of a button, perhaps styled as a "+"; once pressed, it could reveal a section containing logisitcal information about the event (time, location, etc.). This interactivity could help users meet goals by allowing informational as well as logisitcal information to be included about upcoming events while ensuring the digestability of pages. This interactivity could have the information availaible to members and indivudals who want to join SOUP, but hidden for people casually exploring the site to learn about SOUP.
 
 
 ### Layout Exploration (Milestone 2)
@@ -535,7 +670,24 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+![Explorative sketch of desktop version of home page](home-sketch-wide.png)
+  This sketch explores a design for the wide version of the site's "Home" page. My intention for this sketch was to create a simple, yet dynamic layout with a mixture of block sections and floating text (block sections for text content and floating text for section titles). I structured all images for this page to be featured in a single carousel that stretches across the page beneath the site's introduction, as images on this home page do not specifically accompany any text content on the page. I employed common design patterns including a header with a logo in the top left corner, the title to the right of that, and a horizontal menu bar aligned to the right. I also styled main links as buttons. I, lastly, created a simple yet informational footer to sandwich the main section of the page.
+
+
+![Explorative sketch of mobile version of home page](home-sketch-narrow.png)
+  This sketch explores a design for the mobile version of the site's "Home" page. For this narrow version, I alterned the structure of the page so information is more vertically stacked. While maintaining the same general vibe and layout, this alteration (adding responsiveness) will make the site more easily readable on a mobile screen. The header is styled similarly except this version features a hamburger button to replace the horizontal menu bar, which does not fit on a narrow screen. The hamburger will toggle to reveal a dropdown navigation menu. The footer and button-styled main links from the previous design remain the same.
+
+
+![Explorative sketch of desktop version of past events page](past-events-exploration-wide.jpeg)
+  This sketch explores the desktop version of the "past events" page. After the header there is a past events heading (h2) to tell what the page entails. The page features a side by side design of the past events and their description. One side of the page will have an images of the event and a figcaption below each to give a brief idea of what the image is about and the other side of the page will have descriptions of each corresponding event, explaining in one paragraph about what happened in the event and how it went. Below the events, there will be a poems section which will have two poems written by the members in a side by side design also to make use of the wide screen size.
+
+
+
+
+![Explorative sketch of mobile version of past events page](past-events-exploration-narrow.jpeg)
+  This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
+
+
 
 
 ### Final Design (Milestone 2)
@@ -546,12 +698,24 @@ TODO: layout exploration sketches + explanation
 
 **Narrow Design:**
 
-TODO: narrow sketches and explanation
+![Final sketch of narrow version of "Home" page](final-home-narrow.png)
+  My intention for this final mobile layout sketch of the "Home" page is to create a clean, dynamic layout with a mix of block and floating content that are stacked vertically to fit a narrow screen. I utilized various common design patterns including a header with a logo in the top left, the title of the organization to the right of the logo, and a hamburger button aligned to the far right. Upon clicking the hamburger button, a drown-down navigation menu will appear with a vertical list of buttons linking to all pages of the site. I implemented the hamburger button for this narrow layout so that the header wouldn't become too busy. My sketch of the page creates an introduction to SOUP with SOUPs titled written out at the top and a introduction blurb below it. I implemented an image carousel below this so that I could include various images on the page that help introduce the organization to audiences; a carousel was helpful in achieving this while keeping the look of page clean. I designed the carousel as a block that reaches the edge of the browser, with the image centered within this block. Lastly, I implemented a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use both horizontal and vertical flexboxes in designing this layout, as annotated in the sketch.
+
+![Final sketch of narrow version of "Past Events" page](final-past-events-narrow.jpeg)
+
+
+
 
 
 **Wide Design:**
 
-TODO: wide sketches and explanation
+![Final sketch of wide version of "Home" page](final-home-wide.png)
+  My intention for this final desktop layout sketch of the "Home" page is to, again, create a clean, dynamic layout with a mix of block and floating content that are stacked both vertically and horizontally to take advantage of the visual width of the browser. I implement the same header as described above to create consistency across pages. In this wide version, however, I take advatange of the width of the screen and omit the hamburger button, instead implementing a horizontal navigation bar with button links to pages. Below the header, my sketch of the page creates an introduction to SOUP with SOUPs titled written out and a introduction blurb below it. Below this, I implement the same image carousel, as explained in the narrow sketch description. Next, I create a horizontal flexblox that includes text about the history of SOUP to the left and quotes from members to the right. Lastly, I implement a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use horizontal flexboxes in bringing this layout to life, as annotated in the sketch.
+
+![Final sketch of wide version of "Past Events" page](final-past-events-wide.jpeg)
+
+
+
 
 
 ### Design Rationale (Milestone 2)
@@ -566,7 +730,7 @@ TODO: 1 paragraph
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
+Our proposed interactivity, including a hamburger button in the header, image carousel, and several drop-down blocks, helps users meet their goals by enhancing the usability of our site and
 
 
 ## Interactivity Plan (Milestone 2)
@@ -688,4 +852,4 @@ TODO: list your collaborators
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. tutorials, W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+- photo editor to make background of logo transparent: https://www.fotor.com/features/background-remover/upload

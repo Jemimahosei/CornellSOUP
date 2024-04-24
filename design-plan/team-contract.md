@@ -20,8 +20,7 @@ Your team contract should probably include these elements. Feel free to remove o
 
     We commit to splitting up work evenely, communicating with the group on our individual progress, submitting milestones on time. In terms of the team atmosphere, we commit to the goal of avoiding group tension by treating eachother with respect and kindness.
 
-
-1. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
+10. What are our "ground rules"? (Don't make an exhaustive list—stick with just a few.)
 
 - Listen to eachother and consider all opinions in the group
 - Split up work evenly
@@ -29,12 +28,12 @@ Your team contract should probably include these elements. Feel free to remove o
 - Review eachother's work before submitting each milestone
 
 
-2. By what means and how frequently will we meet or communicate?
+1. By what means and how frequently will we meet or communicate?
 
-    We will principally communicate via text and will meet (over zoom or in person) when needed. We will likely meet once per milestone to plan and divide work and will text daily with updates on our progress.
+    We will principally communicate via text and meetings (over zoom or in person). We will meet each milestone to plan and divide work, and then we will schedule more meetings to work on tasks. After some trial and error, we realize that meetings are important for our group productivity. 
 
 
-3. How will we communicate and work with our client?
+2. How will we communicate and work with our client?
 
     We will principally communicate with our client via email/meetings. Meetings will be in zoom or in person (whatever is most convenient fir the client).
 
@@ -43,7 +42,7 @@ Your team contract should probably include these elements. Feel free to remove o
 
     **Tip:** It's often helpful to think of **responsibilities** rather than roles here.
 
-    Isabel will be the prime communicator with the client. Robyn will handle all submission forms once final commits are made so that the submission form is never forgotten. Beyond this, each member will contribute equally to the completion of the project.
+    Robyn will handle all submission forms once final commits are made so that the submission form is never forgotten. Beyond this, each member will contribute equally to the completion of the project and the communication with the client.
 
 
 5. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
