@@ -668,10 +668,15 @@ Document your site's layout.
 
 - Idea 1: Hamburger menu for header
   - A hamburger menu could appear in the top right corner of the header for narrower screens to enhance the functionality of the header. Considering the header will include the organization's name, logo, and links to all pages of the site, a hamburger menu could free up space in the logo for narrower screens, only displaying the navigation menu when clicked.
+
 - Idea 2: Image carousel
   - We intend to include lots of images on the site to help audiences get a sense of what goes on at SOUP events! Therefore, we think an image carousel could be a good way to include several photos without visually overwhelming audiences. The carousel would transitiion to the left or right to reveal different photos upon the click of the left or right arrow.
+
 - Idea 3: Drop-down
   - We could include a drop-down section to complement each description on our "Upcoming Events" page. The drop down could be triggered by the click of a button, perhaps styled as a "+"; once pressed, it could reveal a section containing logisitcal information about the event (time, location, etc.). This interactivity could help users meet goals by allowing informational as well as logisitcal information to be included about upcoming events while ensuring the digestability of pages. This interactivity could have the information availaible to members and indivudals who want to join SOUP, but hidden for people casually exploring the site to learn about SOUP.
+
+- Idea 4: Modal
+  - We could include a modal with information about SOUP's social media (Instagram and GroupMe).  Since SOUP wants most communications to happen over email (in terms of people wanting to get in touch with SOUP through the website), we could have the email on the Join Us page as the main way to get in touch, and then the modal that pops up on that page after a certain amount of time has passed could have SOUP's social media info.
 
 
 ### Layout Exploration (Milestone 2)
@@ -693,11 +698,8 @@ Document your site's layout.
   This sketch explores the desktop version of the "past events" page. After the header there is a past events heading (h2) to tell what the page entails. The page features a side by side design of the past events and their description. One side of the page will have an images of the event and a figcaption below each to give a brief idea of what the image is about and the other side of the page will have descriptions of each corresponding event, explaining in one paragraph about what happened in the event and how it went. Below the events, there will be a poems section which will have two poems written by the members in a side by side design also to make use of the wide screen size.
 
 
-
-
 ![Explorative sketch of mobile version of past events page](past-events-exploration-narrow.jpeg)
   This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
-
 
 
 
