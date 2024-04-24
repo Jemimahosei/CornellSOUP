@@ -474,6 +474,13 @@ Goal 3: to gain knowledge about SOUP organization's mission and past events to i
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - Designing the site so that SOUP's goals as an organization are evident, specifically through the inclusion of thorough text content about SOUP's origins and recent activity, can certainly help meet this goal of users to investigate SOUP as a new method for enjoying the outdoors. Making this content very obvious and emphasized on the site on a main page will be key for this.
 
+Goal 4: to get in touch with SOUP leadership and/or join other communication channels for SOUP (i.e. GroupMe and Instagram)
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - We can address this audience goal by providing links to the SoupMe and Instagram accounts in a prominent place.  We could also highlight the SOUP email somehow (possibly by making it a different color from the text around it).
+
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - These design choices would help the audience with their goal of getting in touch with SOUP leadership and/or joining other SOUP communicatiom channels by placing the email, instagram link, and GroupMe link in a prominent place.
+
 
 ### Audience (Milestone 2)
 > Briefly explain your site's audience.
@@ -560,6 +567,8 @@ Here is what the website does effectively regarding layout, interactivity, and r
 - In the narrow version of the site, there is just the NOLS logo along with a hamburger menu at the top of the page whereas in the wide version of the site layout, there is a full horizontal nav bar.  This is a common design pattern and it's very effective at reducing clutter in the narrow version of a website.
 - In the narrow version, images are (for the most part) in a single column and they take up the full width of the page, allowing users to see them fully even though the screen is smaller.  In the wide version, images are mostly in two columns side by side.  This is a common web design pattern so users are familiar with it.
 
+It's hard to see anything that the site does poorly, it's a very well-designed, professional site.
+
 
 ## Content Planning (Milestone 2)
 
@@ -630,7 +639,7 @@ Iteration 1:
 
 For iteration 1, we grouped content into four general categories: upcoming events, past events, how to get involved and get in touch, and general information about what SOUP is.  These categories match up with the user goals we stated above in the goals section.  We decided to separate past events and upcoming events because some users may want to learn about what SOUP has done in the past, while others might just be interested in what's coming up in the future.  We made one category with general information about SOUP, so users can learn more about SOUP's mission and history.  We separated the contact info/how to get involved info into its own category because some people who come to the site might just want to learn more about SOUP and its events and might decide not to join, and some might already be a part of SOUP so they don't need that information.
 
-Note: we later added additional contact details in the category with the Instagram and GroupMe links after doing the initial card-sorting.
+Note: we later added additional contact details in the category with the Instagram and GroupMe links after getting feedback from our client.
 
 Iteration 2:
 ![Second iteration of card sorting for content organization](content-iteration2.png)
@@ -645,7 +654,7 @@ Iteration 1
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+This organization directly addresses the audience's goals of learning about past events, learning about SOUP, learning about future events, learning how to get involved in SOUP, and figuring out how to get in touch with SOUP leadership.  We separated the content into individual categories, each one of which addresses one or more of these goals.  We also made sure to include lots of photos in the upcoming events page (the photos are of past versions of those events, since they're annual events) in order to showcase how much fun the event is going to be.  The majority of the photos, however, are grouped in with past events.
 
 
 ### Navigation (Milestone 2)
@@ -760,11 +769,13 @@ Document your site's layout.
 ![Explorative sketch of mobile version of upcoming events page](wide-exploration-upcoming.PNG)
 ![Explorative sketch of mobile version of upcoming events page](3rd-exploration-upcoming.PNG)
 
-![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
-![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
+  ![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
+  ![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
+  These two sketches of the wide version of the join us page explore the placement of the Instagram link.  The first sketch features the GroupMe and Instagram links side by side, while the second sketch removes the Instagram link from the main content on the page and puts it in the footer.
 
-![Explorative sketch #1 of narrow version of join us page](join-us-narrow1.jpg)
-![Explorative sketch #2 of narrow version of join us page](join-us-narrow2.jpg)
+  ![Explorative sketch #1 of narrow version of join us page](join-us-narrow1.jpg)
+  ![Explorative sketch #2 of narrow version of join us page](join-us-narrow2.jpg)
+  These two sketches of the narrow version of the join us page map onto the two versions of the wide sketches of this page: one has the Instagram link in with the main content of the page, while the other has it just in the the footer.
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -787,31 +798,26 @@ Document your site's layout.
   Overall, this mobile layout will mirror the aesthetic and vibe of the wide-screen version while employing vertical stacking and simplified design patterns to accommodate the narrower display. The use of centered text and strategic placement of content blocks will contribute to a visually appealing and user-friendly presentation on mobile devices, enhancing the accessibility and engagement of the "Past Events" page for all users.
 
 
-
-
-
 ![Final sketch of narrow version of "Upcoming Events" page](final-zero.jpg)u
 
 
 
 ![Final sketch of narrow version of join us page](join-us-narrow-final.jpg)
-
+We decided to go with the version of the page where the Instagram link is just in the footer.  SOUP doesn't use Instagram to share practical information about events, they just use it to post photos of past events.  We decided that the link to th GroupMe was more important to have on the Join Us page, so we kept that on the page.  Additionally, we received client feedback that they want some sore of information about the 161 things flyer on the page, so we added that into our design.
 
 
 **Wide Design:**
 
 ![Final sketch of wide version of "Home" page](final-home-wide.png)
-  My intention for this final desktop layout sketch of the "Home" page is to, again, create a clean, dynamic layout with a mix of block and floating content that are stacked both vertically and horizontally to take advantage of the visual width of the browser. I implement the same header as described above to create consistency across pages. In this wide version, however, I take advatange of the width of the screen and omit the hamburger button, instead implementing a horizontal navigation bar with button links to pages. Below the header, my sketch of the page creates an introduction to SOUP with SOUPs titled written out and a introduction blurb below it. Below this, I implement the same image carousel, as explained in the narrow sketch description. Next, I create a horizontal flexblox that includes text about the history of SOUP to the left and quotes from members to the right. Lastly, I implement a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use horizontal flexboxes in bringing this layout to life, as annotated in the sketch.
+My intention for this final desktop layout sketch of the "Home" page is to, again, create a clean, dynamic layout with a mix of block and floating content that are stacked both vertically and horizontally to take advantage of the visual width of the browser. I implement the same header as described above to create consistency across pages. In this wide version, however, I take advatange of the width of the screen and omit the hamburger button, instead implementing a horizontal navigation bar with button links to pages. Below the header, my sketch of the page creates an introduction to SOUP with SOUPs titled written out and a introduction blurb below it. Below this, I implement the same image carousel, as explained in the narrow sketch description. Next, I create a horizontal flexblox that includes text about the history of SOUP to the left and quotes from members to the right. Lastly, I implement a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use horizontal flexboxes in bringing this layout to life, as annotated in the sketch.
 
 ![Final sketch of wide version of "Past Events" page](final-past-events-wide.jpeg)
+Beneath the events section, there will be a dedicated area for poetry, presented in a side-by-side format to maximize the use of wide screens. Members' poems will be showcased with thoughtful design elements to complement the overall aesthetic of the page.
 
-  Beneath the events section, there will be a dedicated area for poetry, presented in a side-by-side format to maximize the use of wide screens. Members' poems will be showcased with thoughtful design elements to complement the overall aesthetic of the page.
-
-  This layout aims to balance imagery and text effectively, providing an immersive experience for visitors. The goal is to create a cohesive and visually appealing presentation that reflects the spirit and history of the events hosted by SOUP. Each element will be carefully arranged to optimize space and readability, enhancing the overall user experience of the "Past Events" page.
-
-
+This layout aims to balance imagery and text effectively, providing an immersive experience for visitors. The goal is to create a cohesive and visually appealing presentation that reflects the spirit and history of the events hosted by SOUP. Each element will be carefully arranged to optimize space and readability, enhancing the overall user experience of the "Past Events" page.
 
 ![Final sketch of wide version of join us page](join-us-wide-final.jpg)
+The only difference between the final narrow version and the final wide version of the Join Us page (besides the hamburger menu) is that the flyer information is next to the flyer in the wide version.  This takes advantage of wide screens to provide the relavent content about the flyer right next to the flyer, so users can more easily see that the two pieces of content ar related.
 
 
 ### Design Rationale (Milestone 2)
