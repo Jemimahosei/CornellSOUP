@@ -901,6 +901,49 @@ else:
 Add the "hidden" class to #drop-down.
 
 
+
+
+- Dropdown Pseudocode
+OnDocumentReady:
+    add class "hidden" to #dropdown-content1
+    add class "hidden" to #dropdown-minus1
+
+    add class "hidden" to #dropdown-content2
+    add class "hidden" to #dropdown-minus2
+
+    add class "hidden" to #dropdown-content3
+    add class "hidden" to #dropdown-minus3
+
+when DropdownButton1 is clicked:
+    remove class "hidden" from #dropdown-content1
+    add class "hidden" to #dropdown-button1
+    remove class "hidden" from #dropdown-minus1
+
+when DropdownMinus1 is clicked:
+    add class "hidden" to #dropdown-content1
+    remove class "hidden" from #dropdown-button1
+    add class "hidden" to #dropdown-minus1
+
+when DropdownButton2 is clicked:
+    remove class "hidden" from #dropdown-content2
+    add class "hidden" to #dropdown-button2
+    remove class "hidden" from #dropdown-minus2
+when DropdownMinus2 is clicked:
+    add class "hidden" to #dropdown-content2
+    remove class "hidden" from #dropdown-button2
+    add class "hidden" to #dropdown-minus2
+
+when DropdownButton3 is clicked:
+    remove class "hidden" from #dropdown-content3
+    add class "hidden" to #dropdown-button3
+    remove class "hidden" from #dropdown-minus3
+
+when DropdownMinus3 is clicked:
+    add class "hidden" to #dropdown-content3
+    remove class "hidden" from #dropdown-button3
+    add class "hidden" to #dropdown-minus3
+
+
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
