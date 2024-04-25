@@ -872,76 +872,87 @@ The drop-down features we're using allow users to read the title of an upcoming 
 
 TODO: interactivity plan
 
-- Hamburger menu pseudocode
+
+
+**Hamburger menu pseudocode**
+
 If the document width is greater than 1150 pixels:
-Hide the hamburger menu by adding the "hidden" class to #hamburger.
-Show the navigation menu by removing the "hidden" class from #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
+- Hide the hamburger menu by adding the "hidden" class to #hamburger.
+- Show the navigation menu by removing the "hidden" class from #menu.
+- Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 else:
-Show the hamburger menu by removing the "hidden" class from #hamburger.
-Hide the navigation menu by adding the "hidden" class to #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
+- Show the hamburger menu by removing the "hidden" class from #hamburger.
+- Hide the navigation menu by adding the "hidden" class to #menu.
+- Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 On window resize:
 If the document width is greater than 1150 pixels:
-Hide the hamburger menu by adding the "hidden" class to #hamburger.
-Show the navigation menu by removing the "hidden" class from #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
+- Hide the hamburger menu by adding the "hidden" class to #hamburger.
+- Show the navigation menu by removing the "hidden" class from #menu.
+- Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 else:
-Show the hamburger menu by removing the "hidden" class from #hamburger.
-Hide the navigation menu by adding the "hidden" class to #menu.
-Hide the dropdown menu by adding the "hidden" class to #drop-down.
+- Show the hamburger menu by removing the "hidden" class from #hamburger.
+- Hide the navigation menu by adding the "hidden" class to #menu.
+- Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 When the hamburger menu is clicked:
 If the dropdown menu (#drop-down) has the "hidden" class:
-Remove the "hidden" class from #drop-down.
+- Remove the "hidden" class from #drop-down.
 else:
-Add the "hidden" class to #drop-down.
+- Add the "hidden" class to #drop-down.
 
 
 
 
-- Dropdown Pseudocode
+> Dropdown Pseudocode
+
 OnDocumentReady:
-    add class "hidden" to #dropdown-content1
-    add class "hidden" to #dropdown-minus1
 
-    add class "hidden" to #dropdown-content2
-    add class "hidden" to #dropdown-minus2
+- Add class "hidden" to #dropdown-content1
+- Add class "hidden" to #dropdown-minus1
 
-    add class "hidden" to #dropdown-content3
-    add class "hidden" to #dropdown-minus3
+- Add class "hidden" to #dropdown-content2
+- Add class "hidden" to #dropdown-minus2
 
-when DropdownButton1 is clicked:
-    remove class "hidden" from #dropdown-content1
-    add class "hidden" to #dropdown-button1
-    remove class "hidden" from #dropdown-minus1
+- Add class "hidden" to #dropdown-content3
+- Add class "hidden" to #dropdown-minus3
 
-when DropdownMinus1 is clicked:
-    add class "hidden" to #dropdown-content1
-    remove class "hidden" from #dropdown-button1
-    add class "hidden" to #dropdown-minus1
+When DropdownButton1 is clicked:
 
-when DropdownButton2 is clicked:
-    remove class "hidden" from #dropdown-content2
-    add class "hidden" to #dropdown-button2
-    remove class "hidden" from #dropdown-minus2
-when DropdownMinus2 is clicked:
-    add class "hidden" to #dropdown-content2
-    remove class "hidden" from #dropdown-button2
-    add class "hidden" to #dropdown-minus2
+- Remove class "hidden" from #dropdown-content1
+- Add class "hidden" to #dropdown-button1
+- Remove class "hidden" from #dropdown-minus1
 
-when DropdownButton3 is clicked:
-    remove class "hidden" from #dropdown-content3
-    add class "hidden" to #dropdown-button3
-    remove class "hidden" from #dropdown-minus3
+When DropdownMinus1 is clicked:
 
-when DropdownMinus3 is clicked:
-    add class "hidden" to #dropdown-content3
-    remove class "hidden" from #dropdown-button3
-    add class "hidden" to #dropdown-minus3
+- Add class "hidden" to #dropdown-content1
+- Remove class "hidden" from #dropdown-button1
+- Add class "hidden" to #dropdown-minus1
+
+When DropdownButton2 is clicked:
+
+- Remove class "hidden" from #dropdown-content2
+- Add class "hidden" to #dropdown-button2
+- Remove class "hidden" from #dropdown-minus2
+
+When DropdownMinus2 is clicked:
+
+- Add class "hidden" to #dropdown-content2
+- Remove class "hidden" from #dropdown-button2
+- Add class "hidden" to #dropdown-minus2
+
+When DropdownButton3 is clicked:
+
+- Remove class "hidden" from #dropdown-content3
+- Add class "hidden" to #dropdown-button3
+- Remove class "hidden" from #dropdown-minus3
+
+When DropdownMinus3 is clicked:
+
+- Add class "hidden" to #dropdown-content3
+- Remove class "hidden" from #dropdown-butto
 
 
 ## Client Feedback & Minutes (Milestone 2)
