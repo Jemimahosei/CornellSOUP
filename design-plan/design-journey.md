@@ -776,19 +776,14 @@ This sketch explores the desktop version version of the upcoming events page.I w
 This sketch explores the mobile version version of the upcoming events page.I went the simple but effective route with the header and footer containing minimal but important content.The main page has pictures of upcoming events with text description and a dropdown menu containing event details below each respective image.
 
 
-
-
-
-
-
-
-  ![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
-  ![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
+![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
+![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
   These two sketches of the wide version of the join us page explore the placement of the Instagram link.  The first sketch features the GroupMe and Instagram links side by side, while the second sketch removes the Instagram link from the main content on the page and puts it in the footer.
 
-  ![Explorative sketch #1 of narrow version of join us page](join-us-narrow1.jpg)
-  ![Explorative sketch #2 of narrow version of join us page](join-us-narrow2.jpg)
+![Explorative sketch #1 of narrow version of join us page](join-us-narrow1.jpg)
+![Explorative sketch #2 of narrow version of join us page](join-us-narrow2.jpg)
   These two sketches of the narrow version of the join us page map onto the two versions of the wide sketches of this page: one has the Instagram link in with the main content of the page, while the other has it just in the the footer.
+
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
@@ -870,7 +865,7 @@ The drop-down features we're using allow users to read the title of an upcoming 
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+- Hamburger menu pseudocode:
 
 
 
@@ -902,13 +897,51 @@ If the dropdown menu (#drop-down) has the "hidden" class:
 - Remove the "hidden" class from #drop-down.
 else:
 - Add the "hidden" class to #drop-down.
+  If the document width is greater than 1150 pixels:
+
+    Hide the hamburger menu by adding the "hidden" class to #hamburger.
+    Show the navigation menu by removing the "hidden" class from #menu.
+    Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+  else:
+
+    Show the hamburger menu by removing the "hidden" class from #hamburger.
+    Hide the navigation menu by adding the "hidden" class to #menu.
+    Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 
+  On window resize:
+
+  If the document width is greater than 1150 pixels:
+
+    Hide the hamburger menu by adding the "hidden" class to #hamburger.
+    Show the navigation menu by removing the "hidden" class from #menu.
+    Hide the dropdown menu by adding the "hidden" class to #drop-down.
+
+  else:
+
+    Show the hamburger menu by removing the "hidden" class from #hamburger.
+    Hide the navigation menu by adding the "hidden" class to #menu.
+    Hide the dropdown menu by adding the "hidden" class to #drop-down.
 
 
-> Dropdown Pseudocode
+  When the hamburger menu is clicked:
 
-OnDocumentReady:
+  If the dropdown menu (#drop-down) has the "hidden" class:
+
+    Remove the "hidden" class from #drop-down.
+
+  else:
+
+    Add the "hidden" class to #drop-down.
+
+
+- Dropdown Pseudocode:
+
+  OnDocumentReady:
+
+    add class "hidden" to #dropdown-content1
+    add class "hidden" to #dropdown-minus1
 
 - Add class "hidden" to #dropdown-content1
 - Add class "hidden" to #dropdown-minus1
@@ -953,6 +986,90 @@ When DropdownMinus3 is clicked:
 
 - Add class "hidden" to #dropdown-content3
 - Remove class "hidden" from #dropdown-butto
+
+  when DropdownButton1 is clicked (event):
+
+    remove class "hidden" from #dropdown-content1
+    add class "hidden" to #dropdown-button1
+    remove class "hidden" from #dropdown-minus1
+
+
+  when DropdownMinus1 is clicked (event):
+
+    add class "hidden" to #dropdown-content1
+    remove class "hidden" from #dropdown-button1
+    add class "hidden" to #dropdown-minus1
+
+
+  when DropdownButton2 is clicked (event):
+
+    remove class "hidden" from #dropdown-content2
+    add class "hidden" to #dropdown-button2
+    remove class "hidden" from #dropdown-minus2
+
+
+  when DropdownMinus2 is clicked (event):
+
+    add class "hidden" to #dropdown-content2
+    remove class "hidden" from #dropdown-button2
+    add class "hidden" to #dropdown-minus2
+
+
+  when DropdownButton3 is clicked (event):
+    remove class "hidden" from #dropdown-content3
+    add class "hidden" to #dropdown-button3
+    remove class "hidden" from #dropdown-minus3
+
+
+  when DropdownMinus3 is clicked (event):
+    add class "hidden" to #dropdown-content3
+    remove class "hidden" from #dropdown-button3
+    add class "hidden" to #dropdown-minus3
+
+
+- Carousel psuedocode:
+
+    When #button-r is clicked (event):
+
+        show next slide
+        fill in according bubble
+
+
+    When #button-l is clicked (event):
+
+        show previous slide
+        fill in according bubble
+
+
+    When #dot1 is clicked (event):
+
+        show slide 1
+        fill in #dot1
+
+
+    When #dot2 is clicked (event):
+
+        show slide 2
+        fill in #dot2
+
+
+    When #dot3 is clicked (event):
+
+        show to slide 3
+        fill in #dot3
+
+
+    When #dot4 is clicked (event):
+
+        show slide 4
+        fill in #dot4
+
+
+    When #dot5 slide 5 is clicked (event):
+
+        show slide 4
+        fill in #dot5
+
 
 
 ## Client Feedback & Minutes (Milestone 2)
