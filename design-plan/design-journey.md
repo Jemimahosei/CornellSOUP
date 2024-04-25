@@ -330,16 +330,7 @@ Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phs
     - She loves a website that has color and lots of images - thinks this would be fitting for the site for the organization
     - Thinks the age-group of people the organizaition is intended for should influence the design of the site - says we should design the site for college students, tailor it to them and their needs
 
-**Interviewee 3:**
 
-TODO: tell us a bit about your participant
-Meghan is a junior at Cornell
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-TODO: add additional interviewees as needed
 
 **Interviewee 4:**
 
