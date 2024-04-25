@@ -332,17 +332,6 @@ Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phs
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
-Meghan is a junior at Cornell
-
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-TODO: add additional interviewees as needed
-
-**Interviewee 4:**
-
   Sherkina is a freshman at Cornell University, passionate about computer science and the outdoors. She enjoys exploring nature, hiking, and participating in outdoor activities. As a computer science major, she says that she values the importance of technology and its potential to enhance day to day experiences.
 
  1. Please tell me a bit about yourself. You may omit any personal or private information.
@@ -393,12 +382,10 @@ TODO: add additional interviewees as needed
        - Feels like it would be perfect if there was no significant time commitment in SOUP as her and a few friends she has on campus are interested in joining and prefer flexible times.
 
 
- **Interviewee 5:**
+ **Interviewee 4:**
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
    - Meghan is a Junior here at Cornell University. She wasn't super outdoorsy as a freshman but got into the outdoors later on.
-
-
 
 2. Have you ever been involved in any outdoor event or organization focused on outdoor activity? If yes:
    - She teaches classes through the outdoor education department here at Cornell.
@@ -594,7 +581,7 @@ Plan your site's content.
   - "Manhunt"
   - "161 Things"
   - "Capture the Flag 2024"
--
+
 - "Connect" text (provided in text-content.md)
 - "Suggest an idea" text (provided in text-content.md)
 - "Spread the word" text (provided in text-content.md)
@@ -753,23 +740,22 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 ![Explorative sketch of desktop version of home page](home-sketch-wide.png)
-  This sketch explores a design for the wide version of the site's "Home" page. My intention for this sketch was to create a simple, yet dynamic layout with a mixture of block sections and floating text (block sections for text content and floating text for section titles). I structured all images for this page to be featured in a single carousel that stretches across the page beneath the site's introduction, as images on this home page do not specifically accompany any text content on the page. I employed common design patterns including a header with a logo in the top left corner, the title to the right of that, and a horizontal menu bar aligned to the right. I also styled main links as buttons. I, lastly, created a simple yet informational footer to sandwich the main section of the page.
+This sketch explores a design for the wide version of the site's "Home" page. My intention for this sketch was to create a simple, yet dynamic layout with a mixture of block sections and floating text (block sections for text content and floating text for section titles). I structured all images for this page to be featured in a single carousel that stretches across the page beneath the site's introduction, as images on this home page do not specifically accompany any text content on the page. I employed common design patterns including a header with a logo in the top left corner, the title to the right of that, and a horizontal menu bar aligned to the right. I also styled main links as buttons. I, lastly, created a simple yet informational footer to sandwich the main section of the page.
 
 
 ![Explorative sketch of mobile version of home page](home-sketch-narrow.png)
-  This sketch explores a design for the mobile version of the site's "Home" page. For this narrow version, I alterned the structure of the page so information is more vertically stacked. While maintaining the same general vibe and layout, this alteration (adding responsiveness) will make the site more easily readable on a mobile screen. The header is styled similarly except this version features a hamburger button to replace the horizontal menu bar, which does not fit on a narrow screen. The hamburger will toggle to reveal a dropdown navigation menu. The footer and button-styled main links from the previous design remain the same.
+This sketch explores a design for the mobile version of the site's "Home" page. For this narrow version, I alterned the structure of the page so information is more vertically stacked. While maintaining the same general vibe and layout, this alteration (adding responsiveness) will make the site more easily readable on a mobile screen. The header is styled similarly except this version features a hamburger button to replace the horizontal menu bar, which does not fit on a narrow screen. The hamburger will toggle to reveal a dropdown navigation menu. The footer and button-styled main links from the previous design remain the same.
 
 
 ![Explorative sketch of desktop version of past events page](past-events-exploration-wide.jpeg)
-  This sketch explores the desktop version of the "past events" page. After the header there is a past events heading (h2) to tell what the page entails. The page features a side by side design of the past events and their description. One side of the page will have an images of the event and a figcaption below each to give a brief idea of what the image is about and the other side of the page will have descriptions of each corresponding event, explaining in one paragraph about what happened in the event and how it went. Below the events, there will be a poems section which will have two poems written by the members in a side by side design also to make use of the wide screen size.
+This sketch explores the desktop version of the "past events" page. After the header there is a past events heading (h2) to tell what the page entails. The page features a side by side design of the past events and their description. One side of the page will have an images of the event and a figcaption below each to give a brief idea of what the image is about and the other side of the page will have descriptions of each corresponding event, explaining in one paragraph about what happened in the event and how it went. Below the events, there will be a poems section which will have two poems written by the members in a side by side design also to make use of the wide screen size.
 
 
 ![Explorative sketch of mobile version of past events page](past-events-exploration-narrow.jpeg)
-  This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
+This sketch explores the mobile version of the past events page. The vibe is exactly the same as the wide screen layout but in this, the content is vertically stacked. Instead of the side by side layout of an image of the event on one side and it's description on the other, this layout will instead have an image of the event and the description of the image in a paragraph right below it. The poems will also be stacked vertically, one right below the other so as to make it fit in the narrow screen size.
 
 ![Explorative sketch of mobile version of upcoming events page](wide-exploration-upcoming.PNG)
 This sketch explores the desktop version version of the upcoming events page.I went the simple but effective route with the header and footer containing minimal but important content.The main page has pictures of upcoming events with text description to the side and a dropdown menu containing event details below.
-
 
 
 ![Explorative sketch of mobile version of upcoming events page](3rd-exploration-upcoming.PNG)
@@ -778,11 +764,11 @@ This sketch explores the mobile version version of the upcoming events page.I we
 
 ![Explorative sketch #1 of wide version of join us page](join-us-wide1.jpg)
 ![Explorative sketch #2 of wide version of join us page](join-us-wide2.jpg)
-  These two sketches of the wide version of the join us page explore the placement of the Instagram link.  The first sketch features the GroupMe and Instagram links side by side, while the second sketch removes the Instagram link from the main content on the page and puts it in the footer.
+These two sketches of the wide version of the join us page explore the placement of the Instagram link.  The first sketch features the GroupMe and Instagram links side by side, while the second sketch removes the Instagram link from the main content on the page and puts it in the footer.
 
 ![Explorative sketch #1 of narrow version of join us page](join-us-narrow1.jpg)
 ![Explorative sketch #2 of narrow version of join us page](join-us-narrow2.jpg)
-  These two sketches of the narrow version of the join us page map onto the two versions of the wide sketches of this page: one has the Instagram link in with the main content of the page, while the other has it just in the the footer.
+These two sketches of the narrow version of the join us page map onto the two versions of the wide sketches of this page: one has the Instagram link in with the main content of the page, while the other has it just in the the footer.
 
 
 ### Final Design (Milestone 2)
@@ -794,24 +780,21 @@ This sketch explores the mobile version version of the upcoming events page.I we
 **Narrow Design:**
 
 ![Final sketch of narrow version of "Home" page](final-home-narrow.png)
-  My intention for this final mobile layout sketch of the "Home" page is to create a clean, dynamic layout with a mix of block and floating content that are stacked vertically to fit a narrow screen. I utilized various common design patterns including a header with a logo in the top left, the title of the organization to the right of the logo, and a hamburger button aligned to the far right. Upon clicking the hamburger button, a drown-down navigation menu will appear with a vertical list of buttons linking to all pages of the site. I implemented the hamburger button for this narrow layout so that the header wouldn't become too busy. My sketch of the page creates an introduction to SOUP with SOUPs titled written out at the top and a introduction blurb below it. I implemented an image carousel below this so that I could include various images on the page that help introduce the organization to audiences; a carousel was helpful in achieving this while keeping the look of page clean. I designed the carousel as a block that reaches the edge of the browser, with the image centered within this block. Lastly, I implemented a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use both horizontal and vertical flexboxes in designing this layout, as annotated in the sketch.
+My intention for this final mobile layout sketch of the "Home" page is to create a clean, dynamic layout with a mix of block and floating content that are stacked vertically to fit a narrow screen. I utilized various common design patterns including a header with a logo in the top left, the title of the organization to the right of the logo, and a hamburger button aligned to the far right. Upon clicking the hamburger button, a drown-down navigation menu will appear with a vertical list of buttons linking to all pages of the site. I implemented the hamburger button for this narrow layout so that the header wouldn't become too busy. My sketch of the page creates an introduction to SOUP with SOUPs titled written out at the top and a introduction blurb below it. I implemented an image carousel below this so that I could include various images on the page that help introduce the organization to audiences; a carousel was helpful in achieving this while keeping the look of page clean. I designed the carousel as a block that reaches the edge of the browser, with the image centered within this block. Lastly, I implemented a final common design pattern by sketching a simple footer at the botton of the page. All text within the main part of the page are centered, also, as I think this is most visually appealing and fitting for the layout. I plan to use both horizontal and vertical flexboxes in designing this layout, as annotated in the sketch.
 
 
 ![Final sketch of narrow version of "Past Events" page](final-past-events-narrow.jpeg)
-  For the mobile version of the "Past Events" page, I aim to replicate the same engaging and dynamic layout while adapting it to fit a narrow screen. This design will prioritize vertical stacking of content to optimize readability and user experience on mobile devices. The header will include the organization's title and logo, with a hamburger button positioned at the far right to reveal a dropdown navigation menu when tapped.
+For the mobile version of the "Past Events" page, I aim to replicate the same engaging and dynamic layout while adapting it to fit a narrow screen. This design will prioritize vertical stacking of content to optimize readability and user experience on mobile devices. The header will include the organization's title and logo, with a hamburger button positioned at the far right to reveal a dropdown navigation menu when tapped.
 
-  The page will start with a clear "Past Events" heading (h2) followed by vertically stacked sections for each event. Each event will feature an image at the top, followed immediately by a descriptive paragraph underneath, providing details about the event and its highlights. This format allows for a seamless flow of information without the need for side-by-side elements, ensuring a cohesive and streamlined presentation.
+The page will start with a clear "Past Events" heading (h2) followed by vertically stacked sections for each event. Each event will feature an image at the top, followed immediately by a descriptive paragraph underneath, providing details about the event and its highlights. This format allows for a seamless flow of information without the need for side-by-side elements, ensuring a cohesive and streamlined presentation.
 
-  Below the events section, the poems will be arranged in a vertical stack, one after another, making efficient use of the limited screen space. This approach maintains clarity and readability, ensuring that each piece of content is given its due prominence within the mobile layout.
+Below the events section, the poems will be arranged in a vertical stack, one after another, making efficient use of the limited screen space. This approach maintains clarity and readability, ensuring that each piece of content is given its due prominence within the mobile layout.
 
-  Overall, this mobile layout will mirror the aesthetic and vibe of the wide-screen version while employing vertical stacking and simplified design patterns to accommodate the narrower display. The use of centered text and strategic placement of content blocks will contribute to a visually appealing and user-friendly presentation on mobile devices, enhancing the accessibility and engagement of the "Past Events" page for all users.
+Overall, this mobile layout will mirror the aesthetic and vibe of the wide-screen version while employing vertical stacking and simplified design patterns to accommodate the narrower display. The use of centered text and strategic placement of content blocks will contribute to a visually appealing and user-friendly presentation on mobile devices, enhancing the accessibility and engagement of the "Past Events" page for all users.
 
 
 ![Final sketch of narrow version of "Upcoming Events" page](final-upcoming-narrow.jpeg)
 This sketch focuses on the mobile version of the upcoming events page. I aimed for simplicity, keeping the header and footer straightforward with essential content. On the main page, there are images of upcoming events with text descriptions below. Each event image also has a dropdown menu for accessing additional event details.
-
-
-
 
 
 ![Final sketch of narrow version of join us page](join-us-narrow-final.jpg)
@@ -829,10 +812,8 @@ Beneath the events section, there will be a dedicated area for poetry, presented
 This layout aims to balance imagery and text effectively, providing an immersive experience for visitors. The goal is to create a cohesive and visually appealing presentation that reflects the spirit and history of the events hosted by SOUP. Each element will be carefully arranged to optimize space and readability, enhancing the overall user experience of the "Past Events" page.
 
 
-
 ![Final sketch of wide version of "Upcoming Events" page](final-upcoming-wide.jpeg)
 This sketch looks at the desktop/wide version of the upcoming events page. I aimed for simplicity, with the header and footer containing only essential information. The main page displays images of upcoming events with descriptions next to them, and below, there's a dropdown menu for event details.
-
 
 
 ![Final sketch of wide version of join us page](join-us-wide-final.jpg)
@@ -844,7 +825,7 @@ The only difference between the final narrow version and the final wide version 
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-  Our website design is carefully crafted to meet the needs of outdoor enthusiasts seeking a vibrant community like SOUP. The navigation menu includes intuitive pages titled "Home," "Past Events," "Upcoming Events," and "Join Us," providing essential information and facilitating user goals. The "Home" page introduces SOUP's mission and activities, engaging both existing and potential members. "Past Events" and "Upcoming Events" offer transparency and details on previous and upcoming adventures, helping users plan their participation. The "Join Us" page simplifies membership steps for new members. In terms of design, we have employed familiar patterns such as the hamburger menu for mobile navigation, ensuring ease of access to all pages without cluttering the header. Our use of a horizontal navigation bar on the desktop version enhances visibility and intuitiveness, guiding users seamlessly through the site. Furthermore, our layout design incorporates elements like image carousels and blocks of content arranged strategically to maintain engagement and showcase the adventurous spirit of SOUP. The use of centered text and a mix of fonts adds a dynamic and inviting touch, catering to the visual preferences of our audience. Our design prioritizes user experience, aiming to create an inviting digital space that reflects SOUP's energy and encourages engagement.
+Our website design is carefully crafted to meet the needs of outdoor enthusiasts seeking a vibrant community like SOUP. The navigation menu includes intuitive pages titled "Home," "Past Events," "Upcoming Events," and "Join Us," providing essential information and facilitating user goals. The "Home" page introduces SOUP's mission and activities, engaging both existing and potential members. "Past Events" and "Upcoming Events" offer transparency and details on previous and upcoming adventures, helping users plan their participation. The "Join Us" page simplifies membership steps for new members. In terms of design, we have employed familiar patterns such as the hamburger menu for mobile navigation, ensuring ease of access to all pages without cluttering the header. Our use of a horizontal navigation bar on the desktop version enhances visibility and intuitiveness, guiding users seamlessly through the site. Furthermore, our layout design incorporates elements like image carousels and blocks of content arranged strategically to maintain engagement and showcase the adventurous spirit of SOUP. The use of centered text and a mix of fonts adds a dynamic and inviting touch, catering to the visual preferences of our audience. Our design prioritizes user experience, aiming to create an inviting digital space that reflects SOUP's energy and encourages engagement.
 
 
 ## Interactivity Rationale (Milestone 2)
@@ -1076,9 +1057,44 @@ When DropdownMinus3 is clicked:
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+Meeting notes:
 
-TODO: meeting minutes
+Feedback on the home page:
+
+- would be nicer if the images in the carousel were all the same size
+- love the photos we used
+- they can reach out to members to try to get quotes
+- mission statement is really good
+
+Feedback on past events page:
+
+- change "Fire" section title to "Burn Night"
+- love the incorporation of the poems
+  - would be nice to give more context for the poems (explain what people wrote them about, why they wrote them)
+- love the photos we used
+
+Feedback on upcoming events page:
+
+- love the drop-down feature
+- love the photos we used
+- footer seems a lot bigger on this page than other pages on the site
+- fix broken link in 161 things event details section
+
+Feedback on join us page:
+
+- include blurb about flyer and future flyers, plus purpose of flyers and uses for them
+- make sure flyer is centered in narrow design (currently it is not)
+- add title for flyer section
+- add title to GroupMe section
+- SOUP will send us updated flyer if it's ready before submission of the final project
+
+Feedback on whole site/general feedback:
+
+- love the color scheme
+- good that we stated that SOUP is not an official org in the footer
+- love both the narrow and wide layouts of each page
+- like the hamburger menu
+- like the use of the logo in the header
 
 
 ## User Testing (Final Submission)
