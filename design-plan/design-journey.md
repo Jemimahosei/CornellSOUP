@@ -885,6 +885,7 @@ else:
 
 When the hamburger menu is clicked:
 If the dropdown menu (#drop-down) has the "hidden" class:
+
 - Remove the "hidden" class from #drop-down.
 else:
 - Add the "hidden" class to #drop-down.
