@@ -1107,13 +1107,12 @@ Feedback on whole site/general feedback:
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
 
-2. TODO: task 2
+2. You're interested in the history of SOUP and its founding. Identify the year SOUP was founded.
 
-3. TODO: task 3
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
 
 ### Participant 1 (Final Submission)

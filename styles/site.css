@@ -163,7 +163,6 @@ header {
     text-align: left;
     display: flex;
     justify-content: left;
-    align-items: left;
     margin-bottom: 0px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
