@@ -1113,8 +1113,11 @@ Feedback on whole site/general feedback:
 
 3. TODO: task 3
 
+
+
 TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
 
+You recently joined soup and want to recruit new member find the link to the group me page
 
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
