@@ -1109,12 +1109,11 @@ Feedback on whole site/general feedback:
 
 1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
 
-2. You're interested in the history of SOUP and its founding. Identify the year SOUP was founded.
+2. You're interested in the history of SOUP and the story of it's founding. Identify the year SOUP was founded.
 
 3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
 
-4.
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
 
 
 ### Participant 1 (Final Submission)
