@@ -554,7 +554,7 @@ footer {
         align-items: center;
         margin-left: auto;
         margin-right: auto;
-        padding-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     .flyer img{
@@ -563,9 +563,6 @@ footer {
         margin-left: auto;
         margin-right: auto;
         justify-content: center;
-    }
-
-    .fyler {
-        justify-content: center;
+        align-content: center;
     }
 }
