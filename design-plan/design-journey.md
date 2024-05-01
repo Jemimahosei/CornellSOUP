@@ -1323,7 +1323,7 @@ Changes to make in general (not related to user testing):
 - make footer smaller on upcoming events page
 - make photos smaller on upcoming events page when page is resized to narrow
 - center flyer on join us page when page is resized to narrow
-- make photos bigger on home page (image carousel) when the page is very narrow 
+- make photos bigger on home page (image carousel) when the page is very narrow
 
 
 ## Grading (Final Submission)
@@ -1339,3 +1339,4 @@ TODO: list your collaborators
 > (i.e. tutorials, W3Schools, StackOverflow, Mozilla, etc.)
 
 - photo editor to make background of logo transparent: https://www.fotor.com/features/background-remover/upload
+- photo editor to resize images: https://pixlr.com/editor/
