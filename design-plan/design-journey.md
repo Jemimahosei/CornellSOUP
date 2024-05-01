@@ -1297,6 +1297,56 @@ Coby is an ex-Cornellian (dropped out of Cornell last year) who now lives in Ith
 - scrolls up a bit and sees the GroupMe link and clicks on it (and joins SOUP!) (task complete)
 
 
+
+
+
+
+### Participant 5 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+  > Akosua is a cornell freshman from Ghana who lives on north campus and loves the ourdoors
+
+
+1. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    Yes, he's a member of the site's audience because she participates in outdoorsy activities
+
+
+### Participant 5 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
+
+
+  - footer first
+  - before going to the upcoming page for possible contacts then finally
+  - going to the join us page to locate the SOUP email address(task complete)
+
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+   - navigates to past events page
+   - moves to home page
+   - scrolls down until he sees history section
+   - finds year SOUP was founded (2020) in history section (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+    - navigates to upcoming events page
+    - reads description of manhunt and clicks on the expand button
+    - reads details section and sees not so specific dates
+    - decides to email SOUP  for more enquiries (task incomplete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+    - navigates to Join Us pag
+    - scrolls a little bit further down and finds GroupMe link (task complete)
+
+
+
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
@@ -1323,6 +1373,7 @@ Changes to make in general (not related to user testing):
 - make footer smaller on upcoming events page
 - make photos smaller on upcoming events page when page is resized to narrow
 - center flyer on join us page when page is resized to narrow
+- make photos bigger on home page (image carousel) when the page is very narrow
 - make photos bigger on home page (image carousel) when the page is very narrow
 
 Isabel:
