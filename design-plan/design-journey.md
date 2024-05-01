@@ -391,42 +391,30 @@ Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phs
    - She teaches classes through the outdoor education department here at Cornell.
    -  She is also i She is also Involved with Soup and On the eboard for the outing club
 
-
-
     2a. What brought you to the event or attracted you to the organization?
     - She wanted to try new things
     - Find ways to get active and be outside
-
-
 
     2b. Did you seek out information about the event/organization?
     - She was one of the founding fathers of Cornell Soup
 
     2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-
     2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
     - A bunch of friends doing stuff all together and have experiences that were outside the box
-
-
 
 3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
    - Not as active this semester
 
-
    3a. Why did you join SOUP?
     - Because it was a  bunch of friends doing stuff all together and having experiences that were outside the box
-
-
-
 
    3b. Before joining, did you seek out information about the organization?
    3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
    3c. After joining, did you seek out information about the organization?
    3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-    - Through Quarter cards to dorms, group me regularly,the outing  club
-
+    - Through Quarter cards to dorms, group me regularly,the outing club
 
 4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
 
@@ -666,7 +654,7 @@ Join Us Page: This page directly addresses the goal of potential new members to 
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
->
+
 Theme idea 1: classic woodsy nature theme
 
 Color: (greens, greys, and whites with accents of orange)
@@ -849,7 +837,6 @@ The drop-down features we're using allow users to read the title of an upcoming 
 - Hamburger menu pseudocode:
 
 
-
 **Hamburger menu pseudocode**
 
 If the document width is greater than 1150 pixels:
@@ -875,6 +862,7 @@ else:
 
 When the hamburger menu is clicked:
 If the dropdown menu (#drop-down) has the "hidden" class:
+
 - Remove the "hidden" class from #drop-down.
 else:
 - Add the "hidden" class to #drop-down.
@@ -1106,13 +1094,13 @@ Feedback on whole site/general feedback:
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
 
-2. TODO: task 2
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
 
-3. TODO: task 3
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
 
 
 ### Participant 1 (Final Submission)
@@ -1120,20 +1108,49 @@ TODO: add more tasks if necessary (a good rule of thumb is a task for every user
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+Coby is an ex-Cornellian (dropped out of Cornell last year) who now lives in Ithaca.  He's not currently working, so he spends a lot of his free time doing outdoorsy stuff.  Even though he dropped out of Cornell, he stays in touch with his friends through SOUP.  He's 22 years old and he's from NYC.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, he's a member of the site's audience because although he no longer goes to Cornell, he participates in SOUP events.
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
+
+   - starting from the home page, he first goes to the upcoming events page
+   - sees instagram on the bottom (possible means of getting in touch with SOUP leadership)
+   - goes to Join Us page
+   - sees SOUP email (task complete)
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+   - navigates to home page
+   - scrolls down until he sees history section
+   - finds year SOUP was founded (2020) in history section (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+    - navigates to upcoming events page
+    - reads description of 161 things competition, doesn't click on the expand button
+    - scrolls to capture the flag and reads the description
+    - clicks on expand button and reads details section and sees dates (task complete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+    - navigates to Join Us page
+    - scrolls down to flyer
+    - scans QR code on the flyer
+    - links to wrong GroupMe group (this one is for a specific event, it's not the general SOUP GroupMe)
+    - returns to site
+    - scrolls a little bit further down and finds GroupMe link (task complete)
+
+  Note for later: we could maybe move the GroupMe link above the flyer.
 
 
 ### Participant 2 (Final Submission)
@@ -1141,50 +1158,172 @@ TODO: participant user test notes
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
-
+  Tas is a junior studying data science at Cornell.  He's in Arts and Sciences.  He's from NYC (Brooklyn) and he's 20 years old.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
-
+  Yes, he's part of the site's audience.
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
 
+- starts on home page
+- scrolls to bottom of the page
+- mentions that usually there is contact info on the bottom of a page in the footer
+- scrolls back up a bit and scans the home page
+- asks if he should contact them through Instagram
+- navigates to Join Us page
+- sees email (task complete)
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+- from the join us page, navigates to past events page
+- scrolls down and scans the page quickly
+- says "hmmm I'm not seeing it... maybe on the home page?"
+- navigates to the home page
+- scrolls down and sees history section (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+- navigates to upcoming events page from home page
+- sees 161 things and reads description
+- clicks on external link to read more about it
+- says "Ohhhh yeah I've heard about this!"
+- naviagtes back to SOUP site
+- clicks on event details and reads them (task complete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+- from upcoming events page, navigates to join us page
+- scrolls down to the bottom
+- sees GroupMe link
+- says "Oh I found it but it's a little confusing because I thought I might have to scan the code."
+- task complete
 
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
-
+  Daria is a Cornell sophomore studying physics.  They are involved in a lot of clubs/activities on Campus including SOUP and Outing Club.  They are from Madaba, Jordan and came to the US for college.  They like doing outdoor activities in Ithaca because the landscape and opportunities for outdoor things are very different from Jordan.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
-
+  Yes.
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
+
+- starts on the home page
+- says "I really like the colors!"
+- navigates to upcoming events page
+- asks for clarification about the task (find contact information for SOUP leadership to get in touch with them about an upcoming event)
+- clicks on all of the expand buttons for each event and notes that one of the descriptions says that they should get in touch with SOUP leadership
+- they note that it's weird how the site says to get in touch with leadership but doesn't provide an email or anything
+- navigates to join us page
+- finds email (task complete)
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+- navigates to home page
+- scrolls down and sees history section
+- finds year of founding (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+- navigates to upcoming events page
+- scrolls down until they find an event that they like the description of (Manhunt)
+- clicks on event details button
+- notes that there's no date provided and they'd have to contact SOUP to find out more information (task complete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+- scrolls down to the bottom of the page, noting that usually there's social media links there on websites
+- navigates to join us page
+- scrolls down and sees QR code, asks "is this it?"
+- reads the text next to it and says "oh wait no, it's not"
+- scrolls down a bit more on the join us page
+- finds GroupMe link (task complete)
 
 
-TODO: add more participants if necessary
+### Participant 4 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+  Zeh (Alizeh but Zeh for short) is a Cornell senior studying human development and hoping to become a therapist.  She's going to Texas for an internship this summer and then she's going to start applying to grad programs next year.  She's from Rochester, NY.
+
+1. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+  Yes, she grew up doing lots of hiking and going to summer camps, and she's been involved with Cornell Outdoor Education at Cornell since her sophomore year.
+
+### Participant 4 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
+
+- starts on the home page
+- says "I think I'd probably find contact info on the join us page, right?"
+- goes to the join us page
+- finds email (task complete)
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+- navigates to the past events page
+- scrolls down and scans the page
+- reaches the bottom of the page and sees the "since 2020" part of the footer (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+- navigates to upcoming events page
+- clicks on the event details button for 161 things competition
+- sees dates in the event details section (task complete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+- navigates to the join us page from the upcoming events page
+- scrolls down to the way bottom (says, "usually contact information and social media and stuff is at the bottom of the page, right?")
+- scans the footer for GroupMe info
+- scrolls up a bit and sees the GroupMe link and clicks on it (and joins SOUP!) (task complete)
 
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+1. Add SOUP email to upcoming events page when the event information section says to contact SOUP leadership for more details.
+
+  Some users that participated in our user testing found it annoying that the event details section for the Manhunt game requested that users email SOUP for more information, but no email was provided.  We will address this issue by adding the email to this section of the Upcoming Events page.
+
+2. Put GroupMe above flyer on Join Us page.
+
+  At least one user was confused by the link to the main GroupMe being so close to the QR code for the event-specific GroupMe, and it didn't help that the main GroupMe was both below the QR code and less prominently displayed than the QR code.
+
+  2a. Possibly also enhance the link to the GroupMe by making it look like a button?
+
+3. Add email and GroupMe link to footer
+
+  Many users that participated in our user testing mentioned that usually all social media/contact information is in the footer on a website, so we will alter the website to accommodate these expectations.
+
+Changes to make in general (not related to user testing):
+
+- change "events details" to "event details" on upcoming events page
+- make all photos the same height on main page in the carousel (and make the largest photos smaller; they're very big right now)
+- add margins/padding to text and photos on past events page so they don't touch the edges of the page
+- add margins/padding to text on join us page so it does't touch the edges of the page
+- make footer smaller on upcoming events page
+- make photos smaller on upcoming events page when page is resized to narrow
+- center flyer on join us page when page is resized to narrow
+- make photos bigger on home page (image carousel) when the page is very narrow 
 
 
 ## Grading (Final Submission)
