@@ -91,6 +91,11 @@ header {
     height: 40px
 }
 
+.citation {
+    font-size: 10px;
+    color: #656995;
+}
+
 .section {
     display: flex;
     flex-direction: row;

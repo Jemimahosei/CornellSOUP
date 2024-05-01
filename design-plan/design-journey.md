@@ -391,42 +391,30 @@ Tessa is a Cornell Freshman studying Psychology. Tessa is someone who enjoys phs
    - She teaches classes through the outdoor education department here at Cornell.
    -  She is also i She is also Involved with Soup and On the eboard for the outing club
 
-
-
     2a. What brought you to the event or attracted you to the organization?
     - She wanted to try new things
     - Find ways to get active and be outside
-
-
 
     2b. Did you seek out information about the event/organization?
     - She was one of the founding fathers of Cornell Soup
 
     2b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
-
     2c. How was your experience at the event or as a part of the organization? Tell me a bit about it.
     - A bunch of friends doing stuff all together and have experiences that were outside the box
-
-
 
 3. Are you currently or have you previously been involved in SOUP?  If yes (involved):
    - Not as active this semester
 
-
    3a. Why did you join SOUP?
     - Because it was a  bunch of friends doing stuff all together and having experiences that were outside the box
-
-
-
 
    3b. Before joining, did you seek out information about the organization?
    3b i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
 
    3c. After joining, did you seek out information about the organization?
    3c i. If yes, what information were you specifically looking for? Did you find it? How did you access that information?
-    - Through Quarter cards to dorms, group me regularly,the outing  club
-
+    - Through Quarter cards to dorms, group me regularly,the outing club
 
 4. 4a. How is/was your experience as a part of the organization? Tell me a bit about it.
 
@@ -666,7 +654,7 @@ Join Us Page: This page directly addresses the goal of potential new members to 
 
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
->
+
 Theme idea 1: classic woodsy nature theme
 
 Color: (greens, greys, and whites with accents of orange)
@@ -847,7 +835,6 @@ The drop-down features we're using allow users to read the title of an upcoming 
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 - Hamburger menu pseudocode:
-
 
 
 **Hamburger menu pseudocode**
@@ -1109,7 +1096,7 @@ Feedback on whole site/general feedback:
 
 1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
 
-2. You're interested in the history of SOUP and the story of it's founding. Identify the year SOUP was founded.
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
 
 3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
 
@@ -1121,20 +1108,49 @@ Feedback on whole site/general feedback:
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+Coby is an ex-Cornellian (dropped out of Cornell last year) who now lives in Ithaca.  He's not currently working, so he spends a lot of his free time doing outdoorsy stuff.  Even though he dropped out of Cornell, he stays in touch with his friends through SOUP.  He's 22 years old and he's from NYC.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, he's a member of the site's audience because although he no longer goes to Cornell, he participates in SOUP events.
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
+
+   - starting from the home page, he first goes to the upcoming events page
+   - sees instagram on the bottom (possible means of getting in touch with SOUP leadership)
+   - goes to Join Us page
+   - sees SOUP email (task complete)
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+   - navigates to home page
+   - scrolls down until he sees history section
+   - finds year SOUP was founded (2020) in history section (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+    - navigates to upcoming events page
+    - reads description of 161 things competition, doesn't click on the expand button
+    - scrolls to capture the flag and reads the description
+    - clicks on expand button and reads details section and sees dates (task complete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+    - navigates to Join Us page
+    - scrolls down to flyer
+    - scans QR code on the flyer
+    - links to wrong GroupMe group (this one is for a specific event, it's not the general SOUP GroupMe)
+    - returns to site
+    - scrolls a little bit further down and finds GroupMe link (task complete)
+
+  Note for later: we could maybe move the GroupMe link above the flyer.
 
 
 ### Participant 2 (Final Submission)
