@@ -1374,8 +1374,6 @@ Changes to make in general (not related to user testing):
 - make photos smaller on upcoming events page when page is resized to narrow
 - center flyer on join us page when page is resized to narrow
 - make photos bigger on home page (image carousel) when the page is very narrow
-<<<<<<< HEAD
-=======
 - make photos bigger on home page (image carousel) when the page is very narrow
 
 Isabel:
@@ -1395,7 +1393,6 @@ Jemimah:
 - put groupme link in upcoming events page (Manhunt)
 - fix to "event details" on dropdown button on upcoming events page
 - double check that photos resize upon narrowing (follow example from past events page)
->>>>>>> fd953eefc2066d2952a537a128061bcf78166361
 
 
 ## Grading (Final Submission)
