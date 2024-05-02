@@ -1339,9 +1339,58 @@ Yes, he's a member of the site's audience because she participates in outdoorsy 
 
 4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
 
-    - navigates to Join Us pag
+    - navigates to Join Us page
     - scrolls a little bit further down and finds GroupMe link (task complete)
 
+
+### Participant 6 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+  - The user is Olivia.
+  - She is a Cornell Sophomore.
+  - She's from Maryland.
+  - She's majoring in Information Science and taking a Minor in Economics.
+  - She loves having fun with friends outdoors and is thinking of joining SOUP.
+
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+  - Yes. She is part of the audience because she loves camping and outdoor fun and is looking into joining SOUP next semester.
+
+
+### Participant 6 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+1. Suppose that you want to inquire with SOUP leadership about an upcoming event. Look up and identify the contact information for SOUP membership.
+
+
+   - She starts on the home page which she finds captivating and reads through the page first.
+   - She goes through the footer but doesn't find it.
+   - She checks the Upcoming Events page next thinking that's where it is but doesn't see it there either.
+   - She finally checks the Join Us page and finds the email (task complete)
+
+2. You're interested in the history of SOUP and the story of its founding. Identify the year SOUP was founded.
+
+   - Starts on the home page again.
+   - She had read through it previously so she goes straight to the history section.
+   - Finds the story of SOUP's founding and identifies the year SOUP was founded as 2020. (task complete)
+
+3. Suppose you're interested in attending an upcoming SOUP event. Look up and identify the date of one upcoming event you would like to attend.
+
+    - She goes to the Upcoming Events Page
+    - She looks through the paragraphs of the events and is captivated by the upcoming Capture the Flag event.
+    - She clicks on the plus button and finds more details on the event.
+    - Identifies the dates as August 31st, 2024 - September 1st, 2024 (task incomplete)
+
+4. You are a member of SOUP and have successfully recruited your friends to SOUP! Find the link to the GroupMe so they can join it to chat with other SOUP members and learn more about events.
+
+   - She scrolls down to the footer first to try and see if that's where it is
+   - Only sees the email and instagram account on the footer but no link to the GroupMe
+   - She navigates to the join us page.
+   - Reads through and finds the link to join the SOUP GroupMe right before the flyer. (task complete)
 
 
 ## Website Revision Based on User Testing (Final Submission)
@@ -1390,6 +1439,10 @@ Jemimah:
 - put groupme link in upcoming events page (Manhunt)
 - fix to "event details" on dropdown button on upcoming events page
 - double check that photos resize upon narrowing (follow example from past events page)
+
+Beryl
+ - add padding to Jemimah's page images
+ - fix width of dropdown bar
 
 
 ## Grading (Final Submission)
