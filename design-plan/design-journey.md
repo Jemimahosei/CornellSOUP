@@ -1420,7 +1420,7 @@ Changes to make in general (not related to user testing):
 - center flyer on join us page when page is resized to narrow
 - make photos bigger on home page (image carousel) when the page is very narrow
 - make photos bigger on home page (image carousel) when the page is very narrow
-- use a close button to close the dropdown in the navigation menu.
+
 
 Isabel:
 - resize images in carousel
@@ -1443,7 +1443,6 @@ Jemimah:
 Beryl
  - add padding to Jemimah's page images
  - fix width of dropdown bar
- - add a close button (x) to the drop down in the navigation menu
 
 
 ## Grading (Final Submission)

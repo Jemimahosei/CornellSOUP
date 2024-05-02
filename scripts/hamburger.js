@@ -24,16 +24,9 @@ $(window).resize(function() {
 });
 
 $("#hamburger").click(function() {
-  $("#hamburger").addClass("hidden");
   if ($("#drop-down").hasClass("hidden")) {
     $("#drop-down").removeClass("hidden");
   } else {
     $("#drop-down").addClass("hidden");
   }
-});
-
-
-$("#exitBtn").click(function() {
-  $("#drop-down").addClass("hidden");
-  $("#hamburger").removeClass("hidden");
 });
