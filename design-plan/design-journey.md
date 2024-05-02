@@ -1345,7 +1345,7 @@ Coby is an ex-Cornellian (dropped out of Cornell last year) who now lives in Ith
     - navigates to Join Us pag
     - scrolls a little bit further down and finds GroupMe link (task complete)
 
-  
+
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
@@ -1374,6 +1374,28 @@ Changes to make in general (not related to user testing):
 - make photos smaller on upcoming events page when page is resized to narrow
 - center flyer on join us page when page is resized to narrow
 - make photos bigger on home page (image carousel) when the page is very narrow
+<<<<<<< HEAD
+=======
+- make photos bigger on home page (image carousel) when the page is very narrow
+
+Isabel:
+- resize images in carousel
+- fix groupme link on join us page
+- double check that photos resize upon narrowing (follow example from past events page)
+
+Robyn:
+- add padding
+- fix big footer on one page
+- add email and groupme to footer
+- look into hover effect on image carousel buttons
+- uniform headings on all pages
+- double check that photos resize upon narrowing (follow example from past events page)
+
+Jemimah:
+- put groupme link in upcoming events page (Manhunt)
+- fix to "event details" on dropdown button on upcoming events page
+- double check that photos resize upon narrowing (follow example from past events page)
+>>>>>>> fd953eefc2066d2952a537a128061bcf78166361
 
 
 ## Grading (Final Submission)
@@ -1389,3 +1411,4 @@ TODO: list your collaborators
 > (i.e. tutorials, W3Schools, StackOverflow, Mozilla, etc.)
 
 - photo editor to make background of logo transparent: https://www.fotor.com/features/background-remover/upload
+- photo editor to resize images: https://pixlr.com/editor/

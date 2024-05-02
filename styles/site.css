@@ -276,7 +276,7 @@ footer {
 }
 
 .history {
-    width: 60%;
+    width: 50%;
     margin: 20px 20px 40px 20px;
 }
 
@@ -290,7 +290,7 @@ footer {
 }
 
 .quotes {
-    width: 40%;
+    width: 50%;
     margin: 20px 20px 50px 20px;
 }
 
@@ -442,11 +442,57 @@ footer {
     background-color: #2596be;
 }
 
+.join-us-title h1 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 0px 0px 20px 0px;
+}
+
+.join-us-all {
+    padding: 30px 30px 50px 30px;
+}
+
+.past-events-title {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 0px 0px 20px 0px;
+}
+
+.past-events h3 {
+    font-size: 24px;
+}
+
+.poems-title {
+    font-size: 30px;
+}
+
+.past-events-all {
+    padding: 20px 20px 50px 20px;
+}
+
+.past-events figcaption {
+    padding-bottom: 20px;
+}
+
+.poem1 p {
+    padding-right: 5px;
+}
+
+.poem1 h3 {
+    padding-left: 0px;
+}
+
+.poem2 p, h3 {
+    padding-left: 5px;
+}
+
+
 /* for mobile version */
 @media (max-width: 800px) {
     .hist-quotes {
         flex-direction: column;
-
     }
 
     .history {
@@ -487,14 +533,13 @@ footer {
     }
 
     .picture {
-        margin-left:auto;
+        margin-left: auto;
         margin-right: auto;
     }
 
     .paragraph-section {
         text-align: center;
     }
-
 
     .flyer {
         display: flex;
@@ -510,6 +555,7 @@ footer {
         align-items: center;
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 20px;
     }
 
     .flyer img{
@@ -517,5 +563,7 @@ footer {
         height: auto;
         margin-left: auto;
         margin-right: auto;
+        justify-content: center;
+        align-content: center;
     }
-   }
+}
