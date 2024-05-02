@@ -24,9 +24,9 @@ $(window).resize(function() {
 });
 
 $("#hamburger").click(function() {
-    if ($("#drop-down").hasClass("hidden")) {
-      $("#drop-down").removeClass("hidden");
-    } else {
-      $("#drop-down").addClass("hidden");
-    }
+  if ($("#drop-down").hasClass("hidden")) {
+    $("#drop-down").removeClass("hidden");
+  } else {
+    $("#drop-down").addClass("hidden");
+  }
 });
