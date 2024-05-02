@@ -324,6 +324,7 @@ footer {
 .drop-down {
     border-block: solid;
     border-color: #2596be;
+    width: 100%;
 }
 
 .drop-down a {
@@ -487,6 +488,11 @@ footer {
 .poem2 p, h3 {
     padding-left: 5px;
 }
+
+.picture img {
+    margin-left: 15px;
+}
+
 
 
 /* for mobile version */
