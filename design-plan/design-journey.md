@@ -1298,21 +1298,18 @@ Coby is an ex-Cornellian (dropped out of Cornell last year) who now lives in Ith
 
 
 
-
-
-
 ### Participant 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-  > Akosua is a cornell freshman from Ghana who lives on north campus and loves the ourdoors
 
+Akosua is a cornell freshman from Ghana who lives on north campus and loves the ourdoors
 
-1. Does the user belong to your audience of the site?
+2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    Yes, he's a member of the site's audience because she participates in outdoorsy activities
+Yes, he's a member of the site's audience because she participates in outdoorsy activities
 
 
 ### Participant 5 -- Testing Notes (Final Submission)
@@ -1400,7 +1397,10 @@ Jemimah:
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+- SOUP leadership (content collaboration)
+- course textbook
+- course notes
+- no other collaborators
 
 
 ### Reference Resources (Final Submission)
