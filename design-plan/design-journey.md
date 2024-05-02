@@ -1384,11 +1384,11 @@ Isabel:
 - double check that photos resize upon narrowing (follow example from past events page)
 
 Robyn:
-- add padding
-- fix big footer on one page
-- add email and groupme to footer
-- look into hover effect on image carousel buttons
-- uniform headings on all pages
+- add padding DONE
+- fix big footer on one page DONE
+- add email and groupme to footer DONE
+- look into hover effect on image carousel buttons DONE
+- uniform headings on all pages DONE
 - double check that photos resize upon narrowing (follow example from past events page)
 
 Jemimah:
@@ -1412,3 +1412,4 @@ TODO: list your collaborators
 
 - photo editor to make background of logo transparent: https://www.fotor.com/features/background-remover/upload
 - photo editor to resize images: https://pixlr.com/editor/
+- reference for creating hover effect on carousel buttons: https://www.w3schools.com/css/css3_buttons.asp

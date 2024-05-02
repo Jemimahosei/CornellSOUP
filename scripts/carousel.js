@@ -1,10 +1,3 @@
-// when #button-r clicked: (on-click-element event snippet)
-//   show next slide (next slide snippet)
-//   fill in next bubble
-
-// when #button-l clicked: (on-click-element event snippet)
-//   show previous slide (next slide snippet)
-//   fill in previous bubble
 
 $(document).ready(function() {
   $("#s2").addClass("hidden");
