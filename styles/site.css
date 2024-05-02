@@ -494,6 +494,18 @@ footer {
 }
 
 
+.exit-btn {
+    display: none;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+
+
+
 
 /* for mobile version */
 @media (max-width: 800px) {
@@ -585,4 +597,21 @@ footer {
         margin-right: auto;
         margin-left: auto;
     }
+
+    .exit-btn {
+        display: block;
+        background-color: transparent;
+        border: none;
+        font-size: 26px;
+        cursor: pointer;
+        color: #dd9c0e;
+        float: left;
+        font-weight: bold;
+      }
+
+    .exit-btn:hover,
+    .exit-btn:focus {
+        color: rgb(235, 95, 1);
+        text-decoration: none;
+      }
 }
