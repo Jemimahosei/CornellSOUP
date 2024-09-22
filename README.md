@@ -1,4 +1,6 @@
 # Group Project: Design Journey for Cornell SOUP
+## [Group Project: Design Journey for Cornell SOUP](https://jemimahosei.github.io/CornellSOUP/)
+
 
 ## Client Description 
 Cornell SOUP (Students for Outdoor Unsupervised Playtime) is a vibrant unofficial campus club that has amassed over 450 members, all sharing a passion for adventurous outdoor activities. The club seeks a user-friendly website to facilitate communication among its members and attract new participants. This website needs to offer more functionality than platforms like Instagram or GroupMe, which the club currently uses. Key features will include details about upcoming events, a gallery showcasing past adventures, and an explanation of the club's mission and history.
