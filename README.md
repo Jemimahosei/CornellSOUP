@@ -1,38 +1,61 @@
-# Group Project
+# Group Project: Design Journey for Cornell SOUP
 
-**tl;dr** **Create a website for a client as a team.** 
+## Client Description 
+Cornell SOUP (Students for Outdoor Unsupervised Playtime) is a vibrant unofficial campus club that has amassed over 450 members, all sharing a passion for adventurous outdoor activities. The club seeks a user-friendly website to facilitate communication among its members and attract new participants. This website needs to offer more functionality than platforms like Instagram or GroupMe, which the club currently uses. Key features will include details about upcoming events, a gallery showcasing past adventures, and an explanation of the club's mission and history.
 
-# Resources
+## Client Goals
+In our initial discussions with the client, we identified several key goals for the website:
 
-**Project Documents:**
+- **Showcase Past Events**: Highlight the club's activities to attract new members.
+- **Advertise Upcoming Events**: Provide clear information on future events to encourage participation.
+- **Explain SOUP's Mission and History**: Offer insight into the club’s purpose and background to foster a sense of community.
+- **Provide Information on How to Pitch Events**: Enable members to propose their own activities effectively.
 
-- [Group Project  > Overview](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/group-project.html)
-- [Group Project  > Requirements](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pg-requirements.html)
-- [Group Project  > Milestone 1](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pgm1.html)
-- [Group Project  > Milestone 2](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pgm2.html)
-- [Group Project  > Final Deliverable](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pgfin.html)
+## User Insights
+To ensure the website meets user needs, we conducted interviews with existing club members. The feedback revealed that users prioritize:
 
-**Client Resources:**
+- **Clear and Consistent Information**: Members want straightforward details about events to plan their participation.
+- **Engagement Opportunities**: They seek ways to connect with fellow outdoor enthusiasts.
+- **Understanding SOUP’s Mission**: A clear explanation of the club’s goals is crucial for fostering community spirit.
 
-- [Group Project  > Client Hosting](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/client-hosting-info.html)
-- [Group Project  > Client Project Info](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/client-project-info.html)
+## Content Planning & Information Architecture
+Armed with insights from user interviews, we began organizing the website’s content into intuitive categories. We chose to structure the site around four main sections:
 
-**Coding Resources:**
+1. **Upcoming Events**: A dedicated space for users to find information on what’s coming up.
+2. **Past Events**: Showcasing previous activities to highlight the club’s vibrant history.
+3. **How to Get Involved**: A guide for new members on how to participate and pitch their own events.
+4. **General Information about SOUP**: Offering context about the club’s mission and operations.
 
-- [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Markdown Reference Documentation](https://commonmark.org/help/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+### Iteration 1
+In our first design iteration through card sorting, we separated past and upcoming events into distinct sections, improving clarity for users. Feedback from our initial presentation prompted us to include links to the club's Instagram and GroupMe for seamless communication.
 
-- [Group Project  > Interactivity Snippets](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/pg-interactivity-snippets.html)
-- [Group Project  > Accessibility Checklist](https://pages.github.coecis.cornell.edu/info1300-2024sp/info1300-2024sp-documents/assignments/group-project/accessibility-checklist.html)
+![First iteration of card sorting for content organization](content-iteration1.png)
 
-# Submission Instructions
+### Iteration 2
+Our second iteration involved enhancing the visibility of major events, such as "Capture the Flag" and "161 Things." We created specific categories for these to make them more prominent and merged general information with contact details to streamline user access.
 
-Stage, commit and push **all** changed files in your Git repository to GitHub. (All commits must reside on the _main_ branch.)
+![Second iteration of card sorting for content organization](content-iteration2.png)
 
-Then, **one** team member should fill-out the [submission form](https://cornell.ca1.qualtrics.com/jfe/form/SV_6ytbtFEheWFOMR0) to finalize your team's submission.
+## Final Content Organization 
+After evaluating our iterations, we selected **Iteration 1** as the foundation for the website layout. This choice was influenced by user feedback and our goal of ensuring the content directly addressed member needs. We focused on integrating engaging visuals from past events to draw in visitors.
 
-_Every_ team member is required to check that the correct Git commit/hash was submitted and that the commit is complete and ready to be graded.
+## Navigation
+To facilitate easy exploration of the site, we organized the navigation into clear, intuitive pages: "Home," "Past Events," "Upcoming Events," and "Join Us." This structure is designed to guide users effortlessly to the information they seek.
 
-**Tip:** Who ever submits the submission form should forward the confirmation email to all team members so that _everyone_ may check the submission.
+## Visual Theme
+For the visual design, we opted for a playful, outdoorsy aesthetic. Bright colors like orange, yellow, and blue were chosen to convey the energetic spirit of the club. Additionally, varying font styles will create a dynamic and inviting atmosphere, encouraging visitors to explore.
+
+## Interactivity Plan
+To enhance user experience, we implemented several common web patterns:
+
+- **Hamburger Menu**: This design choice will streamline navigation on mobile devices, making it easy to access different sections.
+- **Image Carousel**: A carousel will efficiently showcase event photos, allowing users to engage with the club’s past activities without overwhelming them with static images.
+- **Drop-down Features**: We will incorporate drop-down menus for quick access to event details, further simplifying navigation.
+
+## Client Feedback & Iterations
+After presenting our designs, we received positive feedback on the color scheme and layout. However, the client suggested minor adjustments, such as improving text alignment and resizing images for better aesthetics.
+
+## User Testing
+During user testing, we identified several areas for improvement, including the need for consistent image heights in carousels and enhanced margins and padding for better readability. These adjustments aim to create a more polished and user-friendly experience.
+
+This project has been a collaborative effort that exemplifies our focus on web design centered around user needs and effective communication with the client. We look forward to refining our vision for the Cornell SOUP website as we move forward.
