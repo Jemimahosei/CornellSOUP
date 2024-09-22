@@ -29,12 +29,12 @@ Armed with insights from user interviews, we began organizing the website’s co
 ### Iteration 1
 In our first design iteration through card sorting, we separated past and upcoming events into distinct sections, improving clarity for users. Feedback from our initial presentation prompted us to include links to the club's Instagram and GroupMe for seamless communication.
 
-![First iteration of card sorting for content organization](content-iteration1.png)
+![First iteration of card sorting for content organization](design-plan/content-iteration1.png)
 
 ### Iteration 2
 Our second iteration involved enhancing the visibility of major events, such as "Capture the Flag" and "161 Things." We created specific categories for these to make them more prominent and merged general information with contact details to streamline user access.
 
-![Second iteration of card sorting for content organization](content-iteration2.png)
+![Second iteration of card sorting for content organization](design-plan/content-iteration2.png)
 
 ## Final Content Organization 
 After evaluating our iterations, we selected **Iteration 1** as the foundation for the website layout. This choice was influenced by user feedback and our goal of ensuring the content directly addressed member needs. We focused on integrating engaging visuals from past events to draw in visitors.
