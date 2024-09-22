@@ -1,5 +1,5 @@
 # Group Project: Design Journey for Cornell SOUP
-## [Group Project: Design Journey for Cornell SOUP](https://jemimahosei.github.io/CornellSOUP/)
+## [Live website-Cornell SOUP](https://jemimahosei.github.io/CornellSOUP/)
 
 
 ## Client Description 
